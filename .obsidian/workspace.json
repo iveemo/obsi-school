@@ -1,0 +1,244 @@
+{
+  "main": {
+    "id": "8635a6a9c513bb23",
+    "type": "split",
+    "children": [
+      {
+        "id": "17305833bdd4136e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "dfb9741cc1a6187d",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Sep, 4–Sep, 6"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "ce092590e5f5e7ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "160cfafa9c458643",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3862ac80324f7886",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "571f710b4e6f9587",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "a6467ebf94d76bc5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "9f271db35f23e4ba",
+    "type": "split",
+    "children": [
+      {
+        "id": "7322362c3e831a2e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d0c8e7ba1868b196",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3.klasse/itsi/Untitled.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Untitled"
+            }
+          },
+          {
+            "id": "07fa4d98d3b04d89",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3.klasse/itsi/Untitled.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Untitled"
+            }
+          },
+          {
+            "id": "70c47bd8f5fe530a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "bfceb12e44248323",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3.klasse/itsi/Untitled.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Untitled"
+            }
+          },
+          {
+            "id": "d221114d1abb5ea8",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "a1f890c308f303f6",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          },
+          {
+            "id": "03caf61b89719afa",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
+  "active": "8c844c89500d9e37",
+  "lastOpenFiles": [
+    "4.klasse/nwt/5 Dynamic Routing.md",
+    "index.md",
+    "excalidraw/scripts",
+    "02-09-2025.md",
+    "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49.excalidraw.svg",
+    "excalidraw/Verschlüsselung 2025-08-29 23.54.46.excalidraw.md",
+    "4.klasse/nawi/Schwingungen und Wellen.md",
+    "4.klasse/nawi/4kl-nawi.md",
+    "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49-old.excalidraw.md",
+    "excalidraw/scripts/Template.excalidraw.md",
+    "4.klasse/mathe/4kl-mathe.md",
+    "4.klasse/4te-klasse.md",
+    "4.klasse/nwt/4kl-nwt.md",
+    "03-09-2025.md",
+    "4.klasse/nawi/Aufgaben",
+    "4.klasse/nawi/Untitled.canvas",
+    "4.klasse/nawi/Aufgaebn",
+    "3.klasse/itsi/Verschlüsselung.md",
+    "images/Ink/Drawing/2025.9.2 - 9.08am.drawing",
+    "Ink/Writing",
+    "Ink/Drawing",
+    "Ink",
+    "images/Ink/Drawing/2025.9.2 - 9.06am.drawing",
+    "excalidraw/Verschlüsselung 2025-09-01 08.57.40.excalidraw.md",
+    "3.klasse/itsi/WLAN.md",
+    "images/Ink/Drawing/2025.8.30 - 20.51pm.drawing",
+    "images/Ink/Drawing",
+    "excalidraw/Drawing 2025-08-30 20.51.22.excalidraw.md",
+    "3.klasse/itsi/Datenarten.md",
+    "3.klasse/itsi/Anrgiffs Vektoren.md",
+    "3.klasse/itsi/Benutzerkategorien.md",
+    "3.klasse/itsi/Wiederholung.md",
+    "4.klasse/sew/4kl-sew.md",
+    "4.klasse/itsi/4kl-itsi.md",
+    "4.klasse/insy/4kl-insy.md",
+    "4.klasse/ggp/4kl-ggp.md",
+    "4.klasse/englisch/4kl-eng.md"
+  ]
+}
