@@ -3,11 +3,14 @@
   "calendar",
   "dataview",
   "obsidian-annotator",
-  "obsidian-day-planner",
   "obsidian-excalidraw-plugin",
   "multi-properties",
   "omnisearch",
   "ink",
   "arrows-in-md",
-  "obsidian-desmos"
+  "obsidian-desmos",
+  "obsidian-day-planner",
+  "statusbar-organizer",
+  "obsidian42-brat",
+  "webuntis-day-planner"
 ]

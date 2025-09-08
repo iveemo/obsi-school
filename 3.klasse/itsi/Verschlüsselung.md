@@ -24,5 +24,3 @@ Dateien -> 128 Bit Blöcke
 
 
 ![[Verschlüsselung 2025-08-29 23.54.46.excalidraw]]
-
-![[Verschlüsselung 2025-09-01 08.57.40.excalidraw]]

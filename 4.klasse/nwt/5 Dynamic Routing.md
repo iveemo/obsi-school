@@ -32,7 +32,7 @@ E) 11110xxx. reserviert
 
 1) Markierung "nicht mehr erreichbar" (Hopcount 16)
 2) Hold-down-Timer (180s)
-3) Split-hiron w/ poison reverse
+3) Split-horizon w/ poison reverse
 
 
 ##### resources 
