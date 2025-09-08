@@ -31,6 +31,14 @@
       "plugin-obsidian-git;1": {
         "position": 7,
         "visible": false
+      },
+      "plugin-webuntis-day-planner;1": {
+        "position": 8,
+        "visible": true
+      },
+      "plugin-obsidian-git;2": {
+        "position": 9,
+        "visible": true
       }
     }
   },
