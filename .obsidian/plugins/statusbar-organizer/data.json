@@ -34,11 +34,11 @@
       },
       "plugin-webuntis-day-planner;1": {
         "position": 8,
-        "visible": true
+        "visible": false
       },
       "plugin-obsidian-git;2": {
         "position": 9,
-        "visible": true
+        "visible": false
       }
     }
   },
