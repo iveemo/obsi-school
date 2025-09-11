@@ -22,15 +22,39 @@
             }
           },
           {
+            "id": "d1909a0794172879",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Sep, 8–Sep, 12"
+            }
+          },
+          {
             "id": "6109435404d79971",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf"
+                "file": "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Aufgabenblatt_Schwingungen_und_Wellen"
+              "icon": "lucide-file",
+              "title": "Aufgaben_Schwingung"
+            }
+          },
+          {
+            "id": "27b3c9610809ffd5",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalidraw/Aufgaben_Schwingung 2025-09-11 09.49.34.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Aufgaben_Schwingung 2025-09-11 09.49.34.excalidraw"
             }
           }
         ],
@@ -220,14 +244,21 @@
       "webuntis-day-planner:WebUntis Day Planner": false
     }
   },
-  "active": "6109435404d79971",
+  "active": "d1909a0794172879",
   "lastOpenFiles": [
-    "4.klasse/nawi/Schwingungen und Wellen.md",
+    "4.klasse/calendar/17-09-2025.md",
+    "4.klasse/calendar/15-09-2025.md",
+    "4.klasse/calendar/16-09-2025.md",
+    "4.klasse/calendar/10-09-2025.md",
+    "excalidraw/Aufgaben_Schwingung 2025-09-11 09.49.34.excalidraw.md",
+    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
+    "images/Ink/Drawing/2025.9.11 - 9.49am.drawing",
     "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
+    "images/zeit-ort-diagramm_einer_harmonischen_schwingung.svg",
+    "4.klasse/nawi/Schwingungen und Wellen.md",
     "4.klasse/nawi/4kl-nawi.md",
     "4.klasse/calendar/11-09-2025.md",
     "4.klasse/calendar/08-09-2025.md",
-    "4.klasse/calendar/10-09-2025.md",
     "4.klasse/calendar/12-09-2025.md",
     "4.klasse/calendar/09-09-2025.md",
     "owo/11-09-2025.md",
@@ -246,18 +277,12 @@
     "4.klasse/calendar/18-03-1915.md",
     "4.klasse/calendar/05-09-2025.md",
     "4.klasse/calendar/2025-09-08.md",
-    "4.klasse/ggp/4kl-ggp.md",
-    "4.klasse/wir/4kl-wir.md",
-    "4.klasse/calendar/2025-09-09.md",
-    "4.klasse/calendar/2025-09-11.md",
-    "4.klasse/calendar/2025-09-10.md",
     "4.klasse/itsi/kryp",
     "Untitled.base",
     "4.klasse/itp",
     "4.klasse/wir/fryj",
     "4.klasse/wir",
     "images/Ink/Drawing/2025.9.4 - 16.08pm.drawing",
-    "images/Ink/Writing/2025.9.4 - 16.08pm.writing",
     "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49.excalidraw.svg",
     "4.klasse/nawi/Untitled.canvas"
   ]
