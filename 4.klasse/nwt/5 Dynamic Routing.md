@@ -34,6 +34,13 @@ E) 11110xxx. reserviert
 2) Hold-down-Timer (180s)
 3) Split-horizon w/ poison reverse
 
+## OSPF
+
+
+### DR and BDR (Backup Default Router)
+
+Default port priority: 1
+routing ID wins priortiy equals
 
 ##### resources 
 https://academic.nimal.info/files/ITN3162_05_Dynamic_Routing.pdf

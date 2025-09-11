@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/nwt/5 Dynamic Routing.md",
+                "file": "4.klasse/itsi/4kl-itsi.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "5 Dynamic Routing"
+              "title": "4kl-itsi"
             }
           }
         ],
@@ -209,7 +209,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -236,6 +236,7 @@
   },
   "active": "6109435404d79971",
   "lastOpenFiles": [
+    "4.klasse/nwt/5 Dynamic Routing.md",
     "index.md",
     "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
     "4.klasse/4te-klasse.md",
@@ -248,7 +249,6 @@
     "images/Pasted image 20250911105243.png",
     "4.klasse/sew/4kl-sew.md",
     "4.klasse/nawi/Schwingungen und Wellen.md",
-    "4.klasse/nwt/5 Dynamic Routing.md",
     "4.klasse/itsi/4kl-itsi.md",
     "4.klasse/itp/4kl-itp.md",
     "4.klasse/itp/Projekt-Theorie.md",
