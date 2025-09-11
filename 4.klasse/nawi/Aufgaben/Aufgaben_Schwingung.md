@@ -15,29 +15,23 @@ c)... die Auslenkung zu den Zeiten 0,5s, 2,0s, 2,5s und 16,5s
 
 ### Aufgabe 3.
 Ein Gewicht, das an einer Feder aufgehängt ist, bewegt sich 20 cm von seiner Ruhelage zweimal pro Sekunde auf und ab. Was ist seine Frequenz? Seine Periode? Seine Amplitude?
-
-**Aufgabe 4.** Nimm dir ein Geodreieck und ordne die folgenden Wellen von der größten  
-zur kleinsten mit Bezug auf die Wellenlänge und gib die Wellenlänge an. (Der Maßstab  
-ist 1 zu 1.)
-
-**Aufgabe 5.** Welche Art von Welle breitet sich durch ein materielles Medium aus?  
-a) Elektromagnetische Wellen  
-b) Wasserwellen  
-c) Radiowellen  
-d) Röntgenstrahlen  
-**Aufgabe 6.** Gib die Frequenz an, die eine Schwingung mit folgender Periodendauer hat.  
+### Aufgabe 4.
+Nimm dir ein Geodreieck und ordne die folgenden Wellen von der größten zur kleinsten mit Bezug auf die Wellenlänge und gib die Wellenlänge an. (Der Maßstab ist 1 zu 1.)
+### Aufgabe 5.
+Welche Art von Welle breitet sich durch ein materielles Medium aus?  
+	b) Wasserwellen  
+### Aufgabe 6.
+Gib die Frequenz an, die eine Schwingung mit folgender Periodendauer hat.  
 a. 0.10 s  
 b. 5 s  
 c. 1/60 s  
-**Aufgabe 7.** Gib die Periodendauer an, die eine Schwingung mit folgender Frequenz hat.  
+### Aufgabe 7.
+Gib die Periodendauer an, die eine Schwingung mit folgender Frequenz hat.  
 a. 10 Hz  
 b. 0.2 Hz  
 c. 60 Hz  
-**Aufgabe 8.** Wenn ihr einen Ton hört, dann liegt das daran, dass Schall euer Trommelfell zum Schwingen bringt. Der  
-Mensch kann im Durchschnitt Frequenzen von 20 𝐻𝑧 bis 20. 000 𝐻𝑧 wahrnehmen. Schwingt das Trommelfell mit einer  
-Frequenz, die außerhalb dieser Grenzen liegt, so kommt die Information „hier ist ein Ton“ nicht ins Bewusstsein.
-
-Ein Lautsprecher wird einmal mit einer harmonischen Schwingung (Sinusschwingung) mit 20 𝐻𝑧 und einmal mit einer Schwingung mit 20. 000 𝐻𝑧 betrieben.  
+### Aufgabe 8.
+Wenn ihr einen Ton hört, dann liegt das daran, dass Schall euer Trommelfell zum Schwingen bringt. Der Mensch kann im Durchschnitt Frequenzen von 20 𝐻𝑧 bis 20. 000 𝐻𝑧 wahrnehmen. Schwingt das Trommelfell mit einer Frequenz, die außerhalb dieser Grenzen liegt, so kommt die Information „hier ist ein Ton“ nicht ins Bewusstsein.Ein Lautsprecher wird einmal mit einer harmonischen Schwingung (Sinusschwingung) mit 20 𝐻𝑧 und einmal mit einer Schwingung mit 20. 000 𝐻𝑧 betrieben.  
 a) Berechne für beide Fälle, wie lang die Zeitspanne ist, vom Zeitpunkt, wo die Membran am vordersten Punkt ist, bis zum nächsten Zeitpunkt, wo dies der Fall ist.  
 b) Wie heißt die in a) berechnete Zeitdauer?
 
@@ -69,3 +63,27 @@ Zeichne eine Abbildung der Beugung am Spalt, ähnlich wie im Theorieteil, mit de
 
 ### Aufgabe 16. 
 Die Wellenlängen der Luftschallwellen von Stimmen sind etwa 1 m (je nachdem wie hoch oder tief die Person spricht). Begründe mit einer Skizze, dass die Beugung dafür sorgt, dass man einen sprechenden Menschen auch hören kann, wenn man nicht direkt vor ihm steht. (Beugung ist dafür nicht der einzige Grund, aber es ist ein Grund).
+
+## Interferenz
+### Aufgabe 17. 
+Hier sind vier verschiedene Paare von Wellenimpulsen, die sich  
+aufeinander zubewegen. Irgendwann treffen sich die Impulse und interagieren  
+miteinander (Interferenz). Ordne die vier Fälle in Bezug auf die Höhe des Peaks,  
+der entsteht, wenn sich die Zentren der Impulse überschneiden, von höchster  
+zu niedrigster Höhe.
+![[Pasted image 20250911104601.png|300]]
+
+### Aufgabe 18.
+Im Folgenden sind verschiedene 2er-Paare an Schwingungen gegeben. Skizziere den Funktionsgraph der überlagerten Schwingung!  
+a) Gleiche Frequenzen: Skizziere die Überlagerung. Ordne außerdem die folgenden Bezeichnungen zu.  
+	i. Wenn beide Schwingungen gleiche Frequenz und gleiche Phasenverschiebung haben spricht man von konstruktiver Interferenz.  
+	ii. Wenn die Phasenverschiebung 𝜋 beträgt und gleiche Amplituden herrschen, dann spricht man von destruktiver Interferenz.
+
+![[Pasted image 20250911105243.png]]
+
+b) Töne: Skizziere die Schwingung eines Trommelfells, wenn die folgenden Paare an Tönen auf das Ohr treffen. Ordne außerdem die folgenden Bezeichnungen zu.
+	i. Der Kammerton hat eine Frequenz von 440 𝐻𝑧.
+	ii. Die Oktave eines Tons ist die Schwingung, die die Doppelte Frequenz hat. Beispiel: Die Oktave des Kammertons hat eine Frequenz von 880 𝐻𝑧.
+	iii. Geht man am Klavier von einem Ton sieben Tasten weiter, so klingen beide Töne überlagert gut für den Menschen. Das Verhältnis der beiden Frequenzen ist 2:3. Nimmt man den Ton drei Tasten weiter auch dazu erhält man ein Moll (klingt traurig) (Frequenzverhältnis 6:5) Nimmt man stattdessen die vierte Taste dazu erhält man ein Dur (klingt fröhlich)
+
+![[Pasted image 20250911105718.png]] ![[Pasted image 20250911105742.png]]
