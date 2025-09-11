@@ -21,5 +21,11 @@ DSGVO (Datenschutz Grund Gesetz)
 
 Rechtmäßigkeit
 	explizit Zustimmen für Verarbeitung von seinen Daten
+
 Zweckbindung
 	darf nicht einfach nur Daten sammeln, weil ich die vielleicht irgendwann mal brauchen könnte. Man muss einen Zweck dazu angeben, wenn man es macht, z.B. Leitung beim Sport.
+
+Speicherbegrenzung
+	Nur so lange speichern wie lange die verarbeitungsdauer ist
+
+B
