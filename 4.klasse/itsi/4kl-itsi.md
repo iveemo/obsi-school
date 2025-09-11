@@ -28,4 +28,4 @@ Zweckbindung
 Speicherbegrenzung
 	Nur so lange speichern wie lange die verarbeitungsdauer ist
 
-B
+
