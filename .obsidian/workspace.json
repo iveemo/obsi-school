@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/itp/Projekt-Theorie.md",
+                "file": "4.klasse/sew/4kl-sew.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projekt-Theorie"
+              "title": "4kl-sew"
             }
           }
         ],
@@ -236,8 +236,9 @@
   },
   "active": "6109435404d79971",
   "lastOpenFiles": [
-    "4.klasse/itsi/4kl-itsi.md",
     "4.klasse/nwt/5 Dynamic Routing.md",
+    "4.klasse/itp/Projekt-Theorie.md",
+    "4.klasse/itsi/4kl-itsi.md",
     "index.md",
     "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
     "4.klasse/4te-klasse.md",
@@ -251,7 +252,6 @@
     "4.klasse/sew/4kl-sew.md",
     "4.klasse/nawi/Schwingungen und Wellen.md",
     "4.klasse/itp/4kl-itp.md",
-    "4.klasse/itp/Projekt-Theorie.md",
     "3.klasse/itsi/Verschlüsselung.md",
     "3.klasse/itsi/Datenarten.md",
     "3.klasse/itsi/Benutzerkategorien.md",
