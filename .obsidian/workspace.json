@@ -25,14 +25,12 @@
             "id": "6109435404d79971",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4.klasse/calendar/11-09-2025.md",
-                "mode": "source",
-                "source": false
+                "file": "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf"
               },
-              "icon": "lucide-file",
-              "title": "11-09-2025"
+              "icon": "lucide-file-text",
+              "title": "Aufgabenblatt_Schwingungen_und_Wellen"
             }
           }
         ],
@@ -201,7 +199,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,8 +222,11 @@
   },
   "active": "6109435404d79971",
   "lastOpenFiles": [
-    "4.klasse/calendar/08-09-2025.md",
+    "4.klasse/nawi/Schwingungen und Wellen.md",
+    "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
+    "4.klasse/nawi/4kl-nawi.md",
     "4.klasse/calendar/11-09-2025.md",
+    "4.klasse/calendar/08-09-2025.md",
     "4.klasse/calendar/10-09-2025.md",
     "4.klasse/calendar/12-09-2025.md",
     "4.klasse/calendar/09-09-2025.md",
@@ -249,8 +251,6 @@
     "4.klasse/calendar/2025-09-09.md",
     "4.klasse/calendar/2025-09-11.md",
     "4.klasse/calendar/2025-09-10.md",
-    "4.klasse/calendar/2025-09-12.md",
-    "owo/2025-09-08.md",
     "4.klasse/itsi/kryp",
     "Untitled.base",
     "4.klasse/itp",
@@ -258,7 +258,6 @@
     "4.klasse/wir",
     "images/Ink/Drawing/2025.9.4 - 16.08pm.drawing",
     "images/Ink/Writing/2025.9.4 - 16.08pm.writing",
-    "images/Ink/Writing",
     "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49.excalidraw.svg",
     "4.klasse/nawi/Untitled.canvas"
   ]
