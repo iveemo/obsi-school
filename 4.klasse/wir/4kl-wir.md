@@ -11,7 +11,6 @@ Sozialrecht
 ### Beurteilung
 1 Test / Semester
 Mitarbeit selst eingeschätzt
-
 ## wirtschaft
 3 WST -> 4 Jhg
 2 WST -> 5 Jhg
