@@ -41,3 +41,5 @@ int faku(int n)
 }
 ```
 ![[4kl-sew 2025-09-04 16.11.22.excalidraw|100%]]
+
+[[Threads]]

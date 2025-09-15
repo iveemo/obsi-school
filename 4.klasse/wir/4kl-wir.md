@@ -27,3 +27,5 @@ Modul 1 -> Bilanzierung + Kennzahlen
 ### Sommersemester
 Modul 2 ->  KOSTENRECHNUNG + Inventionsrechnung
 	Mitte Juni 2026
+
+[[Arbeitsrecht]]
