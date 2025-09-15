@@ -13,28 +13,25 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/ggp/ges/idk.md",
+                "file": "4.klasse/itsi/zivk/Systemsicherheit.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "idk"
+              "title": "Systemsicherheit"
             }
           },
           {
-            "id": "d0c42c713b514835",
+            "id": "dadc6806ff1410b7",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/idk 2025-09-15 10.33.01.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "idk 2025-09-15 10.33.01.excalidraw"
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Sep, 15–Sep, 19"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -220,16 +217,17 @@
       "webuntis-day-planner:WebUntis Day Planner": false
     }
   },
-  "active": "d0c42c713b514835",
+  "active": "d1909a0794172879",
   "lastOpenFiles": [
+    "4.klasse/itsi/kryp/Definition-krypt.md",
+    "4.klasse/itsi/zivk/Systemsicherheit.md",
+    "4.klasse/itsi/zivk/Datenschutz.md",
+    "4.klasse/itsi/kryp/kryptografie.md",
     "4.klasse/ggp/ges/idk.md",
     "excalidraw/idk 2025-09-15 10.33.01.excalidraw.md",
     "images/Pasted Image 20250915103332_891.png",
-    "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/ggp/geo",
     "4.klasse/ggp/ges",
-    "4.klasse/itsi/kryp/kryptografie.md",
-    "4.klasse/itsi/zivk/Datenschutz.md",
     "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw.md",
     "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw",
     "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw.excalidraw",
