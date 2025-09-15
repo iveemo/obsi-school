@@ -13,15 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/calendar/12-09-2025.md",
+                "file": "4.klasse/sew/Threads.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "12-09-2025"
+              "title": "Threads"
+            }
+          },
+          {
+            "id": "3a70bbc6f30817dc",
+            "type": "leaf",
+            "state": {
+              "type": "planner-weekly",
+              "state": {},
+              "icon": "table-2",
+              "title": "Sep, 8–Sep, 12"
+            }
+          },
+          {
+            "id": "86288b7ac6ab09ed",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.klasse/calendar/15-09-2025.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "15-09-2025"
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -207,8 +232,12 @@
       "webuntis-day-planner:WebUntis Day Planner": false
     }
   },
-  "active": "d1909a0794172879",
+  "active": "86288b7ac6ab09ed",
   "lastOpenFiles": [
+    "excalidraw/Threads 2025-09-12 14.02.52.excalidraw.md",
+    "4.klasse/sew/Threads.md",
+    "4.klasse/sew/4kl-sew.md",
+    "4.klasse/calendar/12-09-2025.md",
     "index.md",
     "3.klasse/3te-klasse.md",
     "4.klasse/itsi/kryp/Definition.md",
@@ -222,11 +251,9 @@
     "4.klasse/nawi/4kl-nawi.md",
     "4.klasse/wir/fryj/Arbeitsrecht.md",
     "4.klasse/wir/4kl-wir.md",
-    "4.klasse/sew/4kl-sew.md",
     "4.klasse/nwt/4kl-nwt.md",
     "4.klasse/nwt/5 Dynamic Routing.md",
     "images/Ink/Drawing/2025.9.12 - 8.23am.drawing",
-    "4.klasse/calendar/12-09-2025.md",
     "4.klasse/itsi/4kl-itsi.md",
     "4.klasse/4te-klasse.md",
     "excalidraw/Aufgaben_Schwingung 2025-09-11 09.49.34.excalidraw.md",
@@ -239,9 +266,7 @@
     "3.klasse/itsi/Anrgiffs Vektoren.md",
     "3.klasse/itsi/3kl-itsi.md",
     "3.klasse/itsi/WLAN.md",
-    "3.klasse/itsi/Wiederholung.md",
     "images/Pasted image 20250911104601.png",
-    "4.klasse/calendar/17-09-2025.md",
     "images/Ink/Drawing/2025.9.11 - 9.49am.drawing",
     "images/zeit-ort-diagramm_einer_harmonischen_schwingung.svg",
     "owo",
