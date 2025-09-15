@@ -1,6 +1,14 @@
+---
+tags:
+  - 4te_Klasse
+  - itsi
+  - cryptography
+date: 2025-09-15T09:10:00
+---
+
 <u>wörtlich</u> "geheimschrift"
-ursprünglich: 
-	Wissenschaft der Verschlüsselung von Ju
+<u>ursprünglich</u>: 
+	Wissenschaft der Verschlüsselnug von Jahrtausend 3. Jahrtausen v. Chr in Ägytpen (Hyropglyhe)
 
 <u>heute</u>:
 	stellt Vertrauen/Protokolle bereit um Schutzziele der IF Sicherheit zu erreichen
@@ -15,4 +23,4 @@ begriffliche Abgrenuzung:
 P: Menge aller klartexte (plain texts)
 E: Menge aller Verschlüsselungs  $E_k :P->C$ (Encryption)
 C: Menge aller Ciphertexte (cypher te)
-D: Menge aller Entschlüssel $D_k :C->P$ (Decryption)
+D: Menge aller entschlüsselungsmethoden $D_k :C->P$ (Decryption)

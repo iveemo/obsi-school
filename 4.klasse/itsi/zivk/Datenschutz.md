@@ -1,3 +1,9 @@
+---
+tags:
+  - 4te_Klasse
+  - itsi
+date: 2025-09-08T11:55:00
+---
 
 - Sorgfaltspflicht
 - Rechenschaftspflicht

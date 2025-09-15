@@ -2,6 +2,8 @@
 tags:
   - itsi
   - 4te_Klasse
+  - cryptography
+date: 2025-09-08T09:10:00
 ---
 
 ```mermaid

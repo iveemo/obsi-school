@@ -13,47 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/itsi/kryp/kryptografie.md",
+                "file": "4.klasse/ggp/ges/idk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "kryptografie"
+              "title": "idk"
             }
           },
           {
-            "id": "6ab9a03c69002ab3",
+            "id": "d0c42c713b514835",
             "type": "leaf",
             "state": {
               "type": "excalidraw",
               "state": {
-                "file": "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw.md"
+                "file": "excalidraw/idk 2025-09-15 10.33.01.excalidraw.md"
               },
               "icon": "excalidraw-icon",
-              "title": "kryptografie 2025-09-15 09.54.03.excalidraw"
-            }
-          },
-          {
-            "id": "3a70bbc6f30817dc",
-            "type": "leaf",
-            "state": {
-              "type": "planner-weekly",
-              "state": {},
-              "icon": "table-2",
-              "title": "Sep, 15–Sep, 19"
-            }
-          },
-          {
-            "id": "6c39263535fb3278",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "title": "idk 2025-09-15 10.33.01.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -239,12 +220,19 @@
       "webuntis-day-planner:WebUntis Day Planner": false
     }
   },
-  "active": "d1909a0794172879",
+  "active": "d0c42c713b514835",
   "lastOpenFiles": [
-    "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw.md",
-    "4.klasse/itsi/kryp/kryptografie.md",
+    "4.klasse/ggp/ges/idk.md",
+    "excalidraw/idk 2025-09-15 10.33.01.excalidraw.md",
+    "images/Pasted Image 20250915103332_891.png",
     "4.klasse/itsi/kryp/Definition-krypt.md",
-    "4.klasse/itsi/zivk/idk.md",
+    "4.klasse/ggp/geo",
+    "4.klasse/ggp/ges",
+    "4.klasse/itsi/kryp/kryptografie.md",
+    "4.klasse/itsi/zivk/Datenschutz.md",
+    "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw.md",
+    "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw",
+    "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw.excalidraw",
     "4.klasse/itsi/4kl-itsi.md",
     "index.md",
     "4.klasse/wir/4kl-wir.md",
@@ -267,21 +255,14 @@
     "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/nawi/4kl-nawi.md",
     "images/Ink/Drawing/2025.9.12 - 8.23am.drawing",
-    "excalidraw/Aufgaben_Schwingung 2025-09-11 09.49.34.excalidraw.md",
     "images/Pasted image 20250911105742.png",
     "images/Pasted image 20250911105718.png",
     "images/Pasted image 20250911105243.png",
-    "3.klasse/itsi/Verschlüsselung.md",
-    "3.klasse/itsi/Datenarten.md",
     "images/Pasted image 20250911104601.png",
     "images/Ink/Drawing/2025.9.11 - 9.49am.drawing",
     "images/zeit-ort-diagramm_einer_harmonischen_schwingung.svg",
     "owo",
     "4.klasse/itsi/zivk",
-    "4.klasse/itsi/kryp",
-    "Untitled.base",
-    "4.klasse/itp",
-    "4.klasse/wir/fryj",
     "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49.excalidraw.svg",
     "4.klasse/nawi/Untitled.canvas"
   ]
