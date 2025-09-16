@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/eth/Konses.md",
+                "file": "4.klasse/englisch/4kl-eng.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Konses"
+              "title": "4kl-eng"
             }
           },
           {
@@ -219,8 +219,8 @@
   },
   "active": "d1909a0794172879",
   "lastOpenFiles": [
-    "4.klasse/eth/4kl-eth.md",
     "4.klasse/eth/Konses.md",
+    "4.klasse/eth/4kl-eth.md",
     "4.klasse/calendar/16-09-2025.md",
     "4.klasse/eth",
     "4.klasse/itsi/zivk/Systemsicherheit.md",
