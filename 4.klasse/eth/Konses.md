@@ -1,0 +1,4 @@
+- Gleichberechtigung der Teilnehenden (herrschaftsfrei)
+- konsenorientiert
+- Argumente "richtig" sind
+- Position durch Argumente verändert werden
