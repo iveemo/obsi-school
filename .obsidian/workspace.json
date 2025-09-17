@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/itp/Projekt-Theorie.md",
+                "file": "4.klasse/itp/4kl-itp.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Projekt-Theorie"
+              "title": "4kl-itp"
             }
           },
           {
@@ -219,8 +219,9 @@
   },
   "active": "d1909a0794172879",
   "lastOpenFiles": [
-    "4.klasse/calendar/17-09-2025.md",
     "4.klasse/itp/Projekt-Theorie.md",
+    "4.klasse/itp/Risikomanagement.md",
+    "4.klasse/calendar/17-09-2025.md",
     "4.klasse/itp/4kl-itp.md",
     "4.klasse/mathe/Substituieren.md",
     "4.klasse/calendar/18-09-2025.md",
@@ -249,7 +250,6 @@
     "4.klasse/itsi/zivk/Systemsicherheit.md",
     "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/itsi/zivk/Datenschutz.md",
-    "4.klasse/itsi/kryp/kryptografie.md",
     "images/Pasted Image 20250915103332_891.png",
     "4.klasse/ggp/geo",
     "4.klasse/ggp/ges",
