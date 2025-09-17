@@ -59,7 +59,7 @@ b. Wenn der Klang mit einer Geschwindigkeit von 340 m/s das Instrument verlässt
 ### Aufgabe 15.
 Zeichne eine Abbildung der Beugung am Spalt, ähnlich wie im Theorieteil, mit dem Unterschied, dass die Spaltbreite gleichbleibt und die Wellenlänge sich ändert (wieder die drei Fälle 𝜆<< D, 𝜆≈ D und 𝜆>> D).  
 
-![[Aufgaben_Schwingung 2025-09-11 09.49.34.excalidraw]]
+![[Aufgaben_Schwingung 2025-09-11 09.49.34.excalidraw|100%]]
 
 ### Aufgabe 16. 
 Die Wellenlängen der Luftschallwellen von Stimmen sind etwa 1 m (je nachdem wie hoch oder tief die Person spricht). Begründe mit einer Skizze, dass die Beugung dafür sorgt, dass man einen sprechenden Menschen auch hören kann, wenn man nicht direkt vor ihm steht. (Beugung ist dafür nicht der einzige Grund, aber es ist ein Grund).
