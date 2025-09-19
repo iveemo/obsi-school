@@ -17,3 +17,8 @@ asd
 Treuepflicht bedeuted der AN darf den AG nicht beschädigen
 	Verschwiegensheitpflicht
 	Vorkommentspflicht
+
+Sorgepflicht
+	Lehr & Gesundheit
+	Privateigentum
+	asd
