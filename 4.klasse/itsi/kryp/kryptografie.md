@@ -24,3 +24,12 @@ P: Menge aller klartexte (plain texts)
 E: Menge aller Verschlüsselungs  $E_k :P->C$ (Encryption)
 C: Menge aller Ciphertexte (cypher te)
 D: Menge aller entschlüsselungsmethoden $D_k :C->P$ (Decryption)
+
+Es muss gelten... $D_{d} \; \underbrace{(E_{e}(p))}_{\text{c}} = p'$  aka output = input
+## Symmetrische vs asymmetrische Verschl.
+
+1) $d = e$ bzw. $d$ leicht aus $e$ berechenbar
+	-> symmetrische Verschl. ()
+	a) Black
+	asd
+	b)
