@@ -11,12 +11,14 @@
             "id": "d1909a0794172879",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalidraw/idk 2025-09-15 10.33.01.excalidraw.md"
+                "file": "4.klasse/calendar/23-09-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "idk 2025-09-15 10.33.01.excalidraw"
+              "icon": "lucide-file",
+              "title": "23-09-2025"
             }
           },
           {
@@ -218,6 +220,7 @@
   "active": "d1909a0794172879",
   "lastOpenFiles": [
     "4.klasse/ggp/ges/idk.md",
+    "excalidraw/idk 2025-09-15 10.33.01.excalidraw.md",
     "4.klasse/itsi/kryp/kryptografie.md",
     "4.klasse/calendar/22-09-2025.md",
     "4.klasse/wir/fryj/Hauptleistungspfilchten.md",
@@ -240,7 +243,6 @@
     "excalidraw/Threads 2025-09-12 14.02.52.excalidraw.md",
     "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49.excalidraw.svg",
     "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw.md",
-    "excalidraw/idk 2025-09-15 10.33.01.excalidraw.md",
     "4.klasse/nawi/Schwingungen und Wellen.md",
     "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/4kl-nawi.md",
