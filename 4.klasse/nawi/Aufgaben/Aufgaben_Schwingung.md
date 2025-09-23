@@ -47,16 +47,16 @@ Gib die Ausbreitungsgeschwindigkeit einer Welle an, die eine Frequenz von 2 Hz u
 ### Aufgabe 12.
 Berechne die Geschwindigkeit einer Schallwelle mit einer Frequenz von 200 Hz und einer Wellenlänge von 1.7 m.
 
-### Aufgabe 13.
+### Aufgabe 13. -
 Eine Mücke schlägt ihre Flügel mit 600 Schwingungen pro Sekunde, was den nervigen Summton von 600 Hz erzeugt. Angenommen, die Schallgeschwindigkeit beträgt 340 m/s, wie weit bewegt sich der Schall zwischen den Flügelschlägen? Mit anderen Worten, finden Sie die Wellenlänge des Mückenschalls.  
-### Aufgabe 14. 
+### Aufgabe 14.  -
 Auf einer Tastatur schlagen Sie das mittlere C an, dessen Frequenz 256 Hz beträgt.  
 a. Was ist die Periode einer Schwingung dieses Tons?  
 b. Wenn der Klang mit einer Geschwindigkeit von 340 m/s das Instrument verlässt, wie lang ist seine Wellenlänge in der Luft?
 
 ## Beugung
 
-### Aufgabe 15.
+### Aufgabe 15. -
 Zeichne eine Abbildung der Beugung am Spalt, ähnlich wie im Theorieteil, mit dem Unterschied, dass die Spaltbreite gleichbleibt und die Wellenlänge sich ändert (wieder die drei Fälle 𝜆<< D, 𝜆≈ D und 𝜆>> D).  
 
 ![[Aufgaben_Schwingung 2025-09-11 09.49.34.excalidraw|100%]]
@@ -78,12 +78,14 @@ Im Folgenden sind verschiedene 2er-Paare an Schwingungen gegeben. Skizziere den 
 a) Gleiche Frequenzen: Skizziere die Überlagerung. Ordne außerdem die folgenden Bezeichnungen zu.  
 	i. Wenn beide Schwingungen gleiche Frequenz und gleiche Phasenverschiebung haben spricht man von konstruktiver Interferenz.  
 	ii. Wenn die Phasenverschiebung 𝜋 beträgt und gleiche Amplituden herrschen, dann spricht man von destruktiver Interferenz.
-
-![[Pasted image 20250911105243.png]]
+	![[Aufgaben_Schwingung 2025-09-23 15.12.00.excalidraw|100%]]
 
 b) Töne: Skizziere die Schwingung eines Trommelfells, wenn die folgenden Paare an Tönen auf das Ohr treffen. Ordne außerdem die folgenden Bezeichnungen zu.
 	i. Der Kammerton hat eine Frequenz von 440 𝐻𝑧.
 	ii. Die Oktave eines Tons ist die Schwingung, die die Doppelte Frequenz hat. Beispiel: Die Oktave des Kammertons hat eine Frequenz von 880 𝐻𝑧.
 	iii. Geht man am Klavier von einem Ton sieben Tasten weiter, so klingen beide Töne überlagert gut für den Menschen. Das Verhältnis der beiden Frequenzen ist 2:3. Nimmt man den Ton drei Tasten weiter auch dazu erhält man ein Moll (klingt traurig) (Frequenzverhältnis 6:5) Nimmt man stattdessen die vierte Taste dazu erhält man ein Dur (klingt fröhlich)
+	![[Aufgaben_Schwingung 2025-09-23 15.45.32.excalidraw|100%]]
+### Aufgabe 19.
+Betrachte den Versuch zur Interferenz am Doppelspalt im Wellenbad. Zeichne den Verlauf der Amplitude der resultierenden Welle hinter dem Doppelspalt, entlang einer Linie parallel zum Doppelspalt.
 
-![[Pasted image 20250911105718.png]] ![[Pasted image 20250911105742.png]]
+## Dopplereffekt
