@@ -71,7 +71,8 @@
               "title": "Aufgaben_Schwingung 2025-09-23 15.45.32.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -257,10 +258,17 @@
       "webuntis-day-planner:WebUntis Day Planner": false
     }
   },
-  "active": "a454533404fa05e9",
+  "active": "d2ea205639e7469e",
   "lastOpenFiles": [
-    "excalidraw/Hauptleistungspfilchten 2025-09-26 08.46.30.excalidraw.md",
+    "excalidraw/library/mathematical-symbols.excalidrawlib",
+    "excalidraw/library/circuit-components.excalidrawlib",
+    "excalidraw/library/network-topology-icons.excalidrawlib",
+    "excalidraw/library/schematic-symbols.excalidrawlib",
+    "excalidraw/library/3d-coordinate-systems-graphs.excalidrawlib",
+    "excalidraw/library/coordinates.excalidrawlib",
+    "excalidraw/library",
     "4.klasse/wir/fryj/Hauptleistungspfilchten.md",
+    "excalidraw/Hauptleistungspfilchten 2025-09-26 08.46.30.excalidraw.md",
     "4.klasse/wir/fryj/Arbeitsrecht.md",
     "4.klasse/wir/4kl-wir.md",
     "4.klasse/calendar/26-09-2025.md",
@@ -290,21 +298,14 @@
     "4.klasse/calendar/18-09-2025.md",
     "4.klasse/itp/4kl-itp.md",
     "4.klasse/itp/Projekt-Theorie.md",
-    "4.klasse/itp/Risikomanagement.md",
     "images/Ink/Drawing/2025.9.17 - 10.26am.drawing",
     "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49.excalidraw.svg",
     "4.klasse/eth",
     "images/Pasted Image 20250915103332_891.png",
-    "4.klasse/ggp/geo",
-    "4.klasse/ggp/ges",
-    "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw",
-    "excalidraw/kryptografie 2025-09-15 09.54.03.excalidraw.excalidraw",
-    "images/Ink/Drawing/2025.9.12 - 8.23am.drawing",
     "images/Pasted image 20250911105742.png",
     "images/Pasted image 20250911105718.png",
     "images/Pasted image 20250911105243.png",
     "images/Pasted image 20250911104601.png",
-    "images/Ink/Drawing/2025.9.11 - 9.49am.drawing",
     "4.klasse/nawi/Untitled.canvas"
   ]
 }

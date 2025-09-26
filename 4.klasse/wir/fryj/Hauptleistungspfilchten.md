@@ -44,6 +44,13 @@ asd
 Falls der AN Krankheitsbedingt nicht arbeiten kann, weiterhin sein Geld ausbezahlt bekommt
 
 - melden
-- asd
-- asd
+- Bestätigung
+- befristet 6 Wo - 12 Wo
+
+## Pflegestellung
+
+nahe Angehöriger
+selber Haushalt
+Pflegebedarf
+
 
