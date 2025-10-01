@@ -39,50 +39,28 @@
             "id": "a4b18dd8f12ae8cf",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/Differentialgleichungen 2025-10-01 10.44.40.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Differentialgleichungen 2025-10-01 10.44.40.excalidraw"
-            }
-          },
-          {
-            "id": "c3bf7147f2c0a9b8",
-            "type": "leaf",
-            "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
+                "file": "4.klasse/itp/Gartenhaus.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aufgaben_Schwingung"
+              "title": "Gartenhaus"
             }
           },
           {
-            "id": "d1909a0794172879",
+            "id": "ab0e1801bf891ad4",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
+              "type": "markdown",
               "state": {
-                "file": "excalidraw/Aufgaben_Schwingung 2025-09-23 15.12.00.excalidraw.md"
+                "file": "4.klasse/mathe/Differentialgleichungen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "excalidraw-icon",
-              "title": "Aufgaben_Schwingung 2025-09-23 15.12.00.excalidraw"
-            }
-          },
-          {
-            "id": "0834a20794806d60",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/Aufgaben_Schwingung 2025-09-23 15.45.32.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Aufgaben_Schwingung 2025-09-23 15.45.32.excalidraw"
+              "icon": "lucide-file",
+              "title": "Differentialgleichungen"
             }
           }
         ],
@@ -275,7 +253,9 @@
   "active": "a4b18dd8f12ae8cf",
   "lastOpenFiles": [
     "4.klasse/mathe/Differentialgleichungen.md",
+    "4.klasse/itp/Gartenhaus.md",
     "excalidraw/Differentialgleichungen 2025-10-01 10.44.40.excalidraw.md",
+    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
     "images/Ink/Drawing/2025.10.1 - 10.35am.drawing",
     "4.klasse/calendar/01-10-2025.md",
     "4.klasse/calendar/26-09-2025.md",
@@ -297,7 +277,6 @@
     "4.klasse/nwt/18.09.2025.md",
     "4.klasse/calendar/25-09-2025.md",
     "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
-    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
     "excalidraw/Aufgaben_Schwingung 2025-09-23 15.45.32.excalidraw.md",
     "4.klasse/nawi/4kl-nawi.md",
     "4.klasse/nawi/Schwingungen und Wellen.md",
@@ -313,7 +292,6 @@
     "excalidraw/idk 2025-09-15 10.33.01.excalidraw.md",
     "4.klasse/itsi/kryp/kryptografie.md",
     "4.klasse/calendar/22-09-2025.md",
-    "4.klasse/calendar/19-09-2025.md",
     "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49.excalidraw.svg",
     "images/Pasted Image 20250915103332_891.png",
     "images/Pasted image 20250911105742.png",
