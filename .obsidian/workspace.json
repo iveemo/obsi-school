@@ -81,12 +81,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/calendar/03-10-2025.md",
+                "file": "4.klasse/wir/fryj/Der AN-Begriff.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03-10-2025"
+              "title": "Der AN-Begriff"
+            }
+          },
+          {
+            "id": "c4597a640fdc45d1",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalidraw/Der AN-Begriff 2025-10-03 09.08.46.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Der AN-Begriff 2025-10-03 09.08.46.excalidraw"
             }
           }
         ],
@@ -278,12 +290,15 @@
   },
   "active": "d0f231973a479f8a",
   "lastOpenFiles": [
-    "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
+    "excalidraw/Der AN-Begriff 2025-10-03 09.08.46.excalidraw.md",
+    "4.klasse/wir/fryj/Der AN-Begriff.md",
+    "4.klasse/mathe/Differentialgleichungen.md",
+    "4.klasse/wir/fryj/Dauer der DV.md",
     "4.klasse/wir/fryj/Hauptleistungspfilchten.md",
     "4.klasse/wir/fryj/Arbeitsrecht.md",
-    "4.klasse/wir/4kl-wir.md",
     "4.klasse/calendar/03-10-2025.md",
-    "4.klasse/mathe/Differentialgleichungen.md",
+    "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
+    "4.klasse/wir/4kl-wir.md",
     "4.klasse/itp/Stakeholder.md",
     "excalidraw/Stakeholder 2025-10-02 14.45.54.excalidraw.md",
     "4.klasse/itp/Bedarfs-Analyse.md",
@@ -311,8 +326,6 @@
     "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "excalidraw/Aufgaben_Schwingung 2025-09-23 15.45.32.excalidraw.md",
     "4.klasse/nawi/4kl-nawi.md",
-    "4.klasse/nawi/Schwingungen und Wellen.md",
-    "4.klasse/calendar/23-09-2025.md",
     "images/Pasted Image 20250923154648_651.png",
     "images/Pasted Image 20250923154629_214.png",
     "images/Pasted Image 20250923154204_532.png",
