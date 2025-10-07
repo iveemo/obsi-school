@@ -20,8 +20,21 @@
               "icon": "lucide-file",
               "title": "Aufgaben_Schwingung"
             }
+          },
+          {
+            "id": "a59ddf062c28fcc9",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Aufgabenblatt_Schwingungen_und_Wellen"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -207,14 +220,15 @@
       "webuntis-day-planner:WebUntis Day Planner": false
     }
   },
-  "active": "79dc48b200933423",
+  "active": "a59ddf062c28fcc9",
   "lastOpenFiles": [
+    "excalidraw/Aufgaben_Schwingung 2025-10-07 15.25.13.excalidraw.md",
+    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
     "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/4kl-nawi.md",
     "4.klasse/nawi/Schwingungen und Wellen.md",
-    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
     "4.klasse/calendar/07-10-2025.md",
     "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
     "images/Pasted image 20251006102455.png",
@@ -238,14 +252,12 @@
     "4.klasse/itp/Bedarfs-Analyse.md",
     "4.klasse/calendar/02-10-2025.md",
     "4.klasse/itp/Auswertung der Analyse.md",
-    "4.klasse/itp/Risikomanagement.md",
     "images/Ink/Drawing/2025.10.1 - 10.35am.drawing",
     "excalidraw/library/mathematical-symbols.excalidrawlib",
     "excalidraw/library/circuit-components.excalidrawlib",
     "excalidraw/library/network-topology-icons.excalidrawlib",
     "excalidraw/library/schematic-symbols.excalidrawlib",
     "excalidraw/library/3d-coordinate-systems-graphs.excalidrawlib",
-    "excalidraw/library/coordinates.excalidrawlib",
     "images/Pasted Image 20250923154648_651.png",
     "images/Pasted Image 20250923154629_214.png",
     "images/Pasted Image 20250923154204_532.png",

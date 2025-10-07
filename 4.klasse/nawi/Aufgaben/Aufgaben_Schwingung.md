@@ -89,3 +89,39 @@ b) Töne: Skizziere die Schwingung eines Trommelfells, wenn die folgenden Paare 
 Betrachte den Versuch zur Interferenz am Doppelspalt im Wellenbad. Zeichne den Verlauf der Amplitude der resultierenden Welle hinter dem Doppelspalt, entlang einer Linie parallel zum Doppelspalt.
 
 ## Dopplereffekt
+### Aufgabe 20. 
+Ordne die folgenden Situationen nach der Tonhöhe. Ein Feuerwehrauto bewegt sich
+1. Auf den Hörer zu mit 30 km/h.
+
+2. Auf den Hörer zu mit 50 km/h.
+
+3. Vom Hörer weg mit 20 km/h.
+
+  
+
+### Aufgabe 21. 
+Knifflige Bonusaufgabe: Für Bonuspunkte kannst du diese Aufgabe versuchen alleine zu lösen. Falls du es schaffst kannst du deine Ergebnisse für eine zusätzliche Mitarbeitsleistung präsentieren (vor der Klasse oder nur dem Lehrer, wie du magst)
+a. Ein Feuerwehrauto hat eine Sirene, das abwechselnd 2 Töne spielt in einem Takt von 120 BPM. Wenn
+
+das Auto an einem vorbeifährt hört man es zuerst höher und dann tiefer (Dopplereffekt). Es passiert aber  noch  etwas  anderes:  der  Takt  klingt  zuerst  schneller  und  dann  langsamer,  siehe: [https://www.youtube.com/watch?v=imoxDcn2Sgo ](https://www.youtube.com/watch?v=imoxDcn2Sgo) In dem Video hat man das Gefühl, dass die Taktrate sich deutlich ändert wenn das Auto an einem vorbeifährt. Untersuche, ob dies echt oder eine „akustische Täuschung“ ist.
+
+Deine Aufgabe ist folgende: Berechne, mit welcher Taktrate (in BPM) du die Sirene hörst wenn sie auf dich zukommt, und mit welcher, wenn sie von dir wegfährt.
+
+Wellen als Energieüberträger
+
+### Aufgabe 22.
+Die Amplitude einer Wasserwelle, die sich frei ausbreiten kann, wird mit wachsendem Abstand vom Erreger kleiner. Begründe dies mit Hilfe der Interpretation von Wellen als Energieüberträger! Gehe dazu die folgenden Schritte durch:
+1. Zeichne eine kreisförmige Wasserwelle von oben gesehen.
+2. Sagen wir, du hast 5 Seeschlangen zur Verfügung. Wie müssten man diese anordnen, um möglichst viel von der Energie abzuzapfen, die der Erreger in die Welle steckt?
+3. Wie müsstest du die Seeschlangen positionieren, damit du möglichst wenig Energie aus der Welle holen kannst?
+4. Erkläre nun, wo die Intensität am höchsten und wo sie am kleinsten ist und warum. Ist die Intensität kleiner, so ist auch die Amplitude kleiner.
+![[Aufgaben_Schwingung 2025-10-07 15.25.13.excalidraw]]
+Die Energie ist in der Mitte dichter, Weil sich der Energywert nicht ändert, doch die Ausbreitung schon
+
+**Aufgabe 23.** In Mitteleuropa erreicht die Sonneneinstrahlung auf der Erdoberfläche eine Intensität von maximal rund 𝐼 = 800 𝑊 𝑚2
+
+1. Berechne  die  elektrische  Energie,  die  eine  Photovoltaikanlage  mit  1 2  Flächeninhalt  mit  einem Wirkungsgrad von 30% bei dieser Intensität in einer Stunde erzeugt.
+2. BONUS:  An der Erdatmosphäre kommt eine Strahlung mit einer Intensität von etwa 1400 2 an. Die Erde ist etwa 150 Millionen Kilometer von der Sonne entfernt. Berechne, wie viel Energie die Sonne pro Sekunde abstrahlt, also die Leistung der Sonne. (Tipp: die Formel für die Kugeloberfläche lautet:
+
+## Deep Dive: Mathematische Vertiefung
+### Die allgemeine Sinusschwingung und die Kreisfrequenz
