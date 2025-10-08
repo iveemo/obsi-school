@@ -25,12 +25,14 @@
             "id": "a59ddf062c28fcc9",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf"
+                "file": "4.klasse/calendar/08-10-2025.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Aufgabenblatt_Schwingungen_und_Wellen"
+              "icon": "lucide-file",
+              "title": "08-10-2025"
             }
           }
         ],
@@ -222,9 +224,10 @@
   },
   "active": "a59ddf062c28fcc9",
   "lastOpenFiles": [
+    "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
+    "4.klasse/calendar/08-10-2025.md",
     "excalidraw/Aufgaben_Schwingung 2025-10-07 15.25.13.excalidraw.md",
     "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
-    "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/4kl-nawi.md",
@@ -251,7 +254,6 @@
     "4.klasse/wir/4kl-wir.md",
     "4.klasse/itp/Bedarfs-Analyse.md",
     "4.klasse/calendar/02-10-2025.md",
-    "4.klasse/itp/Auswertung der Analyse.md",
     "images/Ink/Drawing/2025.10.1 - 10.35am.drawing",
     "excalidraw/library/mathematical-symbols.excalidrawlib",
     "excalidraw/library/circuit-components.excalidrawlib",
