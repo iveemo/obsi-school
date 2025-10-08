@@ -29,10 +29,11 @@ asd
 
 ```math
 ||{"id":864845316079}||
+
 \begin{align}
 x \times y^2 +y' & = 0 \quad y(1)=1 \\
 x \times y^2 + \cfrac{dy}{dx} & = 0 \\
-x \times y^2 \times dy & = 0 \\
+x \times y^2 \times dy & = 0
 \end{align}
 ```
 
