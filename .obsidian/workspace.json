@@ -20,6 +20,16 @@
               "icon": "lucide-file",
               "title": "Differentialgl. 1. Ordnung-Methode Trennung der Variablen"
             }
+          },
+          {
+            "id": "afd54a3e0398453d",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ]
       }
@@ -209,10 +219,10 @@
   },
   "active": "489dd83037f73d40",
   "lastOpenFiles": [
-    "4.klasse/mathe/Differentialgleichungen.md",
     "4.klasse/mathe/Differentialgl. 1. Ordnung-Methode Trennung der Variablen.md",
-    "4.klasse/mathe/Substituieren.md",
     "4.klasse/calendar/08-10-2025.md",
+    "4.klasse/mathe/Differentialgleichungen.md",
+    "4.klasse/mathe/Substituieren.md",
     "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "excalidraw/Aufgaben_Schwingung 2025-10-07 15.25.13.excalidraw.md",
     "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",

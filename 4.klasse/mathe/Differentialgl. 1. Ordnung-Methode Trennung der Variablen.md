@@ -19,14 +19,20 @@ Bsp: $x+y*y' = 0$         $y(4)=3$
 \end{align}$$
 
 asd
+$$ y(0)=1
+y'=4-y
+\cfrac{dy}{dx}=4-y \quad |\times dx 
+dy=(4-y)dx \quad |(4-y) 
+\cfrac{dy}{4-y}=dx
+$$
+asd
 
 ```math
 ||{"id":864845316079}||
-
-y
-
-x
-
-2+2
+\begin{align}
+x \times y^2 +y' & = 0 \quad y(1)=1 \\
+x \times y^2 + \cfrac{dy}{dx} & = 0 \\
+x \times y^2 \times dy & = 0 \\
+\end{align}
 ```
 
