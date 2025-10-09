@@ -9,11 +9,10 @@ Devices:
 ## Lilygo T-Beam
 Screen and Battey slot on the board
 Worldwide shipping
-
+takes a standard 18650 Battery with a build in slot on the back
 
 ## Heltec v3
-
-
+awful battery life
 
 ## Solar Node
 

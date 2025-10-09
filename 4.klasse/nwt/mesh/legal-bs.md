@@ -7,7 +7,7 @@
 
 
 
-https://meshtastic.org/docs/overview/radio-settings/#868-mhz
+
 ### 868 MHz
 
 The maximum power allowed for Europe is +27 dBm ERP ([Effective Radiated Power](https://en.wikipedia.org/wiki/Effective_radiated_power)).
@@ -18,5 +18,6 @@ There is one frequency slot defined with the standard radio preset `LongFast`. A
 
 It is worth noting that 868 MHz is generally the most popular frequency band for Meshtastic in Europe.
 
+https://meshtastic.org/docs/overview/radio-settings/#868-mhz
 
 https://www.bundesnetzagentur.de/SharedDocs/Downloads/DE/Sachgebiete/Telekommunikation/Unternehmen_Institutionen/Frequenzen/Allgemeinzuteilungen/FunkanlagenGeringerReichweite/2018_05_SRD_pdf.pdf?__blob=publicationFile&v=7
