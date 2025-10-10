@@ -6,15 +6,15 @@ tags:
 date: 2025-10-09T10:30:00
 ---
 Devices:
-## Lilygo T-Beam
+## [[Lilygo T-Beam S3 Core]]
 Screen and Battey slot on the board
 Worldwide shipping
 takes a standard 18650 Battery with a build in slot on the back
 
-## Heltec v3
+## [[Heltec v3]]
 awful battery life
 
-## Solar Node
+## [[Solar Node]]
 
 ## asd
 
