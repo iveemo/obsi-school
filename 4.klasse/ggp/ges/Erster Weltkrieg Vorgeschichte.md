@@ -14,7 +14,7 @@ Flottenbauprogramm
 Kolonien: Kap-Kairo Plan
 
 **Italien – Österreich-Ungarn**
-Südtirol,
+Südtirol, Ven
 
 **„Pulverfass Balkan“**
 19.Jh: Bestrebung zur Befreiung von osmanischer Herrschaft (Aufstände)

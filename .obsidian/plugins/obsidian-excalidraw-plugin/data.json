@@ -35,8 +35,8 @@
   "previewMatchObsidianTheme": false,
   "width": "400",
   "height": "",
-  "overrideObsidianFontSize": false,
-  "dynamicStyling": "colorful",
+  "overrideObsidianFontSize": true,
+  "dynamicStyling": "none",
   "isLeftHanded": false,
   "iframeMatchExcalidrawTheme": true,
   "matchTheme": false,
@@ -109,6 +109,57 @@
     "version": 2,
     "source": "https://github.com/zsviczian/obsidian-excalidraw-plugin/releases/tag/2.15.1",
     "libraryItems": [
+      {
+        "status": "unpublished",
+        "elements": [
+          {
+            "id": "Y5ysCWqC56lWuXPnEF6lr",
+            "type": "line",
+            "x": -404,
+            "y": -1.14453125,
+            "width": 559,
+            "height": 0.5,
+            "angle": 0,
+            "strokeColor": "#FFFFFF",
+            "backgroundColor": "transparent",
+            "fillStyle": "solid",
+            "strokeWidth": 2,
+            "strokeStyle": "solid",
+            "roughness": 0,
+            "opacity": 100,
+            "groupIds": [],
+            "frameId": null,
+            "index": "a1",
+            "roundness": null,
+            "seed": 1980807786,
+            "version": 26,
+            "versionNonce": 1866640938,
+            "isDeleted": false,
+            "boundElements": null,
+            "updated": 1760341126930,
+            "link": null,
+            "locked": false,
+            "points": [
+              [
+                0,
+                0
+              ],
+              [
+                559,
+                0.5
+              ]
+            ],
+            "lastCommittedPoint": null,
+            "startBinding": null,
+            "endBinding": null,
+            "startArrowhead": null,
+            "endArrowhead": null,
+            "polygon": false
+          }
+        ],
+        "id": "W2_E2J9F7OcCGGFcD8T2g",
+        "created": 1760341141523
+      },
       {
         "status": "published",
         "elements": [
