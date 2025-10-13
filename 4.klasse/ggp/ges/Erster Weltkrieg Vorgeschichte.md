@@ -34,10 +34,15 @@ Ich kann…
 3.       …Ablauf, Hintergründe und Folge des Attentats von Sarajewo erläutern.
 
 4.       …_erklären, was der Schlieffen-Plan war und warum er scheiterte._
+	Schwerpunkt gegen Frankreich. Nach Sieg im Western - aller Truppen nach Osten!
 
 5.       …erklären, was man unter einem Stellungskrieg versteht.
+	Keine Gebietsgewinne
+	Soldaten verbringen ihr Leben in Schützengräben
+	Wenn sie rausschaun sterben sie
 
 6.       …ich kann einen Überblick über den Kriegsverlauf geben.
+	unzählige sterben ohne wirklichen territorialischen gewinn
 
 7.       …erläutern, weshalb die Schlacht von Verdun zum Symbol für Sinnlosigkeit des Krieges wurde.
 
@@ -46,9 +51,15 @@ Ich kann…
 9.       …Beispiele für Kriegsverbrechen im Ersten Weltkrieg geben.
 
 10.   …die Grundzüge des 14-Punkte-Programm des amerikanischen Präsidenten Wilson nennen.
+	Friedenslan von Amerika
 
 11.   …erklären, zu welchen Fehleinschätzungen es vor dem Krieg gekommen ist.
+	Dauer
+	Ressourcen
+	Verluste
 
 12.   …die neuen Technologien nennen, die im EWK zum Einsatz kamen.
 
 13.   …erklären, warum die Bezeichnung „Weltkrieg“ passend ist.
+	Kämpfe in Kolonien
+	alle Großmächte waren beteiligt
