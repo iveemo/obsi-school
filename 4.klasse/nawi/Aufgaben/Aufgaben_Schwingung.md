@@ -127,4 +127,15 @@ Die Energie ist in der Mitte dichter, Weil sich der Energywert nicht ändert, do
 ### Die allgemeine Sinusschwingung und die Kreisfrequenz
 
 
-![[Aufgaben_Schwingung 2025-10-14 14.50.04.excalidraw]]
+![[Aufgaben_Schwingung 2025-10-14 14.50.04.excalidraw|100%]]
+asd
+![[Pasted image 20251014153002.png]]
+```math
+||{"id":279700401598}||
+b_{1}\) y_1(t)=-A*e^{-\phi*t}
+
+b_{2}\)
+t_{k} = \left(k+\frac{1}{2} \right) \frac{\pi}{\omega} \implies y(t_{k}) = y_{1}(t_{k}) \quad \mathsf{oder} \quad y(t_{k})=y_{2}(t_{k})
+
+\left(k \right) 
+```
