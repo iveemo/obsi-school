@@ -125,3 +125,6 @@ Die Energie ist in der Mitte dichter, Weil sich der Energywert nicht ändert, do
 
 ## Deep Dive: Mathematische Vertiefung
 ### Die allgemeine Sinusschwingung und die Kreisfrequenz
+
+
+![[Aufgaben_Schwingung 2025-10-14 14.50.04.excalidraw]]

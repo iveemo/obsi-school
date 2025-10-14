@@ -17,7 +17,7 @@
     - Klein gegen groß, alt gegen neu
 
 - Chiasmus (überkreuzstellung von Satzgliedern)
-    - Ich arbeite immer. Nie schlafe ich.
+    - Man kauft bei Kaufmann
     - Eng ist die Welt und das Gehirn ist weit.
 
 - Ellipse
@@ -65,8 +65,12 @@
     - Das Leben ist der Tod, und der Tod ist das Leben
 
 - Pars pro Totot (ein Teil fürs Ganze)
-	- asd
-	- asd
+	- Das Gebiet von Holland für die Niederlande.
+	- England für das Vereinigte Königreich
+
+- Personifikation
+	- Mütterchen Russland
+	- die erwachende Natur
 
 - Rhetorische Frage (Frage, auf die keine Antwort erwartet wird)
     - Ist das nicht offensichtlich?

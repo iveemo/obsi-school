@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/deutsch/Werbeslogan.md",
+                "file": "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Werbeslogan"
+              "title": "Aufgaben_Schwingung"
+            }
+          },
+          {
+            "id": "0b44ecc7f73959b6",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalidraw/Aufgaben_Schwingung 2025-10-14 14.50.04.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "Aufgaben_Schwingung 2025-10-14 14.50.04.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,8 +91,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "9f271db35f23e4ba",
@@ -208,10 +220,18 @@
       "webuntis-day-planner:WebUntis Day Planner": false
     }
   },
-  "active": "865e8caf8a09b423",
+  "active": "0b44ecc7f73959b6",
   "lastOpenFiles": [
+    "images/Pasted Image 20251014145315_417.png",
+    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
+    "excalidraw/Aufgaben_Schwingung 2025-10-07 15.25.13.excalidraw.md",
+    "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
+    "4.klasse/nawi/Schwingungen und Wellen.md",
+    "4.klasse/nawi/Skript_4HITEL.pdf",
+    "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
+    "excalidraw/Aufgaben_Schwingung 2025-10-14 14.50.04.excalidraw.md",
+    "4.klasse/deutsch/Stilmittel.md",
     "4.klasse/calendar/14-10-2025.md",
-    "4.klasse/deutsch/Werbeslogan.md",
     "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
     "4.klasse/ggp/ges/idk.md",
     "4.klasse/itsi/kryp/Modulo- Rechnen.md",
@@ -232,15 +252,7 @@
     "4.klasse/nwt/mesh/devices",
     "4.klasse/calendar/10-10-2025.md",
     "4.klasse/nwt/mesh/ESP32-S3.md",
-    "4.klasse/nwt/mesh/legal-bs.md",
     "4.klasse/nwt/mesh",
-    "4.klasse/calendar/09-10-2025.md",
-    "4.klasse/mathe/Differentialgl. 1. Ordnung-Methode Trennung der Variablen.md",
-    "4.klasse/calendar/08-10-2025.md",
-    "4.klasse/mathe/Differentialgleichungen.md",
-    "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
-    "4.klasse/nawi/Skript_4HITEL.pdf",
-    "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
     "images/Pasted image 20251006102455.png",
     "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "images/Ink/Drawing/2025.10.1 - 10.35am.drawing",
