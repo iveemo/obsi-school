@@ -24,4 +24,4 @@ Bsp. $y' -x = 0$    ,$y(2)=4$
 	"aspectRatio": 1
 }
 ```
-![[Differentialgleichungen 2025-10-01 10.44.40.excalidraw]]
+![[Differentialgleichungen 2025-10-01 10.44.40.excalidraw|100%]]
