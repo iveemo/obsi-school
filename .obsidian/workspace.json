@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/ggp/ges/Trenchgun.md",
+                "file": "4.klasse/nwt/mesh/device-list.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trenchgun"
+              "title": "device-list"
             }
           },
           {
@@ -223,10 +223,15 @@
   },
   "active": "072c2e91a40490b9",
   "lastOpenFiles": [
-    "images/raqgf-Winchester-1897-Parts-Diagram.webp",
-    "images/8536eef0f5f9f58220776ad1f361bb63-718126834.jpg",
+    "4.klasse/nwt/mesh/devices/Heltec v3.md",
+    "4.klasse/nwt/mesh/devices/Lilygo T-Beam S3 Core.md",
+    "4.klasse/nwt/mesh/devices/Solar Node.md",
+    "4.klasse/nwt/mesh/ESP32-S3.md",
+    "4.klasse/nwt/mesh/legal-bs.md",
     "4.klasse/calendar/16-10-2025.md",
     "4.klasse/ggp/ges/Trenchgun.md",
+    "images/raqgf-Winchester-1897-Parts-Diagram.webp",
+    "images/8536eef0f5f9f58220776ad1f361bb63-718126834.jpg",
     "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/calendar/15-10-2025.md",
     "4.klasse/mathe/Differential/Differentialgleichungen.md",
@@ -254,10 +259,6 @@
     "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/itsi/kryp/kryptografie.md",
     "4.klasse/itsi/kryp/Angriffsarten.md",
-    "4.klasse/wir/fryj/Urlaub.md",
-    "4.klasse/calendar/13-10-2025.md",
-    "4.klasse/nwt/mesh/devices/Lilygo T-Beam S3 Core.md",
-    "4.klasse/nwt/mesh/device-list.md",
     "4.klasse/nwt/mesh/devices",
     "4.klasse/nwt/mesh",
     "images/Pasted image 20251006102455.png",
@@ -268,7 +269,6 @@
     "images/Pasted Image 20250923154648_651.png",
     "images/Pasted Image 20250923154629_214.png",
     "images/Pasted Image 20250923154204_532.png",
-    "images/Pasted Image 20250923152705_658.png",
     "4.klasse/nawi/Untitled.canvas"
   ]
 }
