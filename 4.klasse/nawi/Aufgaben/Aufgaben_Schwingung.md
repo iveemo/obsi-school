@@ -65,7 +65,7 @@ Zeichne eine Abbildung der Beugung am Spalt, ähnlich wie im Theorieteil, mit de
 Die Wellenlängen der Luftschallwellen von Stimmen sind etwa 1 m (je nachdem wie hoch oder tief die Person spricht). Begründe mit einer Skizze, dass die Beugung dafür sorgt, dass man einen sprechenden Menschen auch hören kann, wenn man nicht direkt vor ihm steht. (Beugung ist dafür nicht der einzige Grund, aber es ist ein Grund).
 
 ## Interferenz
-### Aufgabe 17. 
+### Aufgabe 17 
 Hier sind vier verschiedene Paare von Wellenimpulsen, die sich  
 aufeinander zubewegen. Irgendwann treffen sich die Impulse und interagieren  
 miteinander (Interferenz). Ordne die vier Fälle in Bezug auf die Höhe des Peaks,  
@@ -73,7 +73,7 @@ der entsteht, wenn sich die Zentren der Impulse überschneiden, von höchster
 zu niedrigster Höhe.
 ![[Pasted image 20250911104601.png|300]]
 
-### Aufgabe 18.
+### Aufgabe 18
 Im Folgenden sind verschiedene 2er-Paare an Schwingungen gegeben. Skizziere den Funktionsgraph der überlagerten Schwingung!  
 a) Gleiche Frequenzen: Skizziere die Überlagerung. Ordne außerdem die folgenden Bezeichnungen zu.  
 	i. Wenn beide Schwingungen gleiche Frequenz und gleiche Phasenverschiebung haben spricht man von konstruktiver Interferenz.  
@@ -85,30 +85,23 @@ b) Töne: Skizziere die Schwingung eines Trommelfells, wenn die folgenden Paare 
 	ii. Die Oktave eines Tons ist die Schwingung, die die Doppelte Frequenz hat. Beispiel: Die Oktave des Kammertons hat eine Frequenz von 880 𝐻𝑧.
 	iii. Geht man am Klavier von einem Ton sieben Tasten weiter, so klingen beide Töne überlagert gut für den Menschen. Das Verhältnis der beiden Frequenzen ist 2:3. Nimmt man den Ton drei Tasten weiter auch dazu erhält man ein Moll (klingt traurig) (Frequenzverhältnis 6:5) Nimmt man stattdessen die vierte Taste dazu erhält man ein Dur (klingt fröhlich)
 	![[Aufgaben_Schwingung 2025-09-23 15.45.32.excalidraw|100%]]
-### Aufgabe 19.
+### Aufgabe 19
 Betrachte den Versuch zur Interferenz am Doppelspalt im Wellenbad. Zeichne den Verlauf der Amplitude der resultierenden Welle hinter dem Doppelspalt, entlang einer Linie parallel zum Doppelspalt.
 
 ## Dopplereffekt
-### Aufgabe 20. 
+### Aufgabe 20 
 Ordne die folgenden Situationen nach der Tonhöhe. Ein Feuerwehrauto bewegt sich
 1. Auf den Hörer zu mit 30 km/h.
 
 2. Auf den Hörer zu mit 50 km/h.
 
 3. Vom Hörer weg mit 20 km/h.
-
-  
-
-### Aufgabe 21. 
+### Aufgabe 21
 Knifflige Bonusaufgabe: Für Bonuspunkte kannst du diese Aufgabe versuchen alleine zu lösen. Falls du es schaffst kannst du deine Ergebnisse für eine zusätzliche Mitarbeitsleistung präsentieren (vor der Klasse oder nur dem Lehrer, wie du magst)
-a. Ein Feuerwehrauto hat eine Sirene, das abwechselnd 2 Töne spielt in einem Takt von 120 BPM. Wenn
+	a. Ein Feuerwehrauto hat eine Sirene, das abwechselnd 2 Töne spielt in einem Takt von 120 BPM. Wenn das Auto an einem vorbeifährt hört man es zuerst höher und dann tiefer (Dopplereffekt). Es passiert aber  noch  etwas  anderes:  der  Takt  klingt  zuerst  schneller und  dann  langsamer,  siehe: [https://www.youtube.com/watch?v=imoxDcn2Sgo ](https://www.youtube.com/watch?v=imoxDcn2Sgo) In dem Video hat man das Gefühl, dass die Taktrate sich deutlich ändert wenn das Auto an einem vorbeifährt. Untersuche, ob dies echt oder eine „akustische Täuschung“ ist.	
+	Deine Aufgabe ist folgende: Berechne, mit welcher Taktrate (in BPM) du die Sirene hörst wenn sie auf dich zukommt, und mit welcher, wenn sie von dir wegfährt.
 
-das Auto an einem vorbeifährt hört man es zuerst höher und dann tiefer (Dopplereffekt). Es passiert aber  noch  etwas  anderes:  der  Takt  klingt  zuerst  schneller  und  dann  langsamer,  siehe: [https://www.youtube.com/watch?v=imoxDcn2Sgo ](https://www.youtube.com/watch?v=imoxDcn2Sgo) In dem Video hat man das Gefühl, dass die Taktrate sich deutlich ändert wenn das Auto an einem vorbeifährt. Untersuche, ob dies echt oder eine „akustische Täuschung“ ist.
-
-Deine Aufgabe ist folgende: Berechne, mit welcher Taktrate (in BPM) du die Sirene hörst wenn sie auf dich zukommt, und mit welcher, wenn sie von dir wegfährt.
-
-Wellen als Energieüberträger
-
+## Wellen als Energieüberträger
 ### Aufgabe 22.
 Die Amplitude einer Wasserwelle, die sich frei ausbreiten kann, wird mit wachsendem Abstand vom Erreger kleiner. Begründe dies mit Hilfe der Interpretation von Wellen als Energieüberträger! Gehe dazu die folgenden Schritte durch:
 1. Zeichne eine kreisförmige Wasserwelle von oben gesehen.
@@ -118,15 +111,33 @@ Die Amplitude einer Wasserwelle, die sich frei ausbreiten kann, wird mit wachsen
 ![[Aufgaben_Schwingung 2025-10-07 15.25.13.excalidraw]]
 Die Energie ist in der Mitte dichter, Weil sich der Energywert nicht ändert, doch die Ausbreitung schon
 
-**Aufgabe 23.** In Mitteleuropa erreicht die Sonneneinstrahlung auf der Erdoberfläche eine Intensität von maximal rund 𝐼 = 800 𝑊 𝑚2
+### Aufgabe 23
+In Mitteleuropa erreicht die Sonneneinstrahlung auf der Erdoberfläche eine Intensität von maximal rund 𝐼 = 800 𝑊 𝑚2
 
 1. Berechne  die  elektrische  Energie,  die  eine  Photovoltaikanlage  mit  1 2  Flächeninhalt  mit  einem Wirkungsgrad von 30% bei dieser Intensität in einer Stunde erzeugt.
 2. BONUS:  An der Erdatmosphäre kommt eine Strahlung mit einer Intensität von etwa 1400 2 an. Die Erde ist etwa 150 Millionen Kilometer von der Sonne entfernt. Berechne, wie viel Energie die Sonne pro Sekunde abstrahlt, also die Leistung der Sonne. (Tipp: die Formel für die Kugeloberfläche lautet:
 
 ## Deep Dive: Mathematische Vertiefung
-### Die allgemeine Sinusschwingung und die Kreisfrequenz
+Die allgemeine Sinusschwingung und die Kreisfrequenz
+### Aufgabe 24
+Zeichne  (mit  Geogebra  falls  vorhanden)  das  Auslenkungs-Zeit  Diagramm  für  eine  harmonische Schwingung mit den Eigenschaften:
+### Aufgabe 25
 
+Kontrolliere anhand deiner Zeichnung von Aufgabe S.1), ob die Formel  = 2 / stimmt. Gib  und mit Einheit für die dort gezeichnete Schwingung an.
 
+### Aufgabe 26  
+![[Aspose.Words.a2b63523-55b6-48b3-bf17-d8e2533cb5e8.014.png]]
+Im obigen Diagramm sind Auslenkung  , Geschwindgkeit  und Beschleunigung  eines Körpers gegeben, der eine harmonische Schwingung ausführt. (Abb. Von LEIFI-Physik)
+(Achtung: Die Graphen so aufzutragen ist nicht ganz richtig, weil  ,   verschiedene Einheiten haben.)
+Begründe, warum
+1. zu jedem Zeitpunkt ein Extremum hat, zu dem  eine Nullstelle hat
+
+2. zu jedem Zeitpunkt eine Nullstelle hat, zu dem  ein Extremum hat
+
+3. ein Extremum hat, wenn auch  ein Extremum hat.
+### Aufgabe 27
+In der folgenden SRDP-Aufgabe sieht man, dass auch Wechselstrom als eine Schwingung betrachtet werden kann. Es wird außerdem eine Gedämpfte Schwingung gezeigt. Viele Schwingungen in der Praxis sind gedämpft.
+[https://prod.aufgabenpool.at/amn/teilb1/712/Sinusfunktionen.pdf ](https://prod.aufgabenpool.at/amn/teilb1/712/Sinusfunktionen.pdf)
 ![[Aufgaben_Schwingung 2025-10-14 14.50.04.excalidraw|100%]]
 asd
 ![[Pasted image 20251014153002.png]]
@@ -139,3 +150,33 @@ t_{k} = \left(k+\frac{1}{2} \right) \frac{\pi}{\omega} \implies y(t_{k}) = y_{1}
 
 \left(k \right) 
 ```
+### Aufgabe 28
+
+In der folgenden Aufgabe wird ein Federpendel mathematisch analysiert: [https://prod.aufgabenpool.at/amn/teilb1/588/Federpendel.pdf ](https://prod.aufgabenpool.at/amn/teilb1/588/Federpendel.pdf)
+Differenzialgleichungen und die Schwingungsdauer eines Fadenpendels
+
+### Aufgabe 29
+Berechne die Frequenz und die Schwingungsdauer eines Fadenpendels mit einer Länge von 2 Metern, einem Schwingkörper mit 3 kg Masse und einer maximalen Auslenkung von 20 cm.
+### Aufgabe 30
+Eine Astronautin auf dem Mond befestigt eine kleine Messingkugel an einer 1,00 m langen Schnur und macht einen einfachen Pendelversuch. Sie misst 15 vollständige Schwingungen in 75 Sekunden. Aus dieser Messung berechnet sie die Fallbeschleunigung auf dem Mond. Was ist ihr Ergebnis?
+
+## Funktionen in mehreren Variablen und Interferenz  
+### Aufgabe 31.
+Falls  ein  PC-Raum  zur  Verfügung  steht  ist  die  **SMÜ**  für  heute,  eine  Abgabe  zu  erstellen, auf  der Screenshots der Wellenbilder zu sehen sind. Versuche möglichst schöne Abbildungen zu machen, jede Abbildung soll einzigartig sein.
+- Öffne Geogebra.
+- Gehe auf Ansicht->3D Grafik.
+- Öffne das CAS.
+- Gib die Funktion  $H(x,y) = \sin(/\sqrt{ x{^2} + y^{2} })$  ein. 
+- Du solltest nun den Graphen der Funktion in deinem 3D-Grafikfenster sehen. Nimm dir jetzt Zeit um darüber nachzudenken und mit der Klasse zu diskutieren, wie man diesen Graphen verstehen kann. Benutze die Maus um rein- und rauszuzoomen und den Graph von allen Seiten anzusehen.
+
+- Erstelle nun eine andere Funktion $H_{2}(x,y)$ bei der der Erreger nicht am Punkt (0,0) liegt sondern am Punkt (10,0). Alles was du ändern musst ist das Argument der Sinusfunktion (Tipp: Was ist der Abstand eines Punktes  = ( , ) vom Erreger (10,0)?).
+
+- Blende nun die Funktion  aus, um sicher zu gehen, dass  2 so aussieht wie du es möchtest.
+
+- Wir überlagern nun die Welle. Erstelle eine Funktion  3, die einfach die Summe der beiden anderen ist, also  $H_{3}(x,y) = H(x,y)+H_{2}(x,y)$
+
+- Blende $H$ und  $H_{2}$ aus, sodass du nur noch $H_{3}$ siehst. Welchen Effekt kannst du an der Funktion  3 sehen?
+
+- In  Aufgabe  f.  war  der  Wert  10  für  die  x-Koordinate  des  Erregers  vorgegeben.  Ändere  Nun  diese Koordinate (z.B. auf 5, 10, 20, 50 usw.) und beobachte, wie sich die Welle verhält.
+
+- Die  „Welle“,  die  du  siehst  bleibt  immer  gleich  hoch.  Wir  haben  oben  gesehen  (Wellen  als Energieüberträger),  dass  das  bei  echten  Wellen  nicht  der  Fall  ist.  Überlege  dir,  wie  man  die Funktionsgleichung von  verändern könnte, damit die Welle nach außen hin abflacht. Diskutiere dann mit der Klasse.
