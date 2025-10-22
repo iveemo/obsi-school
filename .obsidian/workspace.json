@@ -13,6 +13,20 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "4.klasse/mathe/Differential/2.HÜ.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2.HÜ"
+            }
+          },
+          {
+            "id": "5c6cdd0013279e3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "4.klasse/calendar/22-10-2025.md",
                 "mode": "source",
                 "source": false
@@ -33,7 +47,8 @@
               "title": "Aufgabenblatt_Schwingungen_und_Wellen"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -219,10 +234,12 @@
       "webuntis-day-planner:WebUntis Day Planner": false
     }
   },
-  "active": "399a4138937f74e3",
+  "active": "5c6cdd0013279e3c",
   "lastOpenFiles": [
-    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
+    "excalidraw/2.HÜ 2025-10-22 00.18.27.excalidraw.md",
+    "4.klasse/mathe/Differential/2.HÜ.md",
     "4.klasse/calendar/22-10-2025.md",
+    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
     "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/Aufgaben/img/Aspose.Words.a2b63523-55b6-48b3-bf17-d8e2533cb5e8.014.png",
     "4.klasse/nawi/Aufgaben/img",
@@ -253,8 +270,6 @@
     "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/calendar/15-10-2025.md",
     "4.klasse/mathe/Differential/Differentialgleichungen.md",
-    "4.klasse/mathe/Differential/lkasfd.md",
-    "4.klasse/mathe/Differential/Substituieren.md",
     "4.klasse/mathe/Differential",
     "images/Pasted image 20251014153002.png",
     "images/Pasted Image 20251014152516_766.png",
