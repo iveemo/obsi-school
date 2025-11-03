@@ -46,4 +46,4 @@ asd
 erstes und bis heute wichtigestes Verchlüsselungsverfahren (asym)
 
 ### 1. Schlüsselerzeugung
-Bob wählt zufälig 
+![[Modulo- Rechnen 2025-11-03 09.56.49.excalidraw]]
