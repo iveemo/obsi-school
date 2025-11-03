@@ -4,35 +4,33 @@
     "type": "split",
     "children": [
       {
-        "id": "eb49b7c9390ba455",
+        "id": "a066775422555ed7",
         "type": "tabs",
         "children": [
           {
-            "id": "399a4138937f74e3",
+            "id": "b7deddf886bb8c52",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/itp/Stakeholder.md",
+                "file": "4.klasse/itsi/kryp/Modulo- Rechnen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Stakeholder"
+              "title": "Modulo- Rechnen"
             }
           },
           {
-            "id": "2690c5e6fede07b2",
+            "id": "b7ac25e5f1469af8",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
-                "mode": "source",
-                "source": false
+                "file": "excalidraw/Modulo- Rechnen 2025-11-03 09.43.48.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "1. Ordnung-Methode Trennung der Variablen"
+              "icon": "excalidraw-icon",
+              "title": "Modulo- Rechnen 2025-11-03 09.43.48.excalidraw"
             }
           }
         ]
@@ -220,11 +218,18 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "399a4138937f74e3",
+  "active": "b7deddf886bb8c52",
   "lastOpenFiles": [
+    "excalidraw/Modulo- Rechnen 2025-11-03 09.43.48.excalidraw.md",
+    "4.klasse/itsi/kryp/Modulo- Rechnen.md",
+    "4.klasse/itsi/kryp/Angriffsarten.md",
+    "4.klasse/itsi/zivk/Systemsicherheit.md",
+    "4.klasse/itsi/zivk/keine ahnung.md",
+    "4.klasse/itsi/zivk/Datenschutz.md",
+    "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
+    "4.klasse/itp/Stakeholder.md",
     "4.klasse/itp/Auswertung der Analyse.md",
     "4.klasse/mathe/Differential/22.10.2025.md",
-    "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/mathe/Differential/2.HÜ.md",
     "4.klasse/mathe/Differential/Substituieren.md",
     "4.klasse/mathe/Differential/lkasfd.md",
@@ -246,14 +251,7 @@
     "4.klasse/ggp/ges/idk.md",
     "4.klasse/ggp/ges/Trenchgun.md",
     "4.klasse/itsi/kryp/kryptografie.md",
-    "4.klasse/itsi/kryp/Modulo- Rechnen.md",
     "4.klasse/itsi/kryp/Definition-krypt.md",
-    "4.klasse/itsi/kryp/Angriffsarten.md",
-    "4.klasse/calendar/20-10-2025.md",
-    "4.klasse/nwt/mesh/device-list.md",
-    "4.klasse/nwt/mesh/devices/Heltec v3.md",
-    "4.klasse/nwt/mesh/devices/Lilygo T-Beam S3 Core.md",
-    "4.klasse/nwt/mesh/devices/Solar Node.md",
     "images/raqgf-Winchester-1897-Parts-Diagram.webp",
     "images/8536eef0f5f9f58220776ad1f361bb63-718126834.jpg",
     "4.klasse/mathe/Differential",
