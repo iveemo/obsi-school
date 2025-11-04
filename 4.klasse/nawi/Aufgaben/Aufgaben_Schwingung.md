@@ -122,7 +122,6 @@ Die allgemeine Sinusschwingung und die Kreisfrequenz
 ### Aufgabe 24
 Zeichne  (mit  Geogebra  falls  vorhanden)  das  Auslenkungs-Zeit  Diagramm  für  eine  harmonische Schwingung mit den Eigenschaften:
 ### Aufgabe 25
-
 Kontrolliere anhand deiner Zeichnung von Aufgabe S.1), ob die Formel  = 2 / stimmt. Gib  und mit Einheit für die dort gezeichnete Schwingung an.
 
 ### Aufgabe 26  

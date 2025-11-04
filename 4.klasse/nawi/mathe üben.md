@@ -1,0 +1,1 @@
+![[mathe üben 2025-11-04 15.06.45.excalidraw]]
