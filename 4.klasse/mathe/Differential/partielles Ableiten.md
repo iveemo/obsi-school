@@ -23,5 +23,33 @@ z_{1}= e^-y
 z_{y} -xe^-y
 
 17g\) z=\cfrac{1}{y} \ln \sqrt{x}
+
+19c\) z= x \cdot \sin y
+z_{x}= \sin y
+z_{y}= x \cos y = \cos(y)x
+
+1.10c\) f(x,y) = (xy)^2
+f_{x}= 2(xy)y = 2 xy^2
+f_{y}= 2(xy)x = 2x^2 y
+f_{xy}= 2x \cdot 2y = 4xy
+f_{yx}= 2 \cdot 2dy = 4xy
+f_{xx}= 2y^2
+f_{yy}= 2x^2
+
+1.10c\) f(x,y)=\cfrac{x^2}{y} = x^2 \cdot y^-1
+f_{x}= \cfrac{2x}{y}
+f_{y}= -\cfrac{x^2}{y^2} = x^2 \cdot y^-2
+f_{xy}= -\cfrac{2x}{y^2}
+f_{yx}= -\cfrac{2x}{y^2}
+f_{xx}= \cfrac{2}{y}
+f_{yy}= -x^2 (-2)y^-3 = \cfrac{2x^2}{y^3}
+
+g\) f(x,y) = x \sin(2y)
+f_{x}= \sin(2y)
+f_{y}= 2x \cos(2y)
+f_{xy}= 2 \cos(2y)
+f_{yx}= 2 \cos(2y)
+f_{xx}= 0 
+f_{yy}= -4x \sin(2y)
 ```
 
