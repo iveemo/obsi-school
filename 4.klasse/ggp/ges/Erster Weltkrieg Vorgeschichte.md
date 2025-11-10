@@ -49,19 +49,27 @@ Ich kann…
 	Ziel war es Verdun auszubluten 
 	1 Deutscher für 5 Franzosen
 8.       …die Bündnissysteme nennen, die einander im EWK gegenüberstanden und auch deren wichtigste Mitglieder aufzählen.
-
+	Mittelmächte gegen Entente
 9.       …Beispiele für Kriegsverbrechen im Ersten Weltkrieg geben.
-
+	Armenien Massaker (Völkermord)
+	Hinrichtungen von Zivilisten
+	Internierungslager (Kriegsgefangenen Lager)
+	Giftgas Einsatz
+	U-Boot-Krieg -> ohne Warnung passiert und zivile Schiffe verletzt wurden (um die 6000)
 10.   …die Grundzüge des 14-Punkte-Programm des amerikanischen Präsidenten Wilson nennen.
 	Friedenslan von Amerika
 
 11.   …erklären, zu welchen Fehleinschätzungen es vor dem Krieg gekommen ist.
-	Dauer
-	Ressourcen
-	Verluste
-
+	Dauer (unterschätzt)
+	Ressourcen (--||--)
+	Verluste (--||--)
 12.   …die neuen Technologien nennen, die im EWK zum Einsatz kamen.
-
+	U-Boote
+	Panzer
+	Kampfflugzeuge
+	Giftgas
+	Kriegsflammenwerfer
+	Trenchgun
 13.   …erklären, warum die Bezeichnung „Weltkrieg“ passend ist.
 	Kämpfe in Kolonien
 	alle Großmächte waren beteiligt
