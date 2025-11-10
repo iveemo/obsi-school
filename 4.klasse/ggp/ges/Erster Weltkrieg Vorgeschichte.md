@@ -31,7 +31,11 @@ Ich kann…
 	Streitigkeiten
 	Bündnisse
 3.       …Ablauf, Hintergründe und Folge des Attentats von Sarajewo erläutern.
-
+	Attentat
+	freie hand für Wien vom Deutsche reich
+	Ultimatum an Serbien
+	Ablehnung
+	Teilmobilmachung gefährdet den Schiffen plan
 4.       …_erklären, was der Schlieffen-Plan war und warum er scheiterte._
 	Schwerpunkt gegen Frankreich. Nach Sieg im Western - aller Truppen nach Osten!
 5.       …erklären, was man unter einem Stellungskrieg versteht.
@@ -40,9 +44,10 @@ Ich kann…
 	Wenn sie rausschaun sterben sie
 6.       …ich kann einen Überblick über den Kriegsverlauf geben.
 	unzählige sterben ohne wirklichen territorialischen gewinn
-
 7.       …erläutern, weshalb die Schlacht von Verdun zum Symbol für Sinnlosigkeit des Krieges wurde.
-
+	kein Gewinn sondern nur Verluste
+	Ziel war es Verdun auszubluten 
+	1 Deutscher für 5 Franzosen
 8.       …die Bündnissysteme nennen, die einander im EWK gegenüberstanden und auch deren wichtigste Mitglieder aufzählen.
 
 9.       …Beispiele für Kriegsverbrechen im Ersten Weltkrieg geben.
