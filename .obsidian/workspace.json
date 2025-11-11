@@ -13,54 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/itsi/kryp/RSA.md",
+                "file": "4.klasse/nawi/Felder/Aufgaben.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "RSA"
-            }
-          },
-          {
-            "id": "55aa11fcbc333333",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/RSA 2025-11-10 09.34.37.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "RSA 2025-11-10 09.34.37.excalidraw"
-            }
-          },
-          {
-            "id": "2c6836f15975cb74",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/RSA 2025-11-10 09.34.06.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "RSA 2025-11-10 09.34.06.excalidraw"
+              "title": "Aufgaben"
             }
           },
           {
             "id": "651a75f90d0ea518",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "excalidraw",
               "state": {
-                "file": "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
-                "mode": "source",
-                "source": false
+                "file": "excalidraw/Elektrische Felder 2025-11-11 15.10.29.excalidraw.md"
               },
-              "icon": "lucide-file",
-              "title": "Erster Weltkrieg Vorgeschichte"
+              "icon": "excalidraw-icon",
+              "title": "Elektrische Felder 2025-11-11 15.10.29.excalidraw"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -247,11 +221,23 @@
   },
   "active": "651a75f90d0ea518",
   "lastOpenFiles": [
-    "excalidraw/RSA 2025-11-10 09.34.06.excalidraw.md",
-    "excalidraw/Kündigung 2025-11-07 08.45.00.excalidraw.md",
-    "excalidraw/RSA 2025-11-10 09.34.37.excalidraw.md",
+    "4.klasse/nawi/Felder/Aufgaben.md",
     "4.klasse/itsi/kryp/RSA.md",
+    "excalidraw/RSA 2025-11-10 09.34.37.excalidraw.md",
+    "excalidraw/RSA 2025-11-10 09.34.06.excalidraw.md",
+    "excalidraw/Elektrische Felder 2025-11-11 15.10.29.excalidraw.md",
+    "4.klasse/nawi/Felder/Elektrische Felder.md",
+    "4.klasse/nawi/Skript_4HITEL.pdf",
+    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
+    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
+    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.004.png",
+    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.003.png",
+    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.002.png",
+    "4.klasse/nawi/Felder/img",
+    "4.klasse/nawi/Schwingungen/Aufgaben_Schwingung.md",
+    "4.klasse/nawi/Felder",
     "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
+    "excalidraw/Kündigung 2025-11-07 08.45.00.excalidraw.md",
     "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/itsi/kryp/kryptografie.md",
     "4.klasse/itsi/kryp/Modulo- Rechnen.md",
@@ -269,30 +255,17 @@
     "4.klasse/sew/Threads.md",
     "4.klasse/sew/4kl-sew.md",
     "4.klasse/mathe/Differential/partielles Ableiten.md",
-    "4.klasse/mathe/Differential/smü.md",
-    "excalidraw/smü 2025-11-05 10.33.44.excalidraw.md",
-    "4.klasse/nawi/mathe üben.md",
-    "4.klasse/nawi/Aufgaben/Aufgaben_Schwingung.md",
-    "4.klasse/nawi/Schwingungen und Wellen.md",
-    "4.klasse/nawi/Aufgaben/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
-    "4.klasse/nawi/Aufgaben/img/Aspose.Words.a2b63523-55b6-48b3-bf17-d8e2533cb5e8.014.png",
-    "4.klasse/nawi/Aufgaben/img",
+    "4.klasse/nawi/Schwingungen/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
+    "4.klasse/nawi/Schwingungen/img/Aspose.Words.a2b63523-55b6-48b3-bf17-d8e2533cb5e8.014.png",
+    "4.klasse/nawi/Schwingungen/img",
     "4.klasse/nawi/Aufgaben/New folder",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
-    "4.klasse/nawi/Skript_4HITEL.pdf",
     "images/raqgf-Winchester-1897-Parts-Diagram.webp",
     "images/8536eef0f5f9f58220776ad1f361bb63-718126834.jpg",
     "4.klasse/mathe/Differential",
     "images/Pasted image 20251014153002.png",
     "images/Pasted Image 20251014152516_766.png",
-    "images/Pasted Image 20251014151558_111.png",
-    "images/Pasted Image 20251014145315_417.png",
     "4.klasse/nwt/mesh/devices",
-    "4.klasse/nwt/mesh",
-    "images/Pasted image 20251006102455.png",
-    "images/Ink/Drawing/2025.10.1 - 10.35am.drawing",
-    "images/Pasted Image 20250923154648_651.png",
-    "images/Pasted Image 20250923154629_214.png",
     "4.klasse/nawi/Untitled.canvas"
   ]
 }
