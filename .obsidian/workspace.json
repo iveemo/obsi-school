@@ -4,49 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "f2a13224398060fd",
+        "id": "998d9670c6d42371",
         "type": "tabs",
         "children": [
           {
-            "id": "082f7190e9f57e15",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/Aufgaben 2025-11-11 16.13.43.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Aufgaben 2025-11-11 16.13.43.excalidraw"
-            }
-          },
-          {
-            "id": "029e92764b1694c7",
+            "id": "2bf9b67970931a74",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/nawi/Felder/Aufgaben.md",
+                "file": "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Aufgaben"
-            }
-          },
-          {
-            "id": "651a75f90d0ea518",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/Elektrische Felder 2025-11-11 15.10.29.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Elektrische Felder 2025-11-11 15.10.29.excalidraw"
+              "title": "1. Ordnung-Methode Trennung der Variablen"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -231,8 +206,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "029e92764b1694c7",
+  "active": "2bf9b67970931a74",
   "lastOpenFiles": [
+    "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "excalidraw/Aufgaben 2025-11-11 16.13.43.excalidraw.md",
     "4.klasse/nawi/Felder/Aufgaben.md",
     "excalidraw/Elektrische Felder 2025-11-11 15.10.29.excalidraw.md",
