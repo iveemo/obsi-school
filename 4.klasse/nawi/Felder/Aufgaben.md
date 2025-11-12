@@ -1,7 +1,6 @@
 Aufgabenblatt zu elektrischen Feldern
 ## Aufgabe 1)
-
-  
+![[Aufgaben 2025-11-11 16.13.43.excalidraw]]
 
 In der gegebenen Abbildung sind verschiedene Punkte im Raum um die Erde 
 ![](Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png)
@@ -9,7 +8,7 @@ eingezeichnet.  Die  Punkte  befinden  sich  in  folgenden  Abständen  
 - 1: 1,8 ⋅ $10^7m$
 - 2,3 und 4: 1,2 ⋅ $10^7m$
 1) Skizziere den Vektor des Gravitationsfeldes an jedem der Punkte.
-2) Berechne die Länge des Vektors   ⃗ für alle gefragten Punkte.
+2) Berechne die Länge des Vektors $\vec{g}$ für alle gefragten Punkte.
 3) Berechne die Anziehungskraft auf einen Satelliten mit  = 5 .
 	1. In Punkt 1
 	2. In Punkt 2,3 und 4
