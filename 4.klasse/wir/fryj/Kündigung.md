@@ -25,3 +25,25 @@ Abfertigung
 	kriegt man erst bei der Pension
 		unter 3 Jahren DV
 		AN kündigt
+
+## Kündigungsschutz
+
+algemeiner
+("vergess ma gleich wieder")
+	es muss ein Motiv geben
+	ein anderen hätte das wirtsch. leichter getroffen als mich 
+
+besonderer
+bestimmmte Personengruppen die ausnamsweise kündigungs
+	Betriebsratsmitglieder
+		ist eine AN schutzorgansiation, der kann ab einer bestimmten
+	Mütter 
+		AN ab dem zeitpunkt wo sie wissen dass sie Schwanger sind, bis zur Geburt, und 4 monate danach
+	Mütter und Väter
+		jene Eltern neugeborener Eltern, die Karenzurlaub in Anspruch nehmen max 3 Jahre und 4 Wochen danach
+	 Präsens- /Zivildiener
+		 Karenzurlaub bis zur Einberufung und 4 Wochen danach
+	 Behinderte
+		 nicht jede führt dazu (Behinderteneinstellungsgesetz)
+	 Lehrlinge
+		 können nicht gekündigt werden
