@@ -120,8 +120,8 @@ Türken wehrten sich gegen Vertrag: Krieg mit Griechenland (K………………�
 
 **Der Völkerbund**:
 
-Der amerikanische Präsident W………………………….. legte als Grundlage für den Frieden ein …………………………………………… vor. Lieblingsidee: ………………………………………….. (= die Vorgängerorganisation der ………………… und hatte den Sitz in G……………….. )
+Der amerikanische Präsident ==Wilson== legte als Grundlage für den Frieden ein 14-Punkte-Programm vor. Lieblingsidee: ==Völkerbund== (= die Vorgängerorganisation der ==Vereinten Nationen== und hatte den Sitz in ==Gems== )
 
-Ziele: Sicherung des F………………….., Abrüstung und F…………………………………………………….
+Ziele: Sicherung des ==Friedens== Abrüstung und ==Flüchtlingshilfe==
 
-Probleme: Die U……… wurden dann nicht Mitglied, weil der Senat den Beitritt zum Völkerbund ablehnte. Nach dem Ersten Weltkrieg verfolgten die USA eine I……………………………….. (sie wollten sich in Europa nicht mehr einmischen). Die meisten Mitglieder des Völkerbundes verfolgten eigene I……………………... und damit war die Organisation machtlos.
+Probleme: Die ==USA== wurden dann nicht Mitglied, weil der Senat den Beitritt zum Völkerbund ablehnte. Nach dem Ersten Weltkrieg verfolgten die USA eine ==Isolationspolitik== (sie wollten sich in Europa nicht mehr einmischen). Die meisten Mitglieder des Völkerbundes verfolgten eigene ==Interressen== und damit war die Organisation machtlos.
