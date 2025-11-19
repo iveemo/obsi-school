@@ -4,31 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "998d9670c6d42371",
+        "id": "c08d4bd5964eeaa5",
         "type": "tabs",
         "children": [
           {
-            "id": "2bf9b67970931a74",
+            "id": "d5250c738b328493",
             "type": "leaf",
             "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/putzi-lernen 2025-11-14 14.49.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "putzi-lernen 2025-11-14 14.49.26.excalidraw"
-            }
-          },
-          {
-            "id": "454ea306cf7b8295",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/putzi-lernen 2025-11-14 14.49.26.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "putzi-lernen 2025-11-14 14.49.26.excalidraw"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
@@ -216,8 +202,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2bf9b67970931a74",
+  "active": "d5250c738b328493",
   "lastOpenFiles": [
+    "excalidraw/putzi-lernen 2025-11-14 14.49.26.excalidraw.md",
     "4.klasse/mathe/Differential/putzi-lernen.md",
     "4.klasse/mathe/Differential/Differentialgleichungen.md",
     "4.klasse/englisch/Article.md",
@@ -226,7 +213,6 @@
     "4.klasse/itsi/zivk/Datenschutz.md",
     "4.klasse/itsi/zivk/Systemsicherheit.md",
     "4.klasse/itsi/zivk/keine ahnung.md",
-    "excalidraw/putzi-lernen 2025-11-14 14.49.26.excalidraw.md",
     "4.klasse/wir/fryj/7. einvernähmliche Auflösung.md",
     "4.klasse/wir/fryj/6. Vorzeitiger Austritt.md",
     "4.klasse/wir/fryj/5. Entlassung.md",
