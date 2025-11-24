@@ -11,3 +11,20 @@ Wie Tief (phasen) soll eingegangen werden
 		Risiko/Schwachstellen analyse?
 	asd
 	asd
+
+Beteiligte Personen
+AG und AN (meist pen-test team)
+verantwortungspersonen
+Poe-Engagement
+	Auftraggeber (CEO/IT-Verantwortliche)
+	Auftragnehmer/Pentester (intern od. extern)
+	Sicherheitsverantw. (Incidents, Datenschutz, Patches...)
+	Rechtl. Stellen
+
+Kommunikation
+	Wen kontaktieren?
+	Was machen bei kritischen Funden
+	Status-Updates (was, wie oft, wer...)
+
+Scope & Ziele
+	Welche technischen
