@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/mathe/Differential/Lineare Diffgl. 2. Ordnung.md",
+                "file": "4.klasse/itsi/kryp/WH RSA-Verschl..md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lineare Diffgl. 2. Ordnung"
+              "title": "WH RSA-Verschl."
+            }
+          },
+          {
+            "id": "541b63a0373ada64",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "excalidraw/WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw.md"
+              },
+              "icon": "excalidraw-icon",
+              "title": "WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,8 +219,15 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "d5250c738b328493",
+  "active": "541b63a0373ada64",
   "lastOpenFiles": [
+    "4.klasse/itsi/kryp/WH RSA-Verschl..md",
+    "excalidraw/WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw.md",
+    "4.klasse/itsi/kryp/Angriffsarten.md",
+    "4.klasse/itsi/zivk/Pen-Testing.md",
+    "4.klasse/itsi/zivk/Systemsicherheit.md",
+    "4.klasse/itsi/zivk/Datenschutz.md",
+    "4.klasse/itsi/zivk/keine ahnung.md",
     "4.klasse/mathe/Differential/Lineare Diffgl. 2. Ordnung.md",
     "excalidraw/putzi-lernen 2025-11-14 14.49.26.excalidraw.md",
     "4.klasse/mathe/Differential/putzi-lernen.md",
@@ -215,9 +235,6 @@
     "4.klasse/englisch/Article.md",
     "4.klasse/englisch/Report.md",
     "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
-    "4.klasse/itsi/zivk/Datenschutz.md",
-    "4.klasse/itsi/zivk/Systemsicherheit.md",
-    "4.klasse/itsi/zivk/keine ahnung.md",
     "4.klasse/wir/fryj/7. einvernähmliche Auflösung.md",
     "4.klasse/wir/fryj/6. Vorzeitiger Austritt.md",
     "4.klasse/wir/fryj/5. Entlassung.md",
@@ -231,16 +248,12 @@
     "excalidraw/Elektrische Felder 2025-11-11 15.10.29.excalidraw.md",
     "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
     "4.klasse/itsi/kryp/RSA.md",
-    "excalidraw/RSA 2025-11-10 09.34.37.excalidraw.md",
-    "excalidraw/RSA 2025-11-10 09.34.06.excalidraw.md",
-    "4.klasse/nawi/Felder/Elektrische Felder.md",
     "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
     "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.004.png",
     "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.003.png",
     "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.002.png",
     "4.klasse/nawi/Felder/img",
-    "4.klasse/nawi/Schwingungen/Aufgaben_Schwingung.md",
     "4.klasse/nawi/Felder",
     "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "4.klasse/nawi/Schwingungen/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
