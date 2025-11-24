@@ -27,4 +27,8 @@ Kommunikation
 	Status-Updates (was, wie oft, wer...)
 
 Scope & Ziele
-	Welche technischen
+	Welche technischen Systeme (IPs, Domains, Anwendungen, ...) (Target/Non Target)
+	Physische Systeme? (On-site, Social engineering, ...)
+	Angriffstechniken (wie weit darf der Angriff gehen)
+	Testdauer & Testzeiten (Wie lange geht d. Auftrag, Wann darf ich testen?)
+	Nachweise & Berichterstattung (Wie viel muss ich dokumentieren, gibt es Verbesserungsvorschläge ...)
