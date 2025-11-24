@@ -1,1 +1,1 @@
-![[WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw]]
+![[WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw|100%]]

@@ -4,7 +4,6 @@ tags:
   - ggp
 date: 2025-10-06T10:05:00
 ---
-
 **Frankreich – Deutschland**
 "Revanche" für Verlust von Elsass-Lothringen (1870/71 dt.-frz-Krieg)
 Kolonien: Marokko-Krisen
