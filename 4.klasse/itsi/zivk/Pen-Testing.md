@@ -32,3 +32,21 @@ Scope & Ziele
 	Angriffstechniken (wie weit darf der Angriff gehen)
 	Testdauer & Testzeiten (Wie lange geht d. Auftrag, Wann darf ich testen?)
 	Nachweise & Berichterstattung (Wie viel muss ich dokumentieren, gibt es Verbesserungsvorschläge ...)
+
+## Information gathering
+2 Kategorien (und ein zwischenstand)
+
+Wenig bis keine traces aber begrenzte Information die man finden kann
+
+Bestimmte Ressourcen die eindeutig im Besitz meines Zieles sind prüfen.
+
+| Passive                                       | Aktiv                                             | (made up) semi-passiv                                                      |
+| --------------------------------------------- | ------------------------------------------------- | -------------------------------------------------------------------------- |
+| ohne direkte Interaktionen mit Zielsystem<br> | direkte Interaktion mit Zielsys.                  | indirekte Interaktion über offentl. Sys. die mit Ziel im Verbindung Stehen |
+| alle öffentlich zugängliche Informationen     | etwas das auf der Antwort einer Nachricht basiert |                                                                            |
+| Bsp: google suche                             | Jemanden Fragen                                   |                                                                            |
+passive -> OSINT (Open Source Intelligence)
+	Google, Social-Media, externe Websiten, Presseartikel, Stellenausschreibungen, ....
+	Metadaten (Zus. Info zu Dateien, zB Author, Geolocation, Versionen, .... )
+	Leaks (Userdbs, Passwörter, .....)
+	
