@@ -11,14 +11,12 @@
             "id": "d5250c738b328493",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4.klasse/itsi/zivk/Pen-Testing.md",
-                "mode": "source",
-                "source": false
+                "file": "4.klasse/nawi/Skript_4HITEL.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Pen-Testing"
+              "icon": "lucide-file-text",
+              "title": "Skript_4HITEL"
             }
           },
           {
@@ -220,8 +218,15 @@
   },
   "active": "d5250c738b328493",
   "lastOpenFiles": [
-    "4.klasse/itsi/zivk/Systemsicherheit.md",
+    "4.klasse/nawi/mathe üben.md",
+    "4.klasse/nawi/Schwingungen/Schwingungen und Wellen.md",
+    "4.klasse/nawi/Magnet Feld/Aufgaben.md",
+    "4.klasse/nawi/Elektrisches Felde/Aufgaben.md",
+    "4.klasse/nawi/Elektrisches Felde/Elektrische Felder.md",
     "4.klasse/itsi/zivk/Pen-Testing.md",
+    "4.klasse/nawi/Magnet Feld",
+    "4.klasse/nawi/Felder/Magnet Feld.md",
+    "4.klasse/itsi/zivk/Systemsicherheit.md",
     "4.klasse/itsi/zivk/keine ahnung.md",
     "4.klasse/eth/notizen.md",
     "4.klasse/eth/kys.md",
@@ -240,20 +245,14 @@
     "4.klasse/mathe/Differential/Lineare Diffgl. 2. Ordnung.md",
     "excalidraw/putzi-lernen 2025-11-14 14.49.26.excalidraw.md",
     "4.klasse/mathe/Differential/putzi-lernen.md",
-    "4.klasse/mathe/Differential/Differentialgleichungen.md",
-    "4.klasse/englisch/Article.md",
-    "4.klasse/englisch/Report.md",
-    "4.klasse/wir/fryj/7. einvernähmliche Auflösung.md",
-    "4.klasse/wir/fryj/6. Vorzeitiger Austritt.md",
-    "4.klasse/wir/fryj/5. Entlassung.md",
-    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
+    "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
     "4.klasse/nawi/Skript_4HITEL.pdf",
-    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
-    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.004.png",
-    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.003.png",
-    "4.klasse/nawi/Felder/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.002.png",
-    "4.klasse/nawi/Felder/img",
-    "4.klasse/nawi/Felder",
+    "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
+    "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.004.png",
+    "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.003.png",
+    "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.002.png",
+    "4.klasse/nawi/Elektrisches Felde/img",
+    "4.klasse/nawi/Elektrisches Felde",
     "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "4.klasse/nawi/Schwingungen/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/Schwingungen/img/Aspose.Words.a2b63523-55b6-48b3-bf17-d8e2533cb5e8.014.png",
@@ -265,7 +264,6 @@
     "4.klasse/mathe/Differential",
     "images/Pasted image 20251014153002.png",
     "images/Pasted Image 20251014152516_766.png",
-    "4.klasse/nwt/mesh/devices",
     "4.klasse/nawi/Untitled.canvas"
   ]
 }
