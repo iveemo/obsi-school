@@ -11,12 +11,14 @@
             "id": "d5250c738b328493",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4.klasse/nawi/Skript_4HITEL.pdf"
+                "file": "4.klasse/mathe/Differential/putzi-lernen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Skript_4HITEL"
+              "icon": "lucide-file",
+              "title": "putzi-lernen"
             }
           },
           {
@@ -218,6 +220,17 @@
   },
   "active": "d5250c738b328493",
   "lastOpenFiles": [
+    "4.klasse/mathe/Differential/smü.md",
+    "4.klasse/mathe/Differential/partielles Ableiten.md",
+    "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
+    "4.klasse/mathe/Differential/Lineare Diffgl. 2. Ordnung.md",
+    "4.klasse/mathe/Differential/Differentialgleichungen.md",
+    "4.klasse/mathe/Differential/22.10.2025.md",
+    "4.klasse/mathe/Differential/putzi-lernen.md",
+    "4.klasse/mathe/Differential/lkasfd.md",
+    "4.klasse/mathe/Differential/2.HÜ.md",
+    "4.klasse/mathe/Differential/Substituieren.md",
+    "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/nawi/mathe üben.md",
     "4.klasse/nawi/Schwingungen/Schwingungen und Wellen.md",
     "4.klasse/nawi/Magnet Feld/Aufgaben.md",
@@ -235,18 +248,7 @@
     "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/ggp/ges/Kopenhagener Kriterien.md",
     "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
-    "4.klasse/ggp/ges/idk.md",
-    "4.klasse/ggp/ges/Trenchgun.md",
-    "4.klasse/itsi/kryp/Angriffsarten.md",
-    "4.klasse/itsi/kryp/WH RSA-Verschl..md",
-    "4.klasse/itsi/kryp/kryptografie.md",
-    "excalidraw/WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw.md",
-    "4.klasse/itsi/zivk/Datenschutz.md",
-    "4.klasse/mathe/Differential/Lineare Diffgl. 2. Ordnung.md",
-    "excalidraw/putzi-lernen 2025-11-14 14.49.26.excalidraw.md",
-    "4.klasse/mathe/Differential/putzi-lernen.md",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
-    "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.004.png",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.003.png",
