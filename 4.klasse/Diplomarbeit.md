@@ -17,3 +17,5 @@ diesjährigen
 - Time tracker für mitarbeiter
 - click and collect system (Bestellung per web bei sasha)
 - indoor positioning system (bluetooth beacons und APs)
+
+deception bereich (honeypots und so)
