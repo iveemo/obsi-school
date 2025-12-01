@@ -25,14 +25,12 @@
             "id": "b149bb0a7bb68c4f",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4.klasse/mathe/Differential/3. HÜ.md",
-                "mode": "source",
-                "source": false
+                "file": "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf"
               },
-              "icon": "lucide-file",
-              "title": "3. HÜ"
+              "icon": "lucide-file-text",
+              "title": "EBCL Betriebswirtschaft_E-Book (2024)"
             }
           },
           {
@@ -235,8 +233,8 @@
   },
   "active": "b149bb0a7bb68c4f",
   "lastOpenFiles": [
-    "4.klasse/mathe/Differential/2. HÜ.md",
     "4.klasse/mathe/Differential/3. HÜ.md",
+    "4.klasse/mathe/Differential/2. HÜ.md",
     "4.klasse/mathe/Differential/Differentialgleichungen.md",
     "4.klasse/mathe/Differential/Drawing 2025-11-25 19.48.36.excalidraw.md",
     "4.klasse/mathe/Differential/Drawing 2025-11-25 21.54.21.excalidraw.md",
