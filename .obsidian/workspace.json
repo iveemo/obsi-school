@@ -25,12 +25,14 @@
             "id": "b149bb0a7bb68c4f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf"
+                "file": "4.klasse/itsi/zivk/keine ahnung.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "EBCL Betriebswirtschaft_E-Book (2024)"
+              "icon": "lucide-file",
+              "title": "keine ahnung"
             }
           },
           {
@@ -233,6 +235,8 @@
   },
   "active": "b149bb0a7bb68c4f",
   "lastOpenFiles": [
+    "4.klasse/itsi/zivk/Datenschutz.md",
+    "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "4.klasse/mathe/Differential/3. HÜ.md",
     "4.klasse/mathe/Differential/2. HÜ.md",
     "4.klasse/mathe/Differential/Differentialgleichungen.md",
@@ -259,7 +263,6 @@
     "4.klasse/nawi/Magnet Feld/Aufgaben.md",
     "4.klasse/nawi/Elektrisches Felde/Aufgaben.md",
     "4.klasse/nawi/Elektrisches Felde/Elektrische Felder.md",
-    "4.klasse/itsi/zivk/Pen-Testing.md",
     "4.klasse/nawi/Magnet Feld",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
@@ -268,7 +271,6 @@
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.002.png",
     "4.klasse/nawi/Elektrisches Felde/img",
     "4.klasse/nawi/Elektrisches Felde",
-    "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "4.klasse/nawi/Schwingungen/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/Schwingungen/img/Aspose.Words.a2b63523-55b6-48b3-bf17-d8e2533cb5e8.014.png",
     "4.klasse/nawi/Schwingungen/img",

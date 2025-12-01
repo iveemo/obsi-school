@@ -1,4 +1,4 @@
-Asset
+	Asset
 	Alles, was einen Wirtschaftlichen Wert hat für ein Unternehmen (von Hardware bis Software, alles, was für uns Relevant ist) Computer, Software, Dienste (Services)
 CIA – Basissicherheit
 V
