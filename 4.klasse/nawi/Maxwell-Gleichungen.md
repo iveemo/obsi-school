@@ -1,0 +1,1 @@
+![[Maxwell-Gleichungen 2025-12-02 15.17.17.excalidraw]]
