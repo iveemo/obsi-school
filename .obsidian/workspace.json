@@ -11,10 +11,12 @@
             "id": "a21761d4969c35ce",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
+              "type": "pdf",
+              "state": {
+                "file": "4.klasse/nawi/Skript_4HITEL.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Skript_4HITEL"
             }
           }
         ]
@@ -202,8 +204,9 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "3862ac80324f7886",
+  "active": "a21761d4969c35ce",
   "lastOpenFiles": [
+    "4.klasse/nawi/mathe üben.md",
     "4.klasse/englisch/beach arguments.md",
     "excalidraw/WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw.md",
     "4.klasse/wir/fryj/Kündigung.md",
@@ -231,7 +234,6 @@
     "4.klasse/mathe/Differential/Drawing 2025-11-25 20.57.47.excalidraw.md",
     "4.klasse/mathe/Differential/Drawing 2025-11-25 20.35.41.excalidraw.md",
     "4.klasse/mathe/Differential/22.10.2025.md",
-    "4.klasse/mathe/Differential/putzi-lernen.md",
     "4.klasse/nawi/Magnet Feld",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
