@@ -4,65 +4,20 @@
     "type": "split",
     "children": [
       {
-        "id": "c08d4bd5964eeaa5",
+        "id": "eb8a200c8638b432",
         "type": "tabs",
         "children": [
           {
-            "id": "d5250c738b328493",
+            "id": "a21761d4969c35ce",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.klasse/mathe/Differential/3. HÜ.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "3. HÜ"
-            }
-          },
-          {
-            "id": "b149bb0a7bb68c4f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.klasse/nawi/Maxwell-Gleichungen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Maxwell-Gleichungen"
-            }
-          },
-          {
-            "id": "eaab4c9fcac3e871",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.klasse/wir/fryj/Kündigung.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Kündigung"
-            }
-          },
-          {
-            "id": "541b63a0373ada64",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw"
+              "title": "New tab"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -247,20 +202,22 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "eaab4c9fcac3e871",
+  "active": "a21761d4969c35ce",
   "lastOpenFiles": [
+    "excalidraw/WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw.md",
+    "4.klasse/wir/fryj/Kündigung.md",
+    "4.klasse/nawi/Maxwell-Gleichungen.md",
+    "4.klasse/mathe/Differential/3. HÜ.md",
     "4.klasse/wir/fryj/Hauptleistungspfilchten.md",
     "4.klasse/wir/fryj/Dienstzeugnis.md",
     "4.klasse/wir/fryj/Arbeitsrecht.md",
     "4.klasse/wir/fryj/Der AN-Begriff.md",
     "4.klasse/wir/fryj/Dauer der DV.md",
     "excalidraw/Maxwell-Gleichungen 2025-12-02 15.17.17.excalidraw.md",
-    "4.klasse/nawi/Maxwell-Gleichungen.md",
     "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/itsi/zivk/keine ahnung.md",
     "4.klasse/itsi/zivk/Datenschutz.md",
     "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
-    "4.klasse/mathe/Differential/3. HÜ.md",
     "4.klasse/mathe/Differential/2. HÜ.md",
     "4.klasse/mathe/Differential/Differentialgleichungen.md",
     "4.klasse/mathe/Differential/Drawing 2025-11-25 19.48.36.excalidraw.md",
@@ -275,8 +232,6 @@
     "4.klasse/mathe/Differential/22.10.2025.md",
     "4.klasse/mathe/Differential/putzi-lernen.md",
     "4.klasse/mathe/Differential/smü.md",
-    "4.klasse/mathe/Differential/partielles Ableiten.md",
-    "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/nawi/Magnet Feld",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
