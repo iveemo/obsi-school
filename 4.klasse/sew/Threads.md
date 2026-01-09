@@ -25,25 +25,28 @@ MeinThread t1 = new MeinThread();
 ```java
 t1.start();
 ```
-
+6) falsches starten
 ```java
-//wie erstellt man einen Thread 
-class MeinThread extends Thread
-//welche Methode wird überschrieben
-run()
-//Thread erzeugen
-MeinThread t1 = new MeinThread();
-//Starten
-t1.start();
-//falsches starten
 t1.run(); //läuft nicht als Thread nicht Parallel!!
-/*wann ist ein Thread beendet
-1) run() beendet
-2) Programm Beendet
-3) interrupt() //-s-t-o-p-
-*/
-//join()
-// ein Thread wartet bis der andere Thread beendet ist
 ```
+7) wann ist ein Thread beendet
+	1) run() beendet
+	2) Programm Beendet
+	3) interrupt() //-s-t-o-p-
+8) was join()
+ein Thread wartet bis der andere Thread beendet ist
+
 2\. Möglichkeit
 class MeinThread extends BB implements Rumble
+9) Dadlock
+```mermaid
+flowchart TB
+
+    n2["T1"] --> n1(["Recourse 2"]) & n3(["Recourse 1"])
+    n4["T2"] --> n1 & n3
+
+    n2@{ shape: rect}
+    n4@{ shape: rect}
+	A@{ shape: braces, label: "synchronized" }
+```
+asd
