@@ -14,6 +14,12 @@ $$\begin{aligned}
 \end{aligned}$$
 Konvergente Reihe falls $|a|<1$
 divergent falls $|a| \geq 1$
-$$\begin{aligned}
-\sum_{n=0}^\infty \cfrac{1}{4^n} = \sum_{n=0}^\infty \left( \cfrac{1}{4} \right)^n = \cfrac{1}{1-\cfrac{1}{4}}=\cfrac{1}{\cfrac{3}{4}}=\cfrac{4}{3} \qquad \sum_{n=0}^\infty b_{1}q^k =\cfrac{b_{1}}{1-q}
+$$\begin{aligned} \text{5.5a)}
+&\sum_{n=0}^\infty \cfrac{1}{4^n} = \sum_{n=0}^\infty \left( \cfrac{1}{4} \right)^n = \cfrac{1}{1-\cfrac{1}{4}}=\cfrac{1}{\cfrac{3}{4}}=\cfrac{4}{3} \qquad \boxed{\sum_{n=0}^\infty b_{1} \; q^k =\cfrac{b_{1}}{1-q}}\\
+
+\text{b)} &\sum_{n=0}^\infty \cfrac{1}{3^{2n}} = \sum_{n=0}^\infty = \left( \cfrac{1}{q} \right)^n = \cfrac{1}{1-\cfrac{1}{q}}=\cfrac{1}{\cfrac{8}{9}} = \cfrac{9}{8}\\
+
+\text{c)} &\sum_{k=0}^\infty \cfrac{2}{3^{k}} = 2 \cdot \left( \cfrac{1}{3} \right)^k =\cfrac{2}{1-\cfrac{1}{3}}=\cfrac{2}{\cfrac{2}{3}} = 3\\
+
+\text{d)} &\sum_{m=0}^\infty 3 \cdot 10^{-m} =  3 \cdot \left( \cfrac{1}{10} \right)^{m} = \cfrac{3}{1-\cfrac{1}{10}}=\cfrac{3}{\cfrac{9}{10}} = \cfrac{10}{8}
 \end{aligned}$$
