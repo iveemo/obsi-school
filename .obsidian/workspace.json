@@ -23,12 +23,14 @@
             "id": "2b73ed653594185e",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.4"
+                "file": "4.klasse/mathe/Folgen & Reihen.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.4"
+              "icon": "lucide-file",
+              "title": "Folgen & Reihen"
             }
           }
         ],
@@ -217,8 +219,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2b73ed653594185e",
+  "active": "3862ac80324f7886",
   "lastOpenFiles": [
+    "4.klasse/mathe/Differential/Lineare Diffgl. 2. Ordnung.md",
+    "4.klasse/mathe/Differential/22.10.2025.md",
+    "4.klasse/mathe/Differential/3. HÜ.md",
+    "4.klasse/mathe/Differential/2. HÜ.md",
+    "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/itsi/kryp/Handy-Signatur.md",
@@ -228,19 +235,16 @@
     "4.klasse/sew/Threads.md",
     "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "4.klasse/wir/fryj/Arbeitsrecht/5. Entlassung.md",
-    "4.klasse/mathe/Differential/Folgen & Reihen.md",
+    "4.klasse/mathe/Folgen & Reihen.md",
     "4.klasse/wir/fryj/Arbeitsrecht",
     "4.klasse/wir/fryj/Arbeitsr.md",
     "4.klasse/wir/fryj/Sozialrecht",
     "images/Ink/Drawing/2026.1.7 - 10.31am.drawing",
     "4.klasse/mathe/Differential/Differentialgleichungen.md",
-    "4.klasse/mathe/Differential/22.10.2025.md",
     "4.klasse/mathe/Differential/Drawing 2025-11-25 22.02.29.excalidraw.md",
     "4.klasse/mathe/Differential/Substituieren.md",
     "4.klasse/mathe/Differential/partielles Ableiten.md",
     "4.klasse/mathe/Differential/lkasfd.md",
-    "4.klasse/mathe/Differential/Lineare Diffgl. 2. Ordnung.md",
-    "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/itsi/kryp/Modulo- Rechnen.md",
     "4.klasse/itsi/kryp/kryptografie.md",
@@ -249,7 +253,6 @@
     "4.klasse/englisch/beach arguments.md",
     "excalidraw/WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw.md",
     "4.klasse/wir/fryj/Arbeitsrecht/Kündigung.md",
-    "4.klasse/nawi/Maxwell-Gleichungen.md",
     "4.klasse/nawi/Magnet Feld",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
@@ -260,7 +263,6 @@
     "4.klasse/nawi/Elektrisches Felde",
     "4.klasse/nawi/Schwingungen/Aufgabenblatt_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/Schwingungen/img/Aspose.Words.a2b63523-55b6-48b3-bf17-d8e2533cb5e8.014.png",
-    "4.klasse/nawi/Schwingungen/img",
     "images/raqgf-Winchester-1897-Parts-Diagram.webp",
     "images/8536eef0f5f9f58220776ad1f361bb63-718126834.jpg",
     "images/Pasted image 20251014153002.png",
