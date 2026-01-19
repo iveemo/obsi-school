@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/mathe/Folgen und Reihen/Folgen.md",
+                "file": "4.klasse/itsi/kryp/kryptografie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Folgen"
+              "title": "kryptografie"
             }
           }
         ],
@@ -221,8 +221,11 @@
   },
   "active": "2b73ed653594185e",
   "lastOpenFiles": [
-    "4.klasse/mathe/Folgen und Reihen/Reihen.md",
+    "4.klasse/itsi/kryp/Handy-Signatur.md",
+    "4.klasse/itsi/kryp/Digiatle Signatur.md",
+    "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/mathe/Folgen und Reihen/Folgen.md",
+    "4.klasse/mathe/Folgen und Reihen/Reihen.md",
     "4.klasse/mathe/Folgen und Reihen",
     "4.klasse/mathe/Differential/Lineare Diffgl. 2. Ordnung.md",
     "4.klasse/mathe/Differential/22.10.2025.md",
@@ -231,7 +234,6 @@
     "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
     "4.klasse/nawi/Skript_4HITEL.pdf",
-    "4.klasse/itsi/kryp/Handy-Signatur.md",
     "4.klasse/itsi/kryp/Angriffsarten.md",
     "4.klasse/wir/fryj/Sozialrecht/Sozialrecht.md",
     "4.klasse/sew/4kl-sew.md",
@@ -247,10 +249,8 @@
     "4.klasse/mathe/Differential/Substituieren.md",
     "4.klasse/mathe/Differential/partielles Ableiten.md",
     "4.klasse/mathe/Differential/lkasfd.md",
-    "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/itsi/kryp/Modulo- Rechnen.md",
     "4.klasse/itsi/kryp/kryptografie.md",
-    "4.klasse/itsi/kryp/Digiatle Signatur.md",
     "4.klasse/nawi/mathe üben.md",
     "4.klasse/englisch/beach arguments.md",
     "excalidraw/WH RSA-Verschl. 2025-11-24 09.15.07.excalidraw.md",
