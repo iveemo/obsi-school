@@ -23,3 +23,22 @@ $$\begin{aligned} \text{5.5a)}
 
 \text{d)} &\sum_{m=0}^\infty 3 \cdot 10^{-m} =  3 \cdot \left( \cfrac{1}{10} \right)^{m} = \cfrac{3}{1-\cfrac{1}{10}}=\cfrac{3}{\cfrac{9}{10}} = \cfrac{10}{8}
 \end{aligned}$$
+Konvergent = es ==hat einen== Grenzwert
+Divergent = ==keinen== Grenzwert
+
+## Alternierende Reihe
+$c_{1} + c_{2} - c_{3} + c_{4} -c_{5} + \dots\ \to$ alternierende Reihe, wenn aufeinanderfolgende Glieder wechselnde Vorzeichen haben.
+
+## Leibnitz-Kriterium
+Die alternierende Reihe $c_{1}-c_{2} + \dots$ (alle a > 0) konvergiert, wenn die Folge $(c_{1},c_{2},\dots)$ eine monotone Nullfolge ist.
+$$\begin{aligned}
+\text{5.11)b)} \quad
+&\sum_{n=0}^{\infty}(-1)^{n} \cfrac{1}{n!} \\
+&c_{0}-c_{1}+c_{2}-c_{3}+ \dots \ = 1-1+\cfrac{1}{2}-\cfrac{1}{6}+\cfrac{1}{24}-\dots\\
+&c_{n} = \cfrac{1}{n!} \qquad c_{n+1} = \cfrac{1}{(n+1)!} \qquad c_{n+1} \leq c_{1} \implies \lim_{ n \to \infty } \ln = 0 \\
+\\
+\text{5.11)c)} \quad
+&\sum_{n=0}^{\infty}\left( - \frac{1}{3} \right)^{n} = 1- \cfrac{1}{3} + \cfrac{1}{9} - \cfrac{1}{27} + \dots \\
+&c_{n} \geq c_{n+1} \implies \lim_{ n \to \infty } = 0 \implies \text{konvergiert} 
+\end{aligned}
+$$

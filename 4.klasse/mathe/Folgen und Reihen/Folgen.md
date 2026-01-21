@@ -5,7 +5,7 @@ tags:
 date: 2026-01-07T10:05:00
 ---
 Zahlenfolgen: Geordente Liste von Zahlen
-	Bsp $(1, \cfrac{1}{}, \cfrac{1}{2}, \cfrac{1}{3}, \cfrac{1}{4}, \dots)$
+	Bsp $(1, \cfrac{1}{2}, \cfrac{1}{3}, \cfrac{1}{4}, \dots)$
 	2. Folgenglied $a_{2}$
 	n-tes Folgenglied: $\boxed{a_{n}=\cfrac{1}{n}} \qquad \lim_{ n \to \infty } a_{n} \quad\lim_{ n \to \infty } \cfrac{1}{n}=0$
 	    Bildungsgesetz ^
