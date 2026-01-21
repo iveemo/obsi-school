@@ -23,18 +23,26 @@
             "id": "2b73ed653594185e",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
-                "mode": "source",
-                "source": false
+                "file": "4.klasse/nawi/Skript_4HITEL.pdf"
               },
+              "icon": "lucide-file-text",
+              "title": "Skript_4HITEL"
+            }
+          },
+          {
+            "id": "aaaea3ccc2bb778f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Erster Weltkrieg Vorgeschichte"
+              "title": "New tab"
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -219,12 +227,13 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2b73ed653594185e",
+  "active": "aaaea3ccc2bb778f",
   "lastOpenFiles": [
+    "4.klasse/nawi/Skript_4HITEL.pdf",
+    "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
     "4.klasse/ggp/4kl-ggp.md",
     "4.klasse/ggp/ges/Kopenhagener Kriterien.md",
     "4.klasse/ggp/ges/idk.md",
-    "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
     "4.klasse/itsi/kryp/Handy-Signatur.md",
     "4.klasse/itsi/kryp/kryptografie.md",
     "4.klasse/itsi/kryp/Digiatle Signatur.md",
@@ -238,7 +247,6 @@
     "4.klasse/mathe/Differential/2. HÜ.md",
     "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
-    "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/itsi/kryp/Angriffsarten.md",
     "4.klasse/wir/fryj/Sozialrecht/Sozialrecht.md",
     "4.klasse/sew/4kl-sew.md",
@@ -253,7 +261,6 @@
     "4.klasse/mathe/Differential/Drawing 2025-11-25 22.02.29.excalidraw.md",
     "4.klasse/mathe/Differential/Substituieren.md",
     "4.klasse/mathe/Differential/partielles Ableiten.md",
-    "4.klasse/mathe/Differential/lkasfd.md",
     "4.klasse/nawi/Magnet Feld",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.001.png",
     "4.klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
