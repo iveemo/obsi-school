@@ -40,5 +40,10 @@ $$\begin{aligned}
 \text{5.11)c)} \quad
 &\sum_{n=0}^{\infty}\left( - \frac{1}{3} \right)^{n} = 1- \cfrac{1}{3} + \cfrac{1}{9} - \cfrac{1}{27} + \dots \\
 &c_{n} \geq c_{n+1} \implies \lim_{ n \to \infty } = 0 \implies \text{konvergiert} 
+\\
+\text{5.10)f)} \quad
+&\sum_{n=1}^{\infty} n \cdot \left( \frac{1}{3} \right)^{n} = \sum_{n=1}^{\infty} \cfrac{n}{3^n} \\
+& \left|\cfrac{\ln+1}{\ln} \right| = \cfrac{\cfrac{n+1}{3^{n+1}}}{\cfrac{n}{3^n}} = \cfrac{(n+1)\cancel{3^n}}{\cancel{3^n} \cdot 3n} = \cfrac{n+1}{3n} = \cfrac{\cfrac{n}{n} + \cfrac{1}{n}}{\cfrac{3n}{n}} = \cfrac{1 + \cfrac{1}{n}}{3_{ \quad n \to \infty}}
+
 \end{aligned}
 $$
