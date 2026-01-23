@@ -49,12 +49,14 @@
             "id": "dd885c975a172a32",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "markdown",
               "state": {
-                "currentVersion": "1.11.5"
+                "file": "4.klasse/nwt/mesh/device-list.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.5"
+              "icon": "lucide-file",
+              "title": "device-list"
             }
           }
         ],
@@ -245,6 +247,8 @@
   },
   "active": "dd885c975a172a32",
   "lastOpenFiles": [
+    "4.klasse/nwt/mesh/devices/Lilygo T-Beam S3 Core.md",
+    "4.klasse/nwt/mesh/devices/Heltec v3.md",
     "4.klasse/mathe/Folgen und Reihen/Folgen.md",
     "4.klasse/mathe/Differential/Substituieren.md",
     "4.klasse/mathe/Differential/smü.md",
@@ -273,9 +277,7 @@
     "4.klasse/sew/4kl-sew.md",
     "4.klasse/sew/Threads.md",
     "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
-    "4.klasse/wir/fryj/Arbeitsrecht/5. Entlassung.md",
     "4.klasse/wir/fryj/Arbeitsrecht",
-    "4.klasse/wir/fryj/Arbeitsr.md",
     "4.klasse/wir/fryj/Sozialrecht",
     "images/Ink/Drawing/2026.1.7 - 10.31am.drawing",
     "4.klasse/nawi/Magnet Feld",
