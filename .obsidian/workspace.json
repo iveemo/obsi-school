@@ -4,75 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "eb8a200c8638b432",
+        "id": "10004b8412f4f451",
         "type": "tabs",
         "children": [
           {
-            "id": "a21761d4969c35ce",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4.klasse/nawi/Skript_4HITEL.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Skript_4HITEL"
-            }
-          },
-          {
-            "id": "2b73ed653594185e",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "4.klasse/nawi/Skript_4HITEL.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Skript_4HITEL"
-            }
-          },
-          {
-            "id": "aaaea3ccc2bb778f",
+            "id": "419aeeff8f910884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/mathe/Folgen und Reihen/Reihen.md",
+                "file": "4.klasse/wir/fryj/Sozialrecht/Sozialrecht.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Reihen"
-            }
-          },
-          {
-            "id": "dd885c975a172a32",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4.klasse/itsi/kryp/Blinde (RSA-)Signaturen.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Blinde (RSA-)Signaturen"
-            }
-          },
-          {
-            "id": "2f72b269bf54195c",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/Blinde (RSA-)Signaturen 2026-01-26 09.35.15.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Blinde (RSA-)Signaturen 2026-01-26 09.35.15.excalidraw"
+              "title": "Sozialrecht"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -257,11 +206,12 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "2f72b269bf54195c",
+  "active": "419aeeff8f910884",
   "lastOpenFiles": [
-    "excalidraw/Blinde (RSA-)Signaturen 2026-01-26 09.35.15.excalidraw.md",
-    "4.klasse/itsi/kryp/Blinde (RSA-)Signaturen.md",
+    "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/mathe/Folgen und Reihen/Reihen.md",
+    "4.klasse/itsi/kryp/Blinde (RSA-)Signaturen.md",
+    "excalidraw/Blinde (RSA-)Signaturen 2026-01-26 09.35.15.excalidraw.md",
     "4.klasse/mathe/Folgen und Reihen/Folgen.md",
     "4.klasse/nwt/mesh/device-list.md",
     "4.klasse/nwt/mesh/devices/Lilygo T-Beam S3 Core.md",
@@ -276,7 +226,6 @@
     "4.klasse/mathe/Differential/3. HÜ.md",
     "4.klasse/mathe/Differential/2. HÜ.md",
     "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
-    "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
     "4.klasse/ggp/4kl-ggp.md",
     "4.klasse/ggp/ges/Kopenhagener Kriterien.md",
@@ -287,7 +236,6 @@
     "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/mathe/Folgen und Reihen",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
-    "4.klasse/itsi/kryp/Angriffsarten.md",
     "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "4.klasse/wir/fryj/Arbeitsrecht",
     "4.klasse/wir/fryj/Sozialrecht",
