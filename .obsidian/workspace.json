@@ -13,15 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/wir/fryj/Sozialrecht/Sozialrecht.md",
+                "file": "4.klasse/mathe/Folgen und Reihen/Folgen.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sozialrecht"
+              "title": "Folgen"
+            }
+          },
+          {
+            "id": "08f7e7aa6d895576",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.11.7"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.11.7"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -206,13 +219,14 @@
       "obsidian42-brat:BRAT": false
     }
   },
-  "active": "419aeeff8f910884",
+  "active": "08f7e7aa6d895576",
   "lastOpenFiles": [
-    "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/mathe/Folgen und Reihen/Reihen.md",
+    "4.klasse/mathe/Folgen und Reihen/Folgen.md",
+    "4.klasse/wir/fryj/Sozialrecht/Sozialrecht.md",
+    "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/itsi/kryp/Blinde (RSA-)Signaturen.md",
     "excalidraw/Blinde (RSA-)Signaturen 2026-01-26 09.35.15.excalidraw.md",
-    "4.klasse/mathe/Folgen und Reihen/Folgen.md",
     "4.klasse/nwt/mesh/device-list.md",
     "4.klasse/nwt/mesh/devices/Lilygo T-Beam S3 Core.md",
     "4.klasse/nwt/mesh/devices/Heltec v3.md",
