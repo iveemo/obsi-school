@@ -25,12 +25,26 @@
             "id": "08f7e7aa6d895576",
             "type": "leaf",
             "state": {
-              "type": "release-notes",
+              "type": "pdf",
               "state": {
-                "currentVersion": "1.11.7"
+                "file": "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf"
               },
-              "icon": "lucide-book-up",
-              "title": "Release Notes 1.11.7"
+              "icon": "lucide-file-text",
+              "title": "EBCL Betriebswirtschaft_E-Book (2024)"
+            }
+          },
+          {
+            "id": "1ed9e4cf3a6d3c3c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4.klasse/wir/fryj/Sozialrecht/5. Pensionsversicherung.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "5. Pensionsversicherung"
             }
           }
         ],
@@ -221,6 +235,8 @@
   },
   "active": "08f7e7aa6d895576",
   "lastOpenFiles": [
+    "4.klasse/wir/fryj/Sozialrecht/5. Pensionsversicherung.md",
+    "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "4.klasse/mathe/Folgen und Reihen/Reihen.md",
     "4.klasse/mathe/Folgen und Reihen/Folgen.md",
     "4.klasse/wir/fryj/Sozialrecht/Sozialrecht.md",
@@ -246,11 +262,8 @@
     "4.klasse/ggp/ges/idk.md",
     "4.klasse/itsi/kryp/Handy-Signatur.md",
     "4.klasse/itsi/kryp/kryptografie.md",
-    "4.klasse/itsi/kryp/Digiatle Signatur.md",
-    "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/mathe/Folgen und Reihen",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
-    "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024) .pdf",
     "4.klasse/wir/fryj/Arbeitsrecht",
     "4.klasse/wir/fryj/Sozialrecht",
     "images/Ink/Drawing/2026.1.7 - 10.31am.drawing",
