@@ -1,1 +1,1 @@
-![[Blinde (RSA-)Signaturen 2026-01-26 09.35.15.excalidraw]]
+![[Blinde (RSA-)Signaturen 2026-01-26 09.35.15.excalidraw|100%]]
