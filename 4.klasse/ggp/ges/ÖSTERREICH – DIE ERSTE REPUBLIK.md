@@ -2,7 +2,7 @@
 
 # Die Ausschaltung des Parlaments (und die Gründung der „Vaterländischen Front“
 
-Im Jahr **1929** kam es zur **W**_______________________**,** die von den USA ausging. Diese hatte auch starke Auswirkungen auf die österreichische Wirtschaft: Völkerbundanleihe (Zusammenbruch der Creditanstalt: musste vom S_______________ gerettet werden).  Die A___________________________ stieg weiter an.
+Im Jahr **1929** kam es zur **W**_______________________**,** die von den USA ausging. Diese hatte auch starke Auswirkungen auf die österreichische Wirtschaft: Völkerbundanleihe (Zusammenbruch der Creditanstalt: musste vom S_______________ gerettet werden). Die A___________________________ stieg weiter an.
 
 Die innenpolitische Lage der Dreißigerjahre war sehr angespannt.
 
@@ -31,9 +31,9 @@ Deutsche mussten bei Einreise nach Österreich 1000 Mark (ca.___________________
 
 Schwere Kämpfe in W__________, Arbeiterbezirken, in Linz und in Steyr.
 
-Bundes_______, Exekutive und Heim________ brachen den Widerstand der Sozialdemokraten, die nur zum Teil kämpften (314 Tote, davon 196 Schutzbund): neun Anführer des Schutzbundes wurden hingerichtet, die Parteispitze flüchtete in die Tschechoslowakei.
+Bundes_______, Exekutive und Heim\________ brachen den Widerstand der Sozialdemokraten, die nur zum Teil kämpften (314 Tote, davon 196 Schutzbund): neun Anführer des Schutzbundes wurden hingerichtet, die Parteispitze flüchtete in die Tschechoslowakei.
 
-Verbot der ______________________ und der ___________Gewerkschaften
+Verbot der \______________________ und der \___________Gewerkschaften
 
 # - Der nationalsozialistische Putschversuch am 25. Juli 1934
 
