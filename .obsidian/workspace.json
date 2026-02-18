@@ -11,14 +11,12 @@
             "id": "2b1d3534576506ee",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "4.klasse/deutsch/4kl-deu.md",
-                "mode": "source",
-                "source": false
+                "file": "4.klasse/nawi/Skript_4HITEL.pdf"
               },
-              "icon": "lucide-file",
-              "title": "4kl-deu"
+              "icon": "lucide-file-text",
+              "title": "Skript_4HITEL"
             }
           }
         ]
@@ -208,6 +206,7 @@
   },
   "active": "2b1d3534576506ee",
   "lastOpenFiles": [
+    "4.klasse/deutsch/4kl-deu.md",
     "4.klasse/deutsch/Stilmittel.md",
     "4.klasse/ggp/ges/ÖSTERREICH – DIE ERSTE REPUBLIK.md",
     "excalidraw/Blinde (RSA-)Signaturen 2026-01-26 09.35.15.excalidraw.md",
@@ -235,7 +234,6 @@
     "4.klasse/mathe/Differential/2. HÜ.md",
     "4.klasse/mathe/Differential/1. Ordnung-Methode Trennung der Variablen.md",
     "4.klasse/ggp/ges/Erster Weltkrieg Vorgeschichte.md",
-    "4.klasse/ggp/4kl-ggp.md",
     "4.klasse/mathe/Folgen und Reihen",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
     "4.klasse/wir/fryj/Arbeitsrecht",
