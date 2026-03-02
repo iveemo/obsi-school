@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/itsi/kryp/Blinde (RSA-)Signaturen.md",
+                "file": "4.klasse/itsi/kryp/Bit Commitment_Fiat-Shamir-Protokoll.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blinde (RSA-)Signaturen"
+              "title": "Bit Commitment_Fiat-Shamir-Protokoll"
             }
           }
         ]
@@ -208,8 +208,9 @@
   },
   "active": "2b1d3534576506ee",
   "lastOpenFiles": [
-    "4.klasse/itsi/kryp/Angriffsarten.md",
     "4.klasse/itsi/kryp/Blinde (RSA-)Signaturen.md",
+    "4.klasse/itsi/kryp/Bit Commitment_Fiat-Shamir-Protokoll.md",
+    "4.klasse/itsi/kryp/Angriffsarten.md",
     "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/itsi/kryp/Digiatle Signatur.md",
     "4.klasse/itsi/kryp/Handy-Signatur.md",
@@ -235,7 +236,6 @@
     "4.klasse/nwt/mesh/devices/Lilygo T-Beam S3 Core.md",
     "4.klasse/nwt/mesh/devices/Heltec v3.md",
     "4.klasse/mathe/Differential/Substituieren.md",
-    "4.klasse/mathe/Differential/smü.md",
     "4.klasse/mathe/Folgen und Reihen",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
     "4.klasse/wir/fryj/Arbeitsrecht",
