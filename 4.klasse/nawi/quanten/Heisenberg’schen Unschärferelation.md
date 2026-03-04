@@ -15,7 +15,8 @@ Wenn man mit Elementarteilchen arbeitet, dann braucht man so genaue Messmethoden
 Zum Beispiel: Wenn man den Ort eines Elektrons ($m \approx 9 \cdot 10^{-31}kg$) auf $\Delta x \approx 10^{-6}$ genau bestimmen kann, dann gilt wegen $\Delta x \cdot \Delta p \geq \cfrac{\hbar}{2}$ und $\Delta p = m \cdot \Delta v$ : 
 $$
 \Delta v \geq \cfrac{\hbar}{m \cdot \Delta v \cdot 2} \approx \cfrac{1,055 \cdot 10^{-34}Js}{9 \cdot 10^{-31}kg \cdot 10^{-6}m \cdot 2} \approx 55,6 \cfrac{m}{s}
-$$Man kanndie Geschwindigkeit des Elektronsalso nurnoch auf $\pm 55,6 \cfrac{m}{s}$, genau bestimmen! Mitanderen Worten: Man hat keine Ahnung, ob das Elektron gerade stillsteht oder ob es sich mit 55,6 m/s von der Messstation wegbewegt. Wenn dir das komisch vorkommt, dann zurecht! Ich erinnere an das Zitat von Richard Feynman: „I think I can safely say, that nobody understands quantum physics.”
+$$
+Man kanndie Geschwindigkeit des Elektronsalso nurnoch auf $\pm 55,6 \cfrac{m}{s}$, genau bestimmen! Mitanderen Worten: Man hat keine Ahnung, ob das Elektron gerade stillsteht oder ob es sich mit 55,6 m/s von der Messstation wegbewegt. Wenn dir das komisch vorkommt, dann zurecht! Ich erinnere an das Zitat von Richard Feynman: „I think I can safely say, that nobody understands quantum physics.”
 Im Arbeitsteil auf der Rückseite werden wir den Doppelspaltversuch mit Hilfe der H.U. genauer untersuchen.
 
   
@@ -26,40 +27,28 @@ WirbetrachtennundieUnbestimmtheitvonOrtundImpulseinesElektronsundeinesProtons.Di
 
  1) Wir schicken nun einen Strahl von Elektronen durch einen Einzelspalt mit einer Spaltbreite von $5 \cdot 10^{-9}m$. Skizziere den Versuch. Zeichne auch ein x-y-Koordinatensystem ein. Die Richtung parallel zur Wand, in der der Spalt ist soll die y-Richtung und die Richtung normal dazu die x-Richtung sein.
 
-2) Die Teilchen werden durch eine Teilchenkanone so beschleunigt, sodass sie sich mit einer kinetischen Energie $E_{kin} = \cfrac{m \cdot v^2}{2}$ von etwa $1,6 \cdot 10^{-16}J$ bewegen. Berechne die Geschwindigkeit $v_{x}$ der Elektronen. Zeichne diese als Geschwindigkeitspfeil in die Skizze von a) ein.
+2) Die Teilchen werden durch eine Teilchenkanone so beschleunigt, sodass sie sich mit einer kinetischen Energie $E_{kin} = \cfrac{m \cdot v^2}{2}$ von etwa $1,6 \cdot 10^{-16}J$ bewegen. Berechne die Geschwindigkeit $v_{x}$ der Elektronen. Zeichne diese als Geschwindigkeitspfeil in die Skizze von 1) ein.
 
-  
+3) Vor dem Spalt wird nicht gemessen, wo sich das Teilchen genau aufhält. Was bedeutet das für die Ortsunschärfe $\Delta y$?
 
-3) Vor dem Spalt wird nicht gemessen, wo sich das Teilchen genau aufhält. Was bedeutet das für die Ortsunschärfe ?
+4) Wie groß ist die Ortsunschärfe $\Delta y$ der Teilchen zu dem Zeitpunkt, wo sie den Spalt durchqueren? (Zur Erinnerung: Die Spaltbreite ist oben gegeben.)
 
-4) Wie groß ist die Ortsunschärfe der Teilchen zu dem Zeitpunkt, wo sie den Spalt durchqueren? (Zur Erinnerung: Die Spaltbreite ist oben gegeben.)
+5) Was bedeutet das nun für die Geschwindigkeitsunschärfe $\Delta v_{y}$ (parallel zum Spalt) der Elektronen?
 
-5) Was bedeutet das nun für die Geschwindigkeitsunschärfe (parallel zum Spalt) der Elektronen?
+6) Wir wissen also $\Delta v_{y}$. Kommt das Elektron durch den Spalt hat es also eine Geschwindigkeit $v_{y}$ in y-Richtung von $-\cfrac{\Delta v_{y}}{2} \leq \Delta v_{y} \leq \cfrac{\Delta v_{y}}{2}$. Betrachten wir den Fall $v_{y} = \cfrac{\Delta v_{y}}{2}$.
 
-6) Wir wissen also . Kommt das Elektron durch den Spalt hat es also eine Geschwindigkeit in y-Richtung
+	1) Zeichne die Flugbahn in die Skizze von b) ein. Wenn sich ein Schirm in 2m Abstand von dem Spalt befindet.
 
-  
+	2) An welcher y-Position kommt das Elektron an? Hinweise:
 
-Δ Δ Δ
+		1) Du kennst von vorhin damit kannst du die Flugzeit nach dem Spalt berechnen.
 
-  
+		2) Nun kennst du die Flugzeit und , das ist alles was du brauchst.
 
-von − ≤ ≤~~ . Betrachten wir den Fall =~~ .
+11) Angenommen,dieElektronenverursachenkleineschwarzeFlecken,wennsieaufdenSchirmtreffen.Skizziere, wie diese schwarzen Flecken verteilt sind, wenn man viele Elektronen durch den Spalt fliegen lässt.
 
-  
+12) Erkläre, wie die Heisenberg’sche Unschärferelation mit der Beugung am Einzelspalt zusammenhängt.
 
-1. Zeichne die Flugbahn in die Skizze von b) ein. Wenn sich ein Schirm in 2m Abstand von dem Spalt befindet.
+13) Recherchiere die Masse eines Protons.
 
-2. An welcher y-Position kommt das Elektron an? Hinweise:
-
-3. Du kennst von vorhin damit kannst du die Flugzeit nach dem Spalt berechnen.
-
-4. Nun kennst du die Flugzeit und , das ist alles was du brauchst.
-
-5) Angenommen,dieElektronenverursachenkleineschwarzeFlecken,wennsieaufdenSchirmtreffen.Skizziere, wie diese schwarzen Flecken verteilt sind, wenn man viele Elektronen durch den Spalt fliegen lässt.
-
-6) Erkläre, wie die Heisenberg’sche Unschärferelation mit der Beugung am Einzelspalt zusammenhängt.
-
-7) Recherchiere die Masse eines Protons.
-
-8) Führe den gesamten oberen Lösungsweg (ohne Skizze) noch einmal für das Proton aus. Erkläre, wie sich das Verhalten der Protonen nach dem Spalt von dem der Elektronen unterscheidet.
+14) Führe den gesamten oberen Lösungsweg (ohne Skizze) noch einmal für das Proton aus. Erkläre, wie sich das Verhalten der Protonen nach dem Spalt von dem der Elektronen unterscheidet.
