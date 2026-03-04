@@ -45,10 +45,10 @@ WirbetrachtennundieUnbestimmtheitvonOrtundImpulseinesElektronsundeinesProtons.Di
 
 		2) Nun kennst du die Flugzeit und , das ist alles was du brauchst.
 
-11) Angenommen,dieElektronenverursachenkleineschwarzeFlecken,wennsieaufdenSchirmtreffen.Skizziere, wie diese schwarzen Flecken verteilt sind, wenn man viele Elektronen durch den Spalt fliegen lässt.
+7) Angenommen,die Elektronen verursachen kleines chwarze Flecken, wenn sie auf den Schirm treffen. Skizziere, wie diese schwarzen Flecken verteilt sind, wenn man viele Elektronen durch den Spalt fliegen lässt.
 
-12) Erkläre, wie die Heisenberg’sche Unschärferelation mit der Beugung am Einzelspalt zusammenhängt.
+8) Erkläre, wie die Heisenberg’sche Unschärferelation mit der Beugung am Einzelspalt zusammenhängt.
 
-13) Recherchiere die Masse eines Protons.
+9) Recherchiere die Masse eines Protons.
 
-14) Führe den gesamten oberen Lösungsweg (ohne Skizze) noch einmal für das Proton aus. Erkläre, wie sich das Verhalten der Protonen nach dem Spalt von dem der Elektronen unterscheidet.
+10) Führe den gesamten oberen Lösungsweg (ohne Skizze) noch einmal für das Proton aus. Erkläre, wie sich das Verhalten der Protonen nach dem Spalt von dem der Elektronen unterscheidet.
