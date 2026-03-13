@@ -1,4 +1,4 @@
-
+Personen und sachen
 # Rechstfähigkeit
 Die Fähigkeit träger von Rechten und Pflichten zu sein.
 
@@ -17,8 +17,17 @@ abhängig vom
 
 - Geisteskrankheit
 - hochgradige Geistesschwäche
-- vorübergehende Sinnesverwirrung
+- vorübergehende Sinnesverwirrung (z.B. Drogenkonsum)
 
 # Deliktfähigkeit
 aus eigenem rechtswidrigem Verhalten Schadenersatzpflichtig zu werden.
 (alles dei sind Handlungsfähigkeit, nicht wichtig)
+
+Wenn ich was mache das ich nicht darf (gesetzlich/vertraglich)
+wenn dadurch ein schaden entstäht ist dieser zu ersetzen.
+abhängig von alter und geisteszustand 
+
+- nur eine Altersklasse 14. Lj.
+	- kein fixes Alter sondern nur eine Richtschnur
+![[Bürgeliches Recht 2026-03-13 08.22.02.excalidraw|100%]]
+- Geisteszustand ---||---
