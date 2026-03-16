@@ -13,24 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "4.klasse/wir/fryj/Rechtsgeschäft/neues Kapitel ka.md",
+                "file": "4.klasse/itsi/kryp/Secure Multiparty Computation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "neues Kapitel ka"
-            }
-          },
-          {
-            "id": "a79007991308f245",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/Bürgeliches Recht 2026-03-13 08.22.02.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Bürgeliches Recht 2026-03-13 08.22.02.excalidraw"
+              "title": "Secure Multiparty Computation"
             }
           }
         ]
@@ -220,8 +208,11 @@
   },
   "active": "6341676fba58c7b5",
   "lastOpenFiles": [
-    "4.klasse/wir/fryj/Gesellschaftsrecht/Rechtssubjekte und -objekte.md",
+    "4.klasse/itsi/kryp/Blinde (RSA-)Signaturen.md",
+    "4.klasse/itsi/kryp/Secure Multiparty Computation.md",
+    "4.klasse/itsi/zivk/Web exploitation.md",
     "4.klasse/wir/fryj/Rechtsgeschäft/neues Kapitel ka.md",
+    "4.klasse/wir/fryj/Gesellschaftsrecht/Rechtssubjekte und -objekte.md",
     "4.klasse/wir/fryj/Rechtsgeschäft",
     "4.klasse/wir/fryj/Gesellschaftsrecht/Bürgeliches Recht.md",
     "excalidraw/Bürgeliches Recht 2026-03-13 08.22.02.excalidraw.md",
@@ -238,7 +229,6 @@
     "4.klasse/nawi/Skript_4HITEL.pdf",
     "4.klasse/nawi/quanten",
     "4.klasse/itsi/kryp/Bit Commitment_Fiat-Shamir-Protokoll.md",
-    "4.klasse/itsi/kryp/Blinde (RSA-)Signaturen.md",
     "4.klasse/itsi/kryp/Angriffsarten.md",
     "4.klasse/itsi/kryp/Definition-krypt.md",
     "4.klasse/itsi/kryp/Digiatle Signatur.md",
@@ -253,8 +243,6 @@
     "4.klasse/mathe/Folgen und Reihen/smü.md",
     "4.klasse/mathe/4kl-mathe.md",
     "4.klasse/deutsch/4kl-deu.md",
-    "4.klasse/deutsch/Stilmittel.md",
-    "4.klasse/ggp/ges/ÖSTERREICH – DIE ERSTE REPUBLIK.md",
     "4.klasse/wir/EBCL Betriebswirtschaft_E-Book (2024).pdf",
     "4.klasse/mathe/Folgen und Reihen",
     "4.klasse/nawi/Theorie_Schwingungen_und_Wellen.pdf",
