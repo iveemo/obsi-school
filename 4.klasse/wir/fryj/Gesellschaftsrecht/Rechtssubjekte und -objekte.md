@@ -31,6 +31,6 @@ Alles was sich von der Person unterscheidet. Und zum Gebrauch der Menschen dient
 - Körperliche Sache (alles was man anfassen kann)
 - Unkörp. Sache Recht
 
-Tiere sind sachen mit Sonderregeln
+Tiere sind sachen mit Sonderregeln z.B.
 - Haustiere sind der pfendung entzogen
-- 
+- Tierquälerei
