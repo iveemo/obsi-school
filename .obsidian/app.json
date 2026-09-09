@@ -1,14 +1,24 @@
 {
-  "attachmentFolderPath": "images",
-  "spellcheck": false,
-  "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
     "pageSize": "A4",
     "landscape": false,
     "margin": "0",
-    "downscalePercent": 100
+    "downscalePercent": 69
   },
-  "showLineNumber": false,
-  "readableLineLength": true
+  "legacyEditor": false,
+  "livePreview": true,
+  "strictLineBreaks": false,
+  "newLinkFormat": "shortest",
+  "attachmentFolderPath": "bilder",
+  "trashOption": "none",
+  "alwaysUpdateLinks": true,
+  "spellcheck": false,
+  "promptDelete": false,
+  "vimMode": false,
+  "showLineNumber": true,
+  "readableLineLength": true,
+  "spellcheckDictionary": [
+    "nab"
+  ]
 }

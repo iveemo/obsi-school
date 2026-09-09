@@ -1,17 +1,15 @@
 [
+  "unicode-search",
+  "templater-obsidian",
+  "obsidian-outliner",
+  "obsidian-math-plus",
   "obsidian-git",
-  "calendar",
-  "dataview",
-  "obsidian-annotator",
-  "obsidian-excalidraw-plugin",
-  "multi-properties",
-  "omnisearch",
-  "ink",
-  "arrows-in-md",
-  "obsidian-desmos",
-  "obsidian-day-planner",
-  "statusbar-organizer",
-  "obsidian42-brat",
+  "highlightr-plugin",
+  "better-word-count",
   "obsidian-latex-suite",
-  "obsidian-math-plus"
+  "obsidian-imgur-plugin",
+  "global-search-and-replace",
+  "obsidian-vault-statistics-plugin",
+  "arrows",
+  "obsidian-excalidraw-plugin"
 ]

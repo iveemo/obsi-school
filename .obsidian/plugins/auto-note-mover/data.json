@@ -1,0 +1,93 @@
+{
+  "trigger_auto_manual": "Automatic",
+  "use_regex_to_check_for_tags": false,
+  "statusBar_trigger_indicator": true,
+  "folder_tag_pattern": [
+    {
+      "folder": "4-klasse/nawi",
+      "tag": "#nawi",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/itsi",
+      "tag": "#itsi",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/ipt",
+      "tag": "#ipt",
+      "pattern": ""
+    },
+    {
+      "folder": "3-klasse/syt",
+      "tag": "#syt",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/nwt",
+      "tag": "#nwt",
+      "pattern": ""
+    },
+    {
+      "folder": "3-klasse/medt",
+      "tag": "#medt",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/mathe",
+      "tag": "#m",
+      "pattern": ""
+    },
+    {
+      "folder": "Privat",
+      "tag": "#Privat",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/english",
+      "tag": "#e",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/deutsch",
+      "tag": "#d",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/sew",
+      "tag": "#sew",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/insy",
+      "tag": "#insy",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/ethik",
+      "tag": "#eth",
+      "pattern": ""
+    },
+    {
+      "folder": "5-klasse/wir",
+      "tag": "#wir",
+      "pattern": ""
+    },
+    {
+      "folder": "4-klasse/ggp/ges",
+      "tag": "#ges",
+      "pattern": ""
+    },
+    {
+      "folder": "4-klasse/ggp/geo",
+      "tag": "#geo",
+      "pattern": ""
+    }
+  ],
+  "use_regex_to_check_for_excluded_folder": false,
+  "excluded_folder": [
+    {
+      "folder": "templates"
+    }
+  ]
+}

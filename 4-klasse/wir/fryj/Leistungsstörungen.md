@@ -1,0 +1,12 @@
+---
+tags:
+  - 4te_Klasse
+  - recht
+---
+- nachträgl. unmöglichkeit
+- Verzug
+	- Ort
+	- Zeit
+	- Art
+- Gewährleistung
+- 

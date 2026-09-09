@@ -1,1 +1,6 @@
-.obsidan/plugin/cummies/data.json
+*.ini
+.gitignore
+.git-old/
+personal/
+.smart-env/
+4-klasse/itsi/zivk/netboot.md

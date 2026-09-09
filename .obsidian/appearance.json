@@ -1,3 +1,26 @@
 {
-  "theme": "obsidian"
+  "enabledCssSnippets": [
+    "notation-colour-blocks",
+    "inline-block-embeds",
+    "clutter-free-headings",
+    "clutter-free-formatting",
+    "checkbox",
+    "styles",
+    "fancyblock_quouate",
+    "command_pallete_styling",
+    "fancy_checkboxen",
+    "xd",
+    "linenumbers",
+    "codeblocks_besa"
+  ],
+  "accentColor": "#ffc7c7",
+  "interfaceFontFamily": "Minecraft",
+  "textFontFamily": "Minecraft,Monocraft",
+  "monospaceFontFamily": "Cascadia Mono",
+  "cssTheme": "Rosé Pine",
+  "theme": "obsidian",
+  "baseFontSizeAction": false,
+  "showViewHeader": true,
+  "showRibbon": true,
+  "nativeMenus": false
 }

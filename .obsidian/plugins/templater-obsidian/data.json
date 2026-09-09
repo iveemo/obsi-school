@@ -1,0 +1,72 @@
+{
+  "data_version": 2,
+  "command_timeout": 5,
+  "templates_folder": "templates",
+  "templates_pairs": [],
+  "trigger_on_file_creation_mode": "folder",
+  "auto_jump_to_cursor": false,
+  "jump_to_cursor_after_file_name": false,
+  "shell_path": "",
+  "user_scripts_folder": "",
+  "folder_templates": [
+    {
+      "folder": "5-klasse/deutsch",
+      "template": "templates/deutsch.md"
+    },
+    {
+      "folder": "5-klasse/englisch",
+      "template": "templates/englisch.md"
+    },
+    {
+      "folder": "5-klasse/eth",
+      "template": "templates/ethik.md"
+    },
+    {
+      "folder": "5-klasse/insy",
+      "template": "templates/insy.md"
+    },
+    {
+      "folder": "5-klasse/itp",
+      "template": "templates/itp.md"
+    },
+    {
+      "folder": "5-klasse/itsi",
+      "template": "templates/itsi.md"
+    },
+    {
+      "folder": "5-klasse/itsi-crypto",
+      "template": "templates/itsi-cryptograhie.md"
+    },
+    {
+      "folder": "5-klasse/mathe",
+      "template": "templates/mathe.md"
+    },
+    {
+      "folder": "5-klasse/nwt",
+      "template": "templates/nwt.md"
+    },
+    {
+      "folder": "5-klasse/recht",
+      "template": "templates/recht.md"
+    },
+    {
+      "folder": "5-klasse/sew",
+      "template": "templates/sew.md"
+    },
+    {
+      "folder": "5-klasse/wir",
+      "template": "templates/wir.md"
+    }
+  ],
+  "file_templates": [],
+  "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
+  "enabled_templates_hotkeys": [
+    "Zeichnungen/templatr/spell-OFF.md",
+    "Zeichnungen/templatr/spell-ON.md"
+  ],
+  "startup_templates": [],
+  "intellisense_render": "1",
+  "ignore_folders_on_creation": [],
+  "enable_ribbon_icon": true
+}
