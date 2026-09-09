@@ -160,8 +160,8 @@
             "state": {
               "type": "planner-timeline",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Timeline"
+              "icon": "lucide-ghost",
+              "title": "planner-timeline"
             }
           },
           {
@@ -170,8 +170,8 @@
             "state": {
               "type": "planner-time-tracker",
               "state": {},
-              "icon": "timer",
-              "title": "Time Tracker"
+              "icon": "lucide-ghost",
+              "title": "planner-time-tracker"
             }
           }
         ],
@@ -192,9 +192,7 @@
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false,
-      "obsidian-day-planner:Open Timeline": false,
-      "obsidian-day-planner:Open Multi-Day View": false
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
   "active": "fb49cfa0c8d94a45",
