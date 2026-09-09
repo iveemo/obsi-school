@@ -39,9 +39,7 @@ Angreifer will (B,C) entschlüsseln wählt zufällig <> und berechnet $(B',c') =
 ||{"id":1366385246607}||
 (B \times B', c \times c') = (g^{b} \times g^{b'}, A^{b} A^{b'})
 ```
-asd
-![[Modulo- Rechnen 2025-11-03 09.43.48.excalidraw]]
-
+![[excalidraw/Modulo- Rechnen 2025-11-03 09.55.29.excalidraw]]
 ## RSA-Verschlüsselung
 erstes und bis heute wichtigestes Verchlüsselungsverfahren (asym)
 

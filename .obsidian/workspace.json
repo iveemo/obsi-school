@@ -4,23 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "41c8822f832f803c",
+        "id": "7b866f5b9cdce346",
         "type": "tabs",
         "children": [
           {
-            "id": "45d9a2be359eec75",
-            "type": "leaf",
-            "state": {
-              "type": "excalidraw",
-              "state": {
-                "file": "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49-old.excalidraw.md"
-              },
-              "icon": "excalidraw-icon",
-              "title": "Schwingungen und Wellen 2025-09-03 11.26.49-old.excalidraw"
-            }
-          },
-          {
-            "id": "2cc4d3c7b38054c2",
+            "id": "d5adcbfb7d250608",
             "type": "leaf",
             "state": {
               "type": "graph",
@@ -29,8 +17,7 @@
               "title": "Graph view"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -89,7 +76,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 240.9921875
+    "width": 238.25390625
   },
   "right": {
     "id": "691f8e91b0203e9f",
@@ -147,9 +134,7 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {
-                "file": "index.md"
-              },
+              "state": {},
               "icon": "lucide-info",
               "title": "File properties"
             }
@@ -168,14 +153,33 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "934ef5ded70ac93b",
+            "type": "leaf",
+            "state": {
+              "type": "planner-timeline",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Timeline"
+            }
+          },
+          {
+            "id": "c10897737083d8a3",
+            "type": "leaf",
+            "state": {
+              "type": "planner-time-tracker",
+              "state": {},
+              "icon": "timer",
+              "title": "Time Tracker"
+            }
           }
         ],
         "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 307.5,
-    "collapsed": true
+    "width": 307.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -188,37 +192,39 @@
       "markdown-importer:Open format converter": false,
       "templater-obsidian:Templater": false,
       "obsidian-git:Open Git source control": false,
-      "obsidian-excalidraw-plugin:New drawing": false
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-day-planner:Open Timeline": false,
+      "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "2cc4d3c7b38054c2",
+  "active": "fb49cfa0c8d94a45",
   "lastOpenFiles": [
-    "4-klasse/nawi/Schwingungen/Schwingungen und Wellen.md",
-    "excalidraw/Schwingungen und Wellen 2025-09-03 11.26.49-old.excalidraw.md",
-    "Schwingungen und Wellen 2025-09-03 11.26.49.excalidraw.svg.md",
-    "4-klasse/mathe/4kl-mathe.md",
+    "personal/shooting 5.-6. sep.md",
     "excalidraw/scripts/Template.excalidraw.md",
-    "obsi-school/excalidraw/Der AN-Begriff 2025-10-03 09.08.46.excalidraw.md",
-    "4-klasse/wir/fryj/Rechtsgeschäft/Rechtsgeschäft.md",
-    "4-klasse/wir/fryj/Gesellschaftsrecht/Sozialrecht.md",
-    "4-klasse/wir/fryj/Gesellschaftsrecht/Rechtssubjekte und -objekte.md",
-    "4-klasse/wir/fryj/Gesellschaftsrecht/Bürgeliches Recht.md",
-    "4-klasse/wir/fryj/Gesellschaftsrecht/5. Pensionsversicherung.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/Urlaub.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/Kündigung.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/Hauptleistungspfilchten.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/Dienstzeugnis.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/Der AN-Begriff.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/Dauer der DV.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/B.d.D.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/Arbeitsrecht.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/7. einvernähmliche Auflösung.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/6. Vorzeitiger Austritt.md",
-    "4-klasse/wir/fryj/Arbeitsrecht/5. Entlassung.md",
-    "4-klasse/nwt/mesh/devices/device-index.md",
-    "4-klasse/nwt/mesh/devices/Solar Node.md",
-    "4-klasse/nwt/mesh/devices/Lilygo T-Beam S3 Core.md",
-    "4-klasse/nwt/mesh/devices/Heltec v3.md",
+    "calendar/2025/05-09-2025.md",
+    "calendar/2025/10-09-2025.md",
+    "calendar/2025/11-09-2025.md",
+    "calendar/2025/23-09-2025.md",
+    "calendar/2025/22-09-2025.md",
+    "calendar/2025/19-09-2025.md",
+    "calendar/2025/18-09-2025.md",
+    "calendar/2025/17-09-2025.md",
+    "calendar/2025/16-09-2025.md",
+    "calendar/2025/15-09-2025.md",
+    "calendar/2025/12-09-2025.md",
+    "calendar/2025/09-09-2025.md",
+    "calendar/2025/08-09-2025.md",
+    "calendar/2025/04-09-2025.md",
+    "calendar/2025/03-09-2025.md",
+    "calendar/2025/02-09-2025.md",
+    "calendar/2025/01-09-2025.md",
+    "templates/Day-planner.md",
+    "calendar/2025/01-10-2025.md",
+    "calendar/2025/02-10-2025.md",
+    "calendar/2025/03-10-2025.md",
+    "calendar/2025/07-10-2025.md",
+    "calendar/2025/06-10-2025.md",
+    "calendar/2025/08-10-2025.md",
     "4-klasse/nawi/Schwingungen/img/Aspose.Words.a2b63523-55b6-48b3-bf17-d8e2533cb5e8.014.png",
     "4-klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.005.png",
     "4-klasse/nawi/Elektrisches Felde/img/Aspose.Words.d96ecc7e-b4b6-4bf6-be00-8b3d01f95518.004.png",
