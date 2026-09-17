@@ -5,4 +5,4 @@ tags:
   - 4te_Klasse
 ---
 [[Article]]
-[[Report]]
+[[4-klasse/englisch/Report]]

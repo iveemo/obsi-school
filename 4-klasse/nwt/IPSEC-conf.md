@@ -3,6 +3,8 @@ tags:
   - 4te_Klasse
   - nwt
 date: 2026-02-20T11:55:00
+modified: 2026-09-11T10:35:05+02:00
+created: 2026-09-09T02:29:51+02:00
 ---
 Mitschrift in der stunde von der PT aufgabe auf moodle 
 

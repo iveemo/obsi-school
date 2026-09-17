@@ -4,5 +4,5 @@ tags:
   - sprache
   - 4te_Klasse
 ---
-[[Aufklärung]]
-[[Stilmittel]]
+[[4-klasse/deutsch/Aufklärung]]
+[[4-klasse/deutsch/Stilmittel]]

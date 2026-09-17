@@ -4,6 +4,7 @@ tags:
   - itsi
 date: 2024-09-05T11:15:00
 ---
+meow
 
 |                | <- 3 Teile -> |               |
 | -------------- | ------------- | ------------- |
@@ -39,5 +40,10 @@ Test-Stoff:
 
 Derzeitiger Notenstand: 1,8
 
-
-Linked Files:
+[[3te-klasse]]
+[[Anrgiffs Vektoren]]
+[[3-klasse/itsi/Benutzerkategorien]]
+[[Datenarten]]
+[[Verschlüsselung]]
+[[Wiederholung]]
+[[WLAN]]

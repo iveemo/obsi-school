@@ -1,5 +1,5 @@
 ---
 tags:
-  - 4te_Klasse
+  - 5te_klasse
   - itp
 ---
