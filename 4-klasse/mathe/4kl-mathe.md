@@ -8,7 +8,7 @@ tags:
 [[2. HÜ]]
 [[3. HÜ]]
 [[22.10.2025]]
-[[aufgabe]]
+[[4-klasse/mathe/Differential/aufgabe]]
 [[Berechnung des Maximalfehlers in linearer Näherung]]
 [[Differentialgleichungen]]
 [[Lineare Diffgl. 2. Ordnung]]

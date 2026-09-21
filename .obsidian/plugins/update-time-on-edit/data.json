@@ -1,0 +1,15 @@
+{
+  "dateFormat": "dd-MM-yyyy'T'HH:mm",
+  "enableCreateTime": true,
+  "headerUpdated": "updated",
+  "headerCreated": "created",
+  "minMinutesBetweenSaves": 1,
+  "ignoreGlobalFolder": [
+    "templates"
+  ],
+  "ignoreCreatedFolder": [],
+  "enableExperimentalHash": false,
+  "fileHashMap": {
+    "5-klasse/recht/Unternehmensrecht/Unternehmensrecht.md": "8cfcf211b3a3290802ec1c329a835f87bc689dc175f95cd10c6258b2a4d4f99b"
+  }
+}

@@ -52,7 +52,7 @@ Wir betrachten einen Plattenkondensator. Die Feldstärke im Plattenkondensator b
 
   
 
-Gib an, wie die Funktionsgleichung für die Kugel mit einer Ladung von  = 0,1 im Kondensator lautet.
+Gib an, wie die Funktionsgleichung für die Kugel mit einer Ladung ^von  = 0,1 im Kondensator lautet.
 
   
 

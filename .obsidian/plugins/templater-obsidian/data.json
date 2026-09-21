@@ -56,6 +56,14 @@
     {
       "folder": "5-klasse/wir",
       "template": "templates/wir.md"
+    },
+    {
+      "folder": "5-klasse/recht/Öffentliches-recht",
+      "template": "templates/t-öffentliches-recht.md"
+    },
+    {
+      "folder": "5-klasse/recht/Unternehmensrecht",
+      "template": "templates/t-unternehmens-recht.md"
     }
   ],
   "file_templates": [],

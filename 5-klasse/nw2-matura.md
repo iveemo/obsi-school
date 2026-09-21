@@ -2,11 +2,10 @@
 tags:
   - 5te_Klasse
 ---
-
 # Physik
 alle Formeln aus der Kurzzusammenfassung
 
-Klassische Physik wichtige Formeln
+## Klassische Physik wichtige Formeln
 ```math
 ||{"id":908673343639}||
 z(t) = A · \sin(\omega t + φ)
@@ -16,6 +15,11 @@ f= \frac{1}{T}
 \omega = 2 \pi f
 ```
 
-Moderne Physik
-Physik im Alltag
+## Moderne Physik
+## Physik im Alltag
 
+# Chemie
+
+## Redoxreaktion
+Ein Elektron von einem Atom zum andern verschoben wird
+![](https://i.imgur.com/huPLkGy.png)

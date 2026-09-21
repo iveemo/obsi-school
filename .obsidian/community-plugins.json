@@ -11,5 +11,6 @@
   "global-search-and-replace",
   "obsidian-vault-statistics-plugin",
   "arrows",
-  "obsidian-excalidraw-plugin"
+  "obsidian-excalidraw-plugin",
+  "frontmatter-modified-date"
 ]
