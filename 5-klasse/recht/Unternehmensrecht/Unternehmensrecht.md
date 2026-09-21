@@ -5,7 +5,7 @@ tags:
   - unternehmens-recht
 created: 10-09-2026T12:14
 updated: 11-09-2026T09:56
-modified: 2026-09-17T12:43:07+02:00
+modified: 2026-09-17T13:20:08+02:00
 ---
 ## Unternehmen
 eine ==auf Dauer== angelegte Organisation ==selbstständiger wirtschaftlicher Tätigkeit.== (Mag sich auch nicht auf Gewinn gerichtet sein)
