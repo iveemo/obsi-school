@@ -2,7 +2,7 @@
 tags:
   - 5te_klasse
   - recht
-modified: 2026-09-11T10:30:18+02:00
+modified: 2026-09-24T13:00:38+02:00
 created: 2026-09-09T02:29:51+02:00
 ---
 Stoff:
@@ -20,4 +20,5 @@ Anfang Nov. Test
 5.1. oder 12.1. Test
 
 
-[[Unternehmensrecht#Unternehmen]]
+[[Unternehmensrecht]]
+[[Gewerberecht]]

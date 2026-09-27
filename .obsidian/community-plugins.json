@@ -6,11 +6,10 @@
   "obsidian-git",
   "highlightr-plugin",
   "better-word-count",
-  "obsidian-latex-suite",
   "obsidian-imgur-plugin",
   "global-search-and-replace",
   "obsidian-vault-statistics-plugin",
-  "arrows",
   "obsidian-excalidraw-plugin",
-  "frontmatter-modified-date"
+  "frontmatter-modified-date",
+  "obsidian-latex-suite"
 ]

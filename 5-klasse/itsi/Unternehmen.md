@@ -3,15 +3,24 @@ tags:
   - itsi
   - 5te_klasse
 created: 2026-09-21T14:44:56+02:00
-modified: 2026-09-21T15:55:39+02:00
+modified: 2026-09-22T13:30:12+02:00
 ---
 ## Schutzbedarf und Risiken 
 Bestimmen Sie für mindestens ==drei wichtige Systeme oder Datenbestände== Ihres Unternehmens den Schutzbedarf hinsichtlich ==Vertraulichkeit, Integrität und Verfügbarkeit==. Ordnen Sie außerdem mindestens ==einem System ein erweitertes Schutzziel== zu (zum Beispiel Authenticity oder Non Repudiation) und ==begründen== Sie diese Zuordnung. Leiten Sie daraus ==mindestens drei wesentliche Risiken== für das Unternehmen ab. 
 - Büro-VLAN: Verwaltung, Vertrieb, Marketing. 
-- DMZ: Online-Shop (eigenentwickelte PHP-Anwendung mit Warenkorb, Gutscheincodes, Produktbewertungen), Newsletter-Anmeldung.
+- ==DMZ==: Online-Shop (eigenentwickelte PHP-Anwendung mit Warenkorb, Gutscheincodes, Produktbewertungen), Newsletter-Anmeldung.
+	- Vertraulichkeit:
+	- Integrität:
+	- Verfügbarkeit:
 - ==Fabriksverkauf==: Kassensystem vor Ort, verbunden mit dem zentralen Warenwirtschaftssystem.
+	- Vertraulichkeit:
+	- Integrität:
+	- Verfügbarkeit:
 - ==Home-Office==: Marketing- und Vertriebsmitarbeiter greifen über Client-VPN auf das interne Netz zu.
-- ==Cloud-Speicher==: Rezepturen und Produktionsverfahren (Betriebsgeheimnisse) liegen auf einem externen Cloud-Speicher, Zugriff über geteilte Zugangsdaten mehrerer Mitarbeiter.
+	- Vertraulichkeit:
+	- Integrität:
+	- Verfügbarkeit:
+- Cloud-Speicher: Rezepturen und Produktionsverfahren (Betriebsgeheimnisse) liegen auf einem externen Cloud-Speicher, Zugriff über geteilte Zugangsdaten mehrerer Mitarbeiter.
 - Marketing-Dienstleister: Ein externer Anbieter für Newsletter- und Empfehlungsmarketing ist per JavaScript-Snippet direkt in die Checkout-Seite des Online-Shops eingebunden.
 
 ## Risikobewertung und Risikomatrix 
