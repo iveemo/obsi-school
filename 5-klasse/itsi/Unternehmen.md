@@ -3,7 +3,7 @@ tags:
   - itsi
   - 5te_klasse
 created: 2026-09-21T14:44:56+02:00
-modified: 2026-09-27T22:50:23+02:00
+modified: 2026-09-27T23:04:06+02:00
 ---
 ## 1 Schutzbedarf und Risiken 
 Bestimmen Sie für mindestens ==drei wichtige Systeme oder Datenbestände== Ihres Unternehmens den Schutzbedarf hinsichtlich ==Vertraulichkeit, Integrität und Verfügbarkeit==. Ordnen Sie außerdem mindestens ==einem System ein erweitertes Schutzziel== zu (zum Beispiel Authenticity oder Non Repudiation) und ==begründen== Sie diese Zuordnung. Leiten Sie daraus ==mindestens drei wesentliche Risiken== für das Unternehmen ab. 
