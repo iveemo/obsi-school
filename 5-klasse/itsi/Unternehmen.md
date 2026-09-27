@@ -3,7 +3,7 @@ tags:
   - itsi
   - 5te_klasse
 created: 2026-09-21T14:44:56+02:00
-modified: 2026-09-27T22:46:18+02:00
+modified: 2026-09-27T22:50:23+02:00
 ---
 ## 1 Schutzbedarf und Risiken 
 Bestimmen Sie für mindestens ==drei wichtige Systeme oder Datenbestände== Ihres Unternehmens den Schutzbedarf hinsichtlich ==Vertraulichkeit, Integrität und Verfügbarkeit==. Ordnen Sie außerdem mindestens ==einem System ein erweitertes Schutzziel== zu (zum Beispiel Authenticity oder Non Repudiation) und ==begründen== Sie diese Zuordnung. Leiten Sie daraus ==mindestens drei wesentliche Risiken== für das Unternehmen ab. 
@@ -29,7 +29,7 @@ Bestimmen Sie für mindestens ==drei wichtige Systeme oder Datenbestände== Ihre
 	- Verfügbarkeit: registers needing to reboot/be fixed 
 		- enough registers (Kassen) redundancy
 - ==Home-Office==: Marketing- und Vertriebsmitarbeiter greifen über Client-VPN auf das interne Netz zu.
-	- Vertraulichkeit: only trusted employees can see company data and ony the data the nee/are assigned to 
+	- Vertraulichkeit: only trusted employees can see company data and only the data they need/are assigned to 
 		- 2FA
 		- encrypted traffic
 		- only trusted company issued devices
@@ -133,4 +133,4 @@ Erklären Sie die Begriffe Authentication, Authorization und Accounting anhand m
 ## References
 [^1]: “Digital Services Act (DSA) - Übersicht, Behörde, Verfahren, Designierungen,” _wko.at_, 2024. https://www.wko.at/internetrecht/digital-services-act-dsa (accessed Sept. 27, 2026).
 [^2]: _Cisecurity.org_, 2024. https://learn.cisecurity.org/cis-controls-v8-1-guide-pdf (accessed Sept. 27, 2026).
-[^3]: Moodle unterlagen
+[^3]: Moodle unterlagen [^3]
