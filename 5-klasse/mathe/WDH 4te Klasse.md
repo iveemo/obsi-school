@@ -57,8 +57,7 @@ N(t) =& N_{0} \cdot e^{0.2t}
 \\
 \\
 \\
-\end{aligned}
-$$
+\end{aligned}$$
 ### 1 c) 
 Nach 10 Minuten wurden 70 Bakterien gezählt. 
 1) Stellen Sie mit Hilfe der gegebenen Bedingungen die Funktion auf, die die Anzahl der vorhandenen Bakterien $N$ nach $t$ Minuten bestimmt.
@@ -94,27 +93,22 @@ In der kanadischen Eishockeyliga werden die Ergebnisse aller Spiele statistisch 
 1) Bestimmen Sie den Median der Datenliste, die diesem Säulendiagramm zu Grund liegt.
 Mittleren Datensatz: 6
 2) Berechnen Sie das arithmetische Mittel.
-$$
-\overline{x} = \cfrac{3 \cdot 2 + 4 \cdot 2 + 5 \cdot 6 + 6 \cdot 3 + 7 \cdot 8 + 9 \cdot 2}{23} = 5.913
-$$
+$$\overline{x} = \cfrac{3 \cdot 2 + 4 \cdot 2 + 5 \cdot 6 + 6 \cdot 3 + 7 \cdot 8 + 9 \cdot 2}{23} = 5.913$$
 3) Erstellen Sie ein Boxplot, das diesen Sachverhalt darstellt und markiere alle wichtigen Kenngrößen.
 ![[boxplot.png| center | 100%|642]]
 ### 2 b)
 Der Puck, eine Hartgummischeibe, ist genau 1 Zoll (2,54 cm ± 1mm) hoch und hat einen Durchmesser von 3 Zoll (7,62 cm ± 1mm). Das Gewicht darf zwischen 5,5 und 6 Unzen (entspricht 156 bis 170 Gramm) variieren.
 1) Berechnen Sie die Oberfläche des Pucks und bestimmen Sie das totale Differential dP.
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 &P(d,h) = 2 \cdot \cfrac{d^2 \cdot \pi}{t}+d \cdot \pi \cdot h =\cfrac{\pi}{2}d^2 + \pi \cdot d \cdot h \\
 &P = \frac{\pi}{2}(7.62)^2 + \pi \cdot 7.62 cdit 2.54 = 91.207 + 60.804 = 152.01cm^2\\
 &\text{1. Ableitung} \quad 2 \cdot \frac{\pi}{2}d + \cdot h = \pi d+ \pi h= \pi (d+h)\\
 &\text{2. Ableitung} \quad h = \pi d \qquad dP = \pi(d+h) \cdot dd+ \pi d \cdot \pi h
-\end{aligned}
-$$
+\end{aligned}$$
 2) Berechnen Sie den maximalen absoluten Fehler der Oberfläche bei der Herstellung eines Pucks.
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 &\Delta P \approx |\pi (d+h)| \cdot \Delta d+ |\pi d| \cdot \Delta h \\
 &\Delta P \approx \pi (7.62+2.54) \cdot 0.1+ \pi 7.62 \cdot 0.1 \\
 &\Delta P \approx \pi (10.16) \cdot 0.1+ \pi 7.62 \cdot 0.1 \\
@@ -123,17 +117,14 @@ $$
 &\quad \Delta \approx 3.192+2.394=5.586cm^2 \\
 &\quad \text{Der maximale absolute Fehler} \\
 &\quad \text{beträgt ca 5.586}m^2
-\end{aligned}
-$$
+\end{aligned}$$
 3) Berechnen Sie den relativen Maximalfehler in Prozent.
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 \frac{\Delta P}{P} \quad &\frac{5.586}{152.01} \approx 0.0367 \\
 \\
 &3.67\%
-\end{aligned}
-$$
+\end{aligned}$$
 ## Aufgabe 3: Aprés-Ski
 Es ist nicht mehr lange bis zum Start der Skisaison und wie wir alle wissen, sind gute (und günstige) Unterkünfte und guter Empfang in den Bergen rar.
 ### 3 a)
@@ -143,8 +134,7 @@ Es ist eine geometrische Fkt. weil bei einer Reduktion von 10% werden die Kosten
 2) Erstellen Sie ein explizites Bildungsgesetz für diese Folge.
 $$a_{n}=800 \cdot 0.9^{n-1}$$
 3) Berechnen Sie, wie lange sie bleiben müssten, damit die Unterkunft unter 100€ pro Woche kostet.
-$$
-\begin{aligned}
+$$\begin{aligned}
 800 \cdot 0.9^{n-1} <\;& 100 \\
 0.9^{n-1} < \frac{100}{800} = 0.9^{n-1} <\;& 0,125 \\
 n-1 > \cfrac{\ln(0.125)}{\ln(0.9)} =\;& 19.73 \\
@@ -159,15 +149,13 @@ n-1 >\;& 20.73 \\
 \\
 &\quad | +1 \\
 \\
-\end{aligned}
-$$
+\end{aligned}$$
 A: Man müsste mindestens 21 Wochen bleiben damit die Unterkunft unter 100€ pro Woche kostet.
 ### 3 b)
 Durch die geografischen Gegebenheiten in den Bergen, haben viele Menschen nur schlechten oder gar keinen Empfang. In der Nachrichtentechnik wird das Abklingverhalten eines gefilterten Signals durch eine unendliche Reihe beschrieben. Für die mathematische Analyse eines bestimmten Verstärkers wird die folgende Funktion als Potenzreihe angesetzt:
 $$f(n)= \sum^{\infty}_{n=1} \cfrac{3^n \cdot (x-2)^n}{n \cdot 5^n}$$
 1) Schreiben Sie die ersten drei Glieder (n = 1, 2, 3) dieser Reihe explizit auf und vereinfachen Sie die Brüche so weit wie möglich.
-$$
-\begin{aligned}
+$$\begin{aligned}
 &\cfrac{3^1 \cdot (x-2)^1}{1 \cdot 5^1}\\
 &\cfrac{3 \cdot (x-2)}{5} \\
 \end{aligned}
@@ -180,24 +168,19 @@ $$
 &\cfrac{27x^3-162x^2+324x-216}{375} \\
 &\cfrac{\cancel{3} \cdot (9x^3-54x^2+108x-72)}{\cancel{375}} \\
 &\cfrac{9x^3-54x^2+108x-72}{125}
-\end{aligned}
-$$
+\end{aligned}$$
   2) Untersuchen Sie die Reihe mithilfe des Quotientenkriteriums.
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 |\frac{an+1}{an}| =& \cfrac{3^{n+1}(x-2)^{n+1}}{(n+1)5^{n+1}} \cdot \cfrac{n \cdot 5^n}{3^n (x-2)^n} \\
 &\cfrac{3 \cdot (x-2)}{5} \cdot \cfrac{n}{n+1} \\
 \lim_{ n \to \infty } |\cfrac{3 \cdot (x-2)}{5} &\cdot \cfrac{n}{n+1}| = \cfrac{3 \cdot (x-2)}{5} \cdot 1 
-\end{aligned}
-$$
+\end{aligned}$$
 ### 3) Bonusaufgabe:
 Bestimmen Sie aus dem Ergebnis den Konvergenzradius R dieser Potenzreihe und geben Sie das oLene Konvergenzintervall für x an. (Die Ränder müssen nicht untersucht werden).
 
-$$
-\begin{aligned}
+$$\begin{aligned}
 |\cfrac{3 \cdot (x-2)}{5}| < 1 &⇒ |x-2| < \frac{5}{3} = 12\\
 2 - \frac{5}{3} < x < 2 + &\frac{5}{3} = \frac{1}{3} < x < \frac{11}{3}\\
 &\left( \cfrac{1}{3}, \cfrac{11}{3} \right)
-\end{aligned}
-$$
+\end{aligned}$$
