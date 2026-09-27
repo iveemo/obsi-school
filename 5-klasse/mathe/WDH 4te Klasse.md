@@ -12,6 +12,7 @@ $$\cfrac{dT}{dt} = k \cdot (T(t)-T_{U})$$
 Dabei ist $k$ eine Konstante und $T_{U}$ die Umgebungstemperatur.
 1) Interpretieren Sie diese Differentialgleichung, durch Ergänzung der Lücken: Die ==Änderungsrate== $\cfrac{dT}{dt}$ ist ==proportional== zur Differenz der ==aktuellen Temperatur== und der Umgebungstemperatur.
 2) Babsi stellt an Silvester um 21 Uhr eine 22 °C warme Flasche Sekt auf den Balkon. Draußen herrscht eine konstante Temperatur von 5 °C. Die Temperatur der  Sektflasche zum Zeitpunkt $t$ beträgt $T(t)$. Dabei sei $t$ die nach 21 Uhr vergangene Zeit in Minuten. Um 21:30 Uhr hat die Sektflasche eine Temperatur von 17,594 °C. Berechnen Sie mit diesen Vorgaben die spezielle Lösung der Differentialgleichung. 
+
 $$\begin{aligned}
 22 = 5+C \cdot e^{k \cdot 0} = C = 17 \\
 17.594 = 5+17 \cdot e^{k \cdot 0} \quad |-5 \; :17 \\
@@ -22,7 +23,8 @@ $$\begin{aligned}
 T(t) = 5 + 17 \cdot e^{-0.01 \cdot t}
 \end{aligned}$$
 3) Sebi stellt um 23 Uhr eine Bierflasche in den Kühlschrank. Der Abkühlprozess dieser Bierflasche kann durch die Funktion $T(t) = 15 \cdot e^{-0.02t}+3$ modelliert werden (Zeit  in Minuten ab 23 Uhr). Berechnen Sie, welche Temperatur die Bierflasche um Mitternacht haben wird.
- $$\begin{aligned}
+
+$$\begin{aligned}
 T(60) =& 15 \cdot e^{0.02 \cdot 60}+3 \\
 &15 \cdot e^{-1.2}+3 \\
 &15 \cdot 0.30119 +3 = 7.5179°C \\
@@ -35,6 +37,7 @@ Es nimmt zu weil $k$ positiv ist, wäre es negativ würde es abnehmen
 2) Bestimmen Sie die Differentialgleichung für die Anzahl der Bakterien bezogen auf die Zeit (in Minuten) unter Angabe aller Rechenschritte.
 $$\cfrac{dN}{dt} = 0.2 \cdot N$$
 3) Ermitteln Sie die allgemeine Lösung der Differentialgleichung.
+
 $$\begin{aligned}
 \cfrac{dN}{dt}=&0.2 \cdot N  \\
 \cfrac{1}{N}dN=&0.2 \cdot dt \\
@@ -106,6 +109,7 @@ $$\begin{aligned}
 &\text{1. Ableitung} \quad 2 \cdot \frac{\pi}{2}d + \cdot h = \pi d+ \pi h= \pi (d+h)\\
 &\text{2. Ableitung} \quad h = \pi d \qquad dP = \pi(d+h) \cdot dd+ \pi d \cdot \pi h
 \end{aligned}$$
+
 2) Berechnen Sie den maximalen absoluten Fehler der Oberfläche bei der Herstellung eines Pucks.
 
 $$\begin{aligned}
@@ -118,6 +122,7 @@ $$\begin{aligned}
 &\quad \text{Der maximale absolute Fehler} \\
 &\quad \text{beträgt ca 5.586}m^2
 \end{aligned}$$
+
 3) Berechnen Sie den relativen Maximalfehler in Prozent.
 
 $$\begin{aligned}
@@ -134,6 +139,7 @@ Es ist eine geometrische Fkt. weil bei einer Reduktion von 10% werden die Kosten
 2) Erstellen Sie ein explizites Bildungsgesetz für diese Folge.
 $$a_{n}=800 \cdot 0.9^{n-1}$$
 3) Berechnen Sie, wie lange sie bleiben müssten, damit die Unterkunft unter 100€ pro Woche kostet.
+
 $$\begin{aligned}
 800 \cdot 0.9^{n-1} <\;& 100 \\
 0.9^{n-1} < \frac{100}{800} = 0.9^{n-1} <\;& 0,125 \\
@@ -150,11 +156,13 @@ n-1 >\;& 20.73 \\
 &\quad | +1 \\
 \\
 \end{aligned}$$
+
 A: Man müsste mindestens 21 Wochen bleiben damit die Unterkunft unter 100€ pro Woche kostet.
 ### 3 b)
 Durch die geografischen Gegebenheiten in den Bergen, haben viele Menschen nur schlechten oder gar keinen Empfang. In der Nachrichtentechnik wird das Abklingverhalten eines gefilterten Signals durch eine unendliche Reihe beschrieben. Für die mathematische Analyse eines bestimmten Verstärkers wird die folgende Funktion als Potenzreihe angesetzt:
 $$f(n)= \sum^{\infty}_{n=1} \cfrac{3^n \cdot (x-2)^n}{n \cdot 5^n}$$
 1) Schreiben Sie die ersten drei Glieder (n = 1, 2, 3) dieser Reihe explizit auf und vereinfachen Sie die Brüche so weit wie möglich.
+
 $$\begin{aligned}
 &\cfrac{3^1 \cdot (x-2)^1}{1 \cdot 5^1}\\
 &\cfrac{3 \cdot (x-2)}{5} \\
@@ -169,6 +177,7 @@ $$\begin{aligned}
 &\cfrac{\cancel{3} \cdot (9x^3-54x^2+108x-72)}{\cancel{375}} \\
 &\cfrac{9x^3-54x^2+108x-72}{125}
 \end{aligned}$$
+
   2) Untersuchen Sie die Reihe mithilfe des Quotientenkriteriums.
 
 $$\begin{aligned}
