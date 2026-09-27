@@ -3,23 +3,49 @@ tags:
   - itsi
   - 5te_klasse
 created: 2026-09-21T14:44:56+02:00
-modified: 2026-09-22T13:30:12+02:00
+modified: 2026-09-27T10:34:23+02:00
 ---
 ## Schutzbedarf und Risiken 
 Bestimmen Sie für mindestens ==drei wichtige Systeme oder Datenbestände== Ihres Unternehmens den Schutzbedarf hinsichtlich ==Vertraulichkeit, Integrität und Verfügbarkeit==. Ordnen Sie außerdem mindestens ==einem System ein erweitertes Schutzziel== zu (zum Beispiel Authenticity oder Non Repudiation) und ==begründen== Sie diese Zuordnung. Leiten Sie daraus ==mindestens drei wesentliche Risiken== für das Unternehmen ab. 
 - Büro-VLAN: Verwaltung, Vertrieb, Marketing. 
 - ==DMZ==: Online-Shop (eigenentwickelte PHP-Anwendung mit Warenkorb, Gutscheincodes, Produktbewertungen), Newsletter-Anmeldung.
-	- Vertraulichkeit:
-	- Integrität:
-	- Verfügbarkeit:
+	- Vertraulichkeit: Gaining access to client information
+		- encryption
+		- authentication
+		- accress control
+	- Integrität: Correct orders being sent to the correct address
+		- Hashes
+		- digital signature 
+	- Verfügbarkeit: Online shop down → no orders
+		- redundancy
+		- monitoring
 - ==Fabriksverkauf==: Kassensystem vor Ort, verbunden mit dem zentralen Warenwirtschaftssystem.
-	- Vertraulichkeit:
-	- Integrität:
-	- Verfügbarkeit:
+	- Vertraulichkeit: stealing money
+		- passwords (access control)
+		- which employees have which passwords (Tiers)
+	- Integrität: access to backlog or manipulation of history to take out money without noticing
+		- saving logs on a remote server
+		- hashing every bill
+		- passwords
+	- Verfügbarkeit: registers needing to reboot/be fixed 
+		- enough registers (Kassen) redundancy
 - ==Home-Office==: Marketing- und Vertriebsmitarbeiter greifen über Client-VPN auf das interne Netz zu.
-	- Vertraulichkeit:
-	- Integrität:
-	- Verfügbarkeit:
+	- Vertraulichkeit: only trusted employees can see company data and ony the data the nee/are assigned to 
+		- 2FA
+		- encrypted traffic
+		- only trusted company issued devices
+	- Integrität: Outside factor changing company data
+		- hashing every "significant" action before a change
+		- backups to rollback any changes
+		- needing an onsite connection at least once a week
+	- Verfügbarkeit: Remote workers not being cut off
+		- Dedicated IT-VPN hotline
+		- Firewall to block susupicious activity/ddos
+		- sufficient networking infrastructure
+	- Non Repudiation: logging who changes what
+		- account based connection (2FA)
+		- non trust principle (having to log in for every service)
+		- no personal account sharing (dedicated accounts for multiple access)
 - Cloud-Speicher: Rezepturen und Produktionsverfahren (Betriebsgeheimnisse) liegen auf einem externen Cloud-Speicher, Zugriff über geteilte Zugangsdaten mehrerer Mitarbeiter.
 - Marketing-Dienstleister: Ein externer Anbieter für Newsletter- und Empfehlungsmarketing ist per JavaScript-Snippet direkt in die Checkout-Seite des Online-Shops eingebunden.
 
@@ -39,4 +65,4 @@ Wählen Sie danach mindestens vier der von Ihnen in Frage 1 oder 2 identifiziert
 Fassen Sie abschließend zusammen, welche der von Ihnen gefundenen Lücken am dringendsten zu schließen sind, damit Ihr Unternehmen die von Ihnen gewählte Implementation Group insgesamt tatsächlich vollständig erfüllt. 
 
 ## Zugriffs- und Berechtigungskonzept (AAA) 
-Erklären Sie die Begriffe Authentication, Authorization und Accounting anhand mindestens einer konkreten Zugriffssituation aus Ihrem Unternehmen. Beurteilen Sie, ob die im Briefing beschriebene Lösung eher eine zentrale oder dezentrale AAA-Umsetzung ist, und nennen Sie mindestens zwei Indikatoren für Ihre Einschätzung. Schlagen Sie für mindestens zwei unterschiedliche Zugriffsszenarien (zum Beispiel Arbeitsplatz-Login, Fachanwendung, Fernzugriff im Home-Office) jeweils geeignete Authentifizierungsfaktoren vor und begründen Sie Ihre Wahl. Beschreiben Sie anhand eines konkreten Beispiels aus Ihrem Unternehmen, welche Informationen im Rahmen des Accounting protokolliert werden sollten, und wofür diese Protokolle im Streitfall oder bei einem Sicherheitsvorfall genutzt werden könnten.
+Erklären Sie die Begriffe Authentication, Authorization und Accounting anhand mindestens einer konkreten Zugriffssituation aus Ihrem Unternehmen. ==Beurteilen Sie==, ob die im Briefing beschriebene Lösung eher eine ==zentrale oder dezentrale AAA-Umsetzung== ist, und nennen Sie ==mindestens zwei Indikatoren für Ihre Einschätzung==. Schlagen Sie für mindestens ==zwei unterschiedliche Zugriffsszenarien== (zum Beispiel Arbeitsplatz-Login, Fachanwendung, Fernzugriff im Home-Office) ==jeweils geeignete Authentifizierungsfaktoren vor== und ==begründen== Sie Ihre Wahl. Beschreiben Sie anhand eines ==konkreten Beispiels== aus Ihrem Unternehmen, ==welche Informationen== im Rahmen des Accounting ==protokolliert== werden sollten, und ==wofür diese Protokolle im Streitfall oder bei einem Sicherheitsvorfall== genutzt werden könnten.

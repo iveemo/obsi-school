@@ -3,7 +3,7 @@ tags:
   - m
   - 5te_klasse
 created: 2026-09-21T23:30:30+02:00
-modified: 2026-09-27T05:30:12+02:00
+modified: 2026-09-27T05:42:23+02:00
 ---
 ## Aufgabe 1: Prosit Neujahr
 ### 1 a) 
