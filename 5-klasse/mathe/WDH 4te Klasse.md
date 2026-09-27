@@ -22,6 +22,7 @@ $$\begin{aligned}
 \cfrac{-0.3000}{30} = k = -0.01 \\
 T(t) = 5 + 17 \cdot e^{-0.01 \cdot t}
 \end{aligned}$$
+
 3) Sebi stellt um 23 Uhr eine Bierflasche in den Kühlschrank. Der Abkühlprozess dieser Bierflasche kann durch die Funktion $T(t) = 15 \cdot e^{-0.02t}+3$ modelliert werden (Zeit  in Minuten ab 23 Uhr). Berechnen Sie, welche Temperatur die Bierflasche um Mitternacht haben wird.
 
 $$\begin{aligned}
@@ -29,6 +30,7 @@ T(60) =& 15 \cdot e^{0.02 \cdot 60}+3 \\
 &15 \cdot e^{-1.2}+3 \\
 &15 \cdot 0.30119 +3 = 7.5179°C \\
 \end{aligned}$$
+
 A: Um Mitternach hat die Flasche Bier 7.52°C
 ### 1 b) 
 Sämtliche Lebensmittelerzeugnisse unterliegen strengen Gesundheitsrichtlinien. Daher müssen sie regelmäßig auf etwaige Verunreinigungen überprüft werden. Eine solche Probe wurde entnommen, ins Labor geschickt und eine Bakterienkultur angelegt. In dieser Bakterienkultur ist die zeitliche Änderung der Bakterienanzahl $N$ proportional zur der Anzahl der vorhandenen Bakterien. Der Proportionalitätsfaktor beträgt $k = 0.2 min^{-1}$.  
@@ -82,12 +84,11 @@ $$
 \end{aligned}
 $$
 1) Berechnen Sie, wie viele Bakterien zu Beginn und nach 30 Minuten vorhanden sind.
-$$
-\begin{aligned}
+
+$$\begin{aligned}
 N(0) &= 9.47 \cdot e^0 = 9.47\\
 N(30) &= 9.47 \cdot e^{0.2 \cdot 30} = 9.47 \cdot e^6 \approx 3820.47
-\end{aligned}
-$$
+\end{aligned}$$
 ## Aufgabe 2: Boy’s Aquarium
 Seit den neuesten Buchverfilmungen _Heated Rivalry_ (Rachel Reid) und _Off Campus_ (Elle Kennedy), erlebt Hockey einen riesigen Aufschwung in Besucherzahlen.
 ### 2 a) 
