@@ -3,7 +3,7 @@ tags:
   - m
   - 5te_klasse
 created: 2026-09-21T23:30:30+02:00
-modified: 2026-09-22T04:54:14+02:00
+modified: 2026-09-27T05:30:12+02:00
 ---
 ## Aufgabe 1: Prosit Neujahr
 ### 1 a) 
@@ -22,7 +22,7 @@ $$\begin{aligned}
 T(t) = 5 + 17 \cdot e^{-0.01 \cdot t}
 \end{aligned}$$
 3) Sebi stellt um 23 Uhr eine Bierflasche in den Kühlschrank. Der Abkühlprozess dieser Bierflasche kann durch die Funktion $T(t) = 15 \cdot e^{-0.02t}+3$ modelliert werden (Zeit  in Minuten ab 23 Uhr). Berechnen Sie, welche Temperatur die Bierflasche um Mitternacht haben wird.
-$$\begin{aligned}
+ $$\begin{aligned}
 T(60) =& 15 \cdot e^{0.02 \cdot 60}+3 \\
 &15 \cdot e^{-1.2}+3 \\
 &15 \cdot 0.30119 +3 = 7.5179°C \\
