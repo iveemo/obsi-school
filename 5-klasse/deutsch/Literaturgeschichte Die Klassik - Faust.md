@@ -4,7 +4,7 @@ tags:
   - sprache
   - 5te_klasse
 created: 2026-09-23T13:05:43+02:00
-modified: 2026-09-23T14:28:12+02:00
+modified: 2026-09-30T13:30:35+02:00
 ---
 # Klassik – ein Appetizer: 
 ## Faust, der Teufel und die Frage nach dem Lebensziel 
@@ -49,14 +49,13 @@ Und bin so klug als wie zuvor;“ 
 
 ### Aufgabe 2  (ca. 10 Min.) 
 - Formuliere in einem Satz in deinen eigenen Worten, was Faust hier über sein Leben sagt. 
-Dass er keinen "progress" bemerkt hat
+Dass er keinen vortschritt bemerkt hat
 
 - Erkläre in 1–2 Sätzen laut Buch (S. 54) den Unterschied zwischen Gelehrtentragödie und Gretchentragödie. 
 Es ist das streben nach Wissen (Gelehrtentragödie) oder Lebenslust (Gretchentragödie)
 
 - Wer taucht bei Faust auf, als er ganz unten ist – und wer verbirgt sich dahinter? (S. 54) 
-Mephistopheles, die menschliche Verkörperung des Teufels.
-im 
+Mephistopheles verkörpert ein Pudel.
 
 Faust hat zwar alles gelernt – aber weder Reichtum, Ehre noch ein erfülltes Leben erreicht. In dieser Krise taucht plötzlich ein Pudel auf, der sich als Mephistopheles – der Teufel – entpuppt. 
 
