@@ -64,6 +64,10 @@
     {
       "folder": "5-klasse/recht/Unternehmensrecht",
       "template": "templates/t-unternehmens-recht.md"
+    },
+    {
+      "folder": "5-klasse/diplomarbeit",
+      "template": "templates/diplomarbeit.md"
     }
   ],
   "file_templates": [],

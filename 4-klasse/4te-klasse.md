@@ -14,4 +14,4 @@ tags:
 [[4-klasse/nwt/4kl-nwt]]
 [[4-klasse/sew/4kl-sew]]
 [[4kl-wir]]
-[[Diplomarbeit]]
+[[4-klasse/Diplomarbeit]]
