@@ -3,7 +3,7 @@ tags:
   - recht
   - 5te_klasse
 created: 2026-10-15T11:56:23+02:00
-modified: 2026-10-15T12:02:57+02:00
+modified: 2026-10-15T12:08:09+02:00
 ---
 
 | Text                            | Prokura                                         | HVM                                                         |
