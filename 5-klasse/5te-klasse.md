@@ -1,10 +1,11 @@
 ---
 tags:
   - 5te_Klasse
-modified: 2026-09-27T05:21:30+02:00
+modified: 2026-10-19T08:36:52+02:00
 created: 2026-09-09T03:36:48+02:00
 ---
 [[5kl-deu]]
+[[5kl-diplomarbeit]]
 [[5kl-e]]
 [[5kl-ethik]]
 [[5kl-insy]]

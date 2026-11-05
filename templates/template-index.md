@@ -15,3 +15,4 @@
 [[wir]]
 [[t-öffentliches-recht]]
 [[t-unternehmens-recht]]
+[[templates/diplomarbeit|diplomarbeit]]
