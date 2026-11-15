@@ -4,7 +4,7 @@ tags:
   - 5te_klasse
   - unternehmens-recht
 created: 2026-09-24T11:58:50+02:00
-modified: 2026-09-24T12:59:01+02:00
+modified: 2026-10-11T17:38:05+02:00
 ---
 GWO... Gewerbeordnung
 Gewerbe sind tätigketien die 
