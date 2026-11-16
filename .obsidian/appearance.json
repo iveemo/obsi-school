@@ -16,8 +16,8 @@
     "mermaid-pan-out"
   ],
   "accentColor": "#ffc7c7",
-  "interfaceFontFamily": "Minecraft,Monocraft",
-  "textFontFamily": "Monocraft,Minecraft",
+  "interfaceFontFamily": "Monocraft",
+  "textFontFamily": "Georgia,Monocraft",
   "monospaceFontFamily": "Courier New",
   "cssTheme": "Rosé Pine",
   "theme": "obsidian",
