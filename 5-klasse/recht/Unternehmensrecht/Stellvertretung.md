@@ -4,7 +4,7 @@ tags:
   - recht
   - unternehmens-recht
 created: 2026-10-08T11:58:58+02:00
-modified: 2026-10-08T12:45:31+02:00
+modified: 2026-11-18T20:04:39+01:00
 ---
 ## Prokura
 Freiwillig eingeräumte unternehmensrechtliche Vollmacht, die zu allen arten von Rechtshandlungen ermächtigt, die der Betrieb irgendeines Unternehmens mit sich bringt
@@ -27,7 +27,7 @@ Jederzeit, grundlos, wiederrufbar von beiden seiten
 Tod nur den Prokuristen
 Konkurseröffnung
 
-## Handlungsvormacht
+## Handlungsvollmacht
 Freiwillig eingeräumte unternehmensrechtliche Vollmacht, die zu ==🔵solchen== Rechtshandlungen ermächtigt, die in einem ==🔵derartigen== Unternehmen üblicherweise vorkommen.
 
 Jeder Unternehmhmer und Prokurist darf erteilen
@@ -41,5 +41,5 @@ Arten:
 in Vertretung (i.V.)
 Kann nicht ins FB eingetragen werden.
 Jederzeit, grundlos, wiederrufbar von beiden seiten (aufkündigung)
-Tod nur den Prokuristen
+Tod
 Konkurseröffnung
