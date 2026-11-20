@@ -4,7 +4,7 @@ tags:
   - recht
   - unternehmens-recht
 created: 2026-10-08T11:58:58+02:00
-modified: 2026-11-18T20:04:39+01:00
+modified: 2026-11-19T11:06:07+01:00
 ---
 ## Prokura
 Freiwillig eingeräumte unternehmensrechtliche Vollmacht, die zu allen arten von Rechtshandlungen ermächtigt, die der Betrieb irgendeines Unternehmens mit sich bringt

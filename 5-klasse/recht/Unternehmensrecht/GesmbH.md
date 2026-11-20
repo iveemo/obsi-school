@@ -4,7 +4,7 @@ tags:
   - 5te_klasse
   - unternehmens-recht
 created: 2026-11-05T11:59:44+01:00
-modified: 2026-11-05T12:46:06+01:00
+modified: 2026-11-19T10:36:05+01:00
 ---
 Gesellschaft mit beschränkter Haftung
 von bestand der mitglieder unabhängig
@@ -57,7 +57,7 @@ Bilanzgewinnanspruch
 	Nehmen
 	Reinvestieren
 
-Körperschaftssteuer KöSt23% (Juristische Person)
+Körperschaftssteuer KöSt 23% (Juristische Person)
 Kapitalertragssteuer KESt 27,5% (einnehmen)
 
 Zahlts gleich das volle SKapital ein
